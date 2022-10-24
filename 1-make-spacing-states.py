@@ -24,7 +24,7 @@ _checkSpacingStates = True
 
 sourcesFolder      = '/hipertipo/fonts/Roboto-Flex/sources'
 drawingsFolder     = '1A-drawings'
-sourcesSubFolders  = ['Mains', 'Duovars'] # this takes a long time!!
+sourcesSubFolders  = ['Mains', 'Duovars']
 
 # ---------
 # do stuff!
@@ -52,10 +52,11 @@ if _addSpacingStates:
         vs.saveKerningToLib(f, 'default')
 
         # collapse glyph margins
+        # TO-DO: use beam to adjust protruding glyphs: i j iacute Iacute , ; etc.
+        # this must be done at the same time as the 'plain' margins !!
         vs.smartSetMargins(f, f.glyphOrder, leftMargin=10, rightMargin=10, verbose=False, setUndo=False)
         # modify space glyph
         f['space'].width *= 0.5
-        # - use beam to adjust protruding glyphs: ij,; etc <-- this must be done at the same time as the 'plain' margins !!
 
         # save tight spacing state
         vs.saveSpacingToLib(f, 'tight')

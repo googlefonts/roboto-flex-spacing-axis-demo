@@ -12,6 +12,7 @@ from operator import attrgetter
 from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor
 from fontmake.font_project import FontProject
 from variableSpacing import buildSpacingSources
+from hTools3.modules.webfonts import sfnt2woff2
 
 # ---------------
 # script settings
@@ -21,6 +22,7 @@ _clearOldFiles       = False
 _buildSpacingSources = False
 _ammendDesignspace   = False
 _generateFont        = True
+_generateWOFF2       = True
 _clearFiles          = False
 
 # ------------
@@ -116,6 +118,10 @@ if _generateFont:
     # generate variable font
     P = FontProject()
     P.build_variable_font(designspacePathNew, output_path=varFontPath, verbose=False)
+
+if _generateWOFF2:
+    # generate webfont
+    sfnt2woff2(varFontPath, varFontPath.replace('.ttf', '.woff2'))
 
 if _clearFiles:
     # clear temporary files
