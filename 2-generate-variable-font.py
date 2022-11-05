@@ -19,8 +19,8 @@ from hTools3.modules.webfonts import sfnt2woff2
 # ---------------
 
 _clearOldFiles       = False
-_buildSpacingSources = False
-_ammendDesignspace   = False
+_buildSpacingSources = True
+_ammendDesignspace   = True
 _generateFont        = True
 _generateWOFF2       = True
 _clearFiles          = False
