@@ -37,6 +37,9 @@
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
       }
+      output.form-control {
+        font-size: 0.85em !important;
+      }
       #TRAC_container {
         background-color: black;
       }
@@ -59,7 +62,8 @@
         function axis_sliders_changed() {
           variations = []
           axis_sliders.forEach(function(slider) {
-            variations.push('"' + slider.id + '" ' + slider.value)
+            variations.push('"' + slider.id + '" ' + slider.value);
+            document.getElementById(slider.id + '_value').value = slider.value;
           })
           for (var i = 0; i < font_samples.length; i++) {
             font_samples[i].style.fontVariationSettings = variations.join(", ")
@@ -67,6 +71,7 @@
         }
 
         function fontsize_slider_changed() {
+          document.getElementById('fontsize_value').value = fontsize_slider.value;
           for (var i = 0; i < font_samples.length; i++) {
             font_samples[i].style.fontSize = fontsize_slider.value + "pt"
             font_samples[i].style.lineHeight = (fontsize_slider.value * lineheight_slider.value) + "pt"
@@ -78,12 +83,14 @@
         }
 
         function lineheight_slider_changed() {
+          document.getElementById('lineheight_value').value = lineheight_slider.value;
           for (var i = 0; i < font_samples.length; i++) {
             font_samples[i].style.lineHeight = (fontsize_slider.value * lineheight_slider.value) + "pt"
           }
         }
 
         function tracking_slider_changed() {
+          document.getElementById('tracking_value').value = tracking_slider.value;
           font_samples_trac = document.querySelectorAll(".Roboto-Flex");
           for (var i = 0; i < font_samples_trac.length; i++) {
             font_samples_trac[i].style.letterSpacing = tracking_slider.value * 0.001 + "em"
@@ -139,15 +146,18 @@
   <body class='h-100 overflow-hidden'>
     <div class='container-fluid p-3'>
       <div class="row">
-        <div class="col-3 col-lg-2">
+        <div class="col-4 col-lg-3">
 
           <h3 class='h6'>text properties</h3>
           <div class="row">
             <div class="col-4">
               <label for="fontsize" class="form-label"><small>font size</small></label>
             </div>
-            <div class="col-8">
+            <div class="col-6">
               <input type="range" class="form-range" min="8" max="144" value='18' id="fontsize">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='fontsize_value'>18</output>
             </div>
           </div>
 
@@ -155,8 +165,11 @@
             <div class="col-4">
               <label for="lineheight" class="form-label"><small>line height</small></label>
             </div>
-            <div class="col-8">
-              <input type="range" class="form-range" min="1.0" max="1.6" value='1.2' step="0.05" id="lineheight">
+            <div class="col-6">
+              <input type="range" class="form-range" min="1.00" max="1.60" value='1.20' step="0.05" id="lineheight">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='lineheight_value'>1.20</output>
             </div>
           </div>
 
@@ -164,8 +177,11 @@
             <div class="col-4">
               <label for="TRAC" class="form-label"><small>tracking</small></label>
             </div>
-            <div class="col-8">
+            <div class="col-6">
               <input type="range" class="form-range" min="-100" max="0" value='0' id="tracking">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='tracking_value'>0</output>
             </div>
           </div>
 
@@ -176,8 +192,11 @@
             <div class="col-4">
               <label for="opsz" class="form-label"><small>optical size</small></label>
             </div>
-            <div class="col-8">
+            <div class="col-6">
               <input type="range" class="form-range axis" min="8" max="144" value='18' id="opsz">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='opsz_value'>18</output>
             </div>
           </div>
 
@@ -185,8 +204,11 @@
             <div class="col-4">
               <label for="wght" class="form-label"><small>weight</small></label>
             </div>
-            <div class="col-8">
+            <div class="col-6">
               <input type="range" class="form-range axis" min="100" max="1000" value='400' id="wght">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='wght_value'>400</output>
             </div>
           </div>
 
@@ -194,8 +216,11 @@
             <div class="col-4">
               <label for="wdth" class="form-label"><small>width</small></label>
             </div>
-            <div class="col-8">
+            <div class="col-6">
               <input type="range" class="form-range axis" min="25" max="151" value='100' id="wdth">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='wdth_value'>100</output>
             </div>
           </div>
 
@@ -203,8 +228,11 @@
             <div class="col-4">
               <label for="slnt" class="form-label"><small>slant</small></label>
             </div>
-            <div class="col-8">
+            <div class="col-6">
               <input type="range" class="form-range axis" min="-10" max="0" value='0' id="slnt">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='slnt_value'>0</output>
             </div>
           </div>
 
@@ -212,8 +240,11 @@
             <div class="col-4">
               <label for="GRAD" class="form-label"><small>grade</small></label>
             </div>
-            <div class="col-8">
+            <div class="col-6">
               <input type="range" class="form-range axis" min="-200" max="150" value='0' id="GRAD">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='GRAD_value'>0</output>
             </div>
           </div>
 
@@ -221,8 +252,11 @@
             <div class="col-4">
               <label for="SPAC" class="form-label"><small>spacing</small></label>
             </div>
-            <div class="col-8">
+            <div class="col-6">
               <input type="range" class="form-range axis" min="-100" max="0" value='0' id="SPAC">
+            </div>
+            <div class="col-2">
+              <output class="form-control text-light border-0 bg-transparent" id='SPAC_value'>0</output>
             </div>
           </div>
 
@@ -253,7 +287,7 @@
 
         </div>
 
-        <div class="col-9 col-lg-10 vh-100 position-relative">
+        <div class="col-8 col-lg-9 vh-100 position-relative">
           <div class="position-absolute top-0 start-0 vh-50 ms-3 overflow-hidden">
             <span class="badge bg-primary float-end me-1">spacing</span>
             <p id='sample_SPAC' class='sample Roboto-Flex-SPAC' contenteditable="true">
