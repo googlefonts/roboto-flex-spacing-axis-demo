@@ -85,7 +85,7 @@ if _ammendDesignspace:
     spacingAxis = AxisDescriptor()
     spacingAxis.name = spacingAxis.tag = 'SPAC'
     spacingAxis.labelNames['en'] = 'spacing'
-    spacingAxis.maximum = 0
+    spacingAxis.maximum = 100
     spacingAxis.minimum = -100
     spacingAxis.default = 0
     D.addAxis(spacingAxis)
@@ -94,13 +94,14 @@ if _ammendDesignspace:
     sources = []
     for source in D.sources:
         print(f'\t\tadding default location to {source.filename}...')
+
         # update existing sources with neutral spacing location 
         source.location['SPAC'] = 0
         sources.append(source)
+
         # add new sources with tight spacing (-100)
         spacingSourcePath = source.filename.replace('.ufo', f'{prefix}tight.ufo')
         if os.path.join(sourcesFolder, spacingSourcePath) not in spacingSources:
-            # print(f'\t\tERROR: {spacingSourcePath} does not exist!')
             continue
         print(f'\t\tadding new source for {spacingSourcePath}...')
         newLocation = source.location.copy()
@@ -110,6 +111,20 @@ if _ammendDesignspace:
         srcSpacing.filename   = spacingSourcePath
         srcSpacing.location   = newLocation
         sources.append(srcSpacing)
+
+        # add new sources with loose spacing (+100)
+        spacingSourcePath = source.filename.replace('.ufo', f'{prefix}loose.ufo')
+        if os.path.join(sourcesFolder, spacingSourcePath) not in spacingSources:
+            continue
+        print(f'\t\tadding new source for {spacingSourcePath}...')
+        newLocation = source.location.copy()
+        newLocation['SPAC'] = 100
+        srcSpacing = SourceDescriptor()
+        srcSpacing.familyName = source.familyName
+        srcSpacing.filename   = spacingSourcePath
+        srcSpacing.location   = newLocation
+        sources.append(srcSpacing)
+
     D.sources = sorted(sources, key=attrgetter('filename'))
     D.write(designspacePathNew)
     print('...done.\n')
