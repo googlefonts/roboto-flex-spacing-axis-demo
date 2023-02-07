@@ -1,6 +1,13 @@
-# make sure VariableSpacing is installed
+'''
+delete spacing state from sources
+
+'''
+# local variables
+modulePath    = '/Users/sergiogonzalez/Desktop/hipertipo/tools/VariableSpacing/code/Lib' # '/hipertipo/tools/VariableSpacing/code/Lib'
+sourcesFolder = '/Users/sergiogonzalez/Desktop/hipertipo/fonts/roboto-flex/sources'      # '/hipertipo/fonts/Roboto-Flex/sources'
+
+# make sure that the VariableSpacing module is installed
 import sys
-modulePath = '/hipertipo/tools/VariableSpacing/code/Lib'
 if modulePath not in sys.path:
     sys.path.append(modulePath)
 from importlib import reload
@@ -11,20 +18,16 @@ import os, glob
 from fontParts.world import OpenFont
 import variableSpacing as vs
 
+drawingsFolder     = '1A-drawings'
+sourcesSubFolders  = ['Mains', 'Duovars']
+
 # ---------------
 # script settings
 # ---------------
 
-_clearSpacingState  = True
+_spacingStateName   = 'loose'
+_deleteSpacingState = False
 _checkSpacingStates = True
-
-# ------------
-# project data
-# ------------
-
-sourcesFolder      = '/hipertipo/fonts/Roboto-Flex/sources'
-drawingsFolder     = '1A-drawings'
-sourcesSubFolders  = ['Mains', 'Duovars']
 
 # ---------
 # do stuff!
@@ -37,12 +40,12 @@ for subFolder in sourcesSubFolders:
     sources += glob.glob(f'{folder}/*.ufo')
 sources = [s for s in sources if 'GRAD' not in s]
 
-if _clearSpacingState:
+if _deleteSpacingState:
     # add spacing states to fonts
     for ufoPath in sources:
         f = OpenFont(ufoPath, showInterface=False)
-        print(f"deleting 'loose' spacing from {ufoPath}...")
-        vs.deleteSpacingState(f, 'loose')
+        print(f"deleting '{_spacingStateName}' spacing state from {ufoPath}...")
+        vs.deleteSpacingState(f, _spacingStateName)
         f.save()
         f.close()
 

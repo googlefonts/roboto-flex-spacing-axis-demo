@@ -3,10 +3,9 @@ import spacing states from JSON files
 into UFO sources of the same name
 
 '''
-
 # local variables
-modulePath    = '/hipertipo/tools/VariableSpacing/code/Lib'
-sourcesFolder = '/hipertipo/fonts/Roboto-Flex/sources'
+modulePath    = '/Users/sergiogonzalez/Desktop/hipertipo/tools/VariableSpacing/code/Lib' # '/hipertipo/tools/VariableSpacing/code/Lib'
+sourcesFolder = '/Users/sergiogonzalez/Desktop/hipertipo/fonts/roboto-flex/sources'      # '/hipertipo/fonts/Roboto-Flex/sources'
 
 # make sure that the VariableSpacing module is installed
 import sys
@@ -17,10 +16,11 @@ import variableSpacing
 reload(variableSpacing)
 
 import os, glob
+from fontParts.world import OpenFont
 from variableSpacing import *
 
 # collect all json files with spacing states
-baseFolder = os.getcwd()
+baseFolder = os.path.dirname(os.getcwd())
 spacingStatesFolder = os.path.join(baseFolder, 'spacing states')
 spacingStates = {}
 jsonFiles = glob.glob(f'{spacingStatesFolder}/*.json')
