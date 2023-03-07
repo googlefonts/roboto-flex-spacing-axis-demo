@@ -25,11 +25,15 @@ sourcesFolder = '/Users/sergiogonzalez/Desktop/hipertipo/fonts/roboto-flex/sourc
 
 _addLooseSpacingState = True
 _scaleLooseState      = 200
-_checkSpacingStates   = True
+_checkSpacingStates   = False
 _findNegativeWidths   = False
 
 drawingsFolder        = '1A-drawings'
 sourcesSubFolders     = ['Mains', 'Duovars']
+
+fontNames = [
+    'RobotoFlex_opsz144_wght1000.ufo',
+]
 
 # ---------
 # do stuff!
@@ -47,6 +51,16 @@ if _addLooseSpacingState:
     # add spacing states to sources
     for ufoPath in sources:
         f = OpenFont(ufoPath, showInterface=False)
+
+        if os.path.split(ufoPath)[-1] not in fontNames:
+            continue
+
+        # add 'loose' only to fonts which already have 'tight' and 'default'
+        existingStates = vs.getSpacingStates(f)
+        if 'tight' not in existingStates:
+            print(f"skipping {ufoPath}...")
+            continue
+
         print(f"creating 'loose' spacing state in {ufoPath}...")
 
         # we assume that the default spacing state is already saved
@@ -56,7 +70,11 @@ if _addLooseSpacingState:
         # increase all glyph margins by % -- DO NOT modify the space glyph!
         vs.smartSetMargins(f, f.glyphOrder, leftMargin=_scaleLooseState, leftMode=2, rightMargin=_scaleLooseState, rightMode=2, setUndo=False)
 
-        ### WHAT TO DO WITH KERNING?
+        # set all kerning to zero
+        kerning = {}
+        for pair, value in f.kerning.items():
+            kerning[pair] = 1 if value > 0 else -1
+        f.kerning.update(kerning)
 
         # save the new 'loose' spacing state
         vs.saveSpacingToLib(f, 'loose')

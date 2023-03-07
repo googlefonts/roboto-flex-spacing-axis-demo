@@ -1,6 +1,7 @@
 '''
 build Roboto Flex SPAC variable font
 
+- (import spacing states from JSON files) (currently a separate script)
 - take RobotoFlex sources with spacing state libs
 - build spacing states as separate UFO sources
 - change the designspace to include a SPAC axis and the new sources
@@ -9,9 +10,9 @@ build Roboto Flex SPAC variable font
 
 WARNING: this script takes a very long time to run!
 
-the current performance bottleneck is the function `loadSpacingFromLib`
+the current performance bottleneck is `loadSpacingFromLib`
 TL:DR; when the left margin of a glyph is changed,
-we need to make sure that all its components stay in place
+make sure that all its components stay in place
 
 '''
 
@@ -43,16 +44,14 @@ from hTools3.modules.webfonts import sfnt2woff2
 _clearOldFiles        = False
 _buildSpacingSources  = False
 _ammendDesignspace    = False
-_generateVariableFont = False
+_generateVariableFont = True
 _generateWOFF2        = True
 _clearFiles           = False
-
 # input
 drawingsFolder        = '1A-drawings'
 sourcesSubFolders     = ['Mains', 'Duovars']
 designspacePath       = os.path.join(sourcesFolder, 'RobotoFlex.designspace')
-designspacePathNew    = designspacePath.replace('.designspace', '_spacing-axis.designspace') # '_SPAC.designspace'
-
+designspacePathNew    = designspacePath.replace('.designspace', '_SPAC.designspace') # '_SPAC.designspace'
 # output
 varFontPath           = os.path.join(outputFolder, 'Roboto-Flex_SPAC.ttf')
 prefix                = '_SPAC-'
@@ -62,9 +61,11 @@ prefix                = '_SPAC-'
 # ------
 
 if _clearOldFiles:
-    # clean-up spacing axis files
+    # delete variable font
     if os.path.exists(varFontPath):
         os.remove(varFontPath)
+
+    # delete modified designspace file
     if os.path.exists(designspacePathNew):
         os.remove(designspacePathNew)
 
@@ -79,7 +80,7 @@ if _clearOldFiles:
         shutil.rmtree(ufo)
 
 if _buildSpacingSources:
-    # build 'tight' states as separate spacing sources (temporary)
+    # build spacing states as separate temporary sources
     newSources = []
     for subFolder in sourcesSubFolders:
         folder = os.path.join(sourcesFolder, drawingsFolder, subFolder)
@@ -96,7 +97,7 @@ if _ammendDesignspace:
     print(f'duplicating designspace as {designspacePathNew}...')
     shutil.copyfile(designspacePath, designspacePathNew)
 
-    # modify designspace
+    # modify the designspace
     D = DesignSpaceDocument()
     D.read(designspacePathNew)
     print('\tadding spacing axis to designspace...')

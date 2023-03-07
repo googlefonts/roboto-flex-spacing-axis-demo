@@ -26,7 +26,7 @@ sourcesSubFolders  = ['Mains', 'Duovars']
 # ---------------
 
 _spacingStateName   = 'loose'
-_deleteSpacingState = False
+_deleteSpacingState = True
 _checkSpacingStates = True
 
 # ---------

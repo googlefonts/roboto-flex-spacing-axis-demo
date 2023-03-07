@@ -3784,8 +3784,8 @@
     },
     "loose": {
       ".notdef": {
-        "leftMargin": 150.0,
-        "width": 1008.0
+        "leftMargin": 200.0,
+        "width": 1108.0
       },
       ".null": {
         "width": 0
@@ -3795,12 +3795,12 @@
         "width": 1280
       },
       "AE": {
-        "leftMargin": -22.5,
-        "width": 1940.5
+        "leftMargin": -30.0,
+        "width": 1967.0
       },
       "AEacute": {
-        "leftMargin": -22.5,
-        "width": 1940.5
+        "leftMargin": -30.0,
+        "width": 1967.0
       },
       "Aacute": {
         "leftMargin": 0,
@@ -3840,7 +3840,7 @@
       },
       "Acircumflexacute": {
         "leftMargin": 0,
-        "width": 1245.5
+        "width": 1211.0
       },
       "Acircumflexdotbelow": {
         "leftMargin": 0,
@@ -3908,7 +3908,7 @@
       },
       "Aogonek": {
         "leftMargin": 0,
-        "width": 1219.0
+        "width": 1158.0
       },
       "Aring": {
         "leftMargin": 0,
@@ -3923,3443 +3923,3450 @@
         "width": 1280
       },
       "B": {
-        "leftMargin": 255.0,
-        "width": 1395.0
+        "leftMargin": 340.0,
+        "width": 1530.0
       },
       "Be": {
-        "leftMargin": 255.0,
-        "width": 1310.0
+        "leftMargin": 340.0,
+        "width": 1420.0
       },
       "Beta": {
-        "leftMargin": 255.0,
-        "width": 1395.0
+        "leftMargin": 340.0,
+        "width": 1530.0
       },
       "C": {
-        "leftMargin": 172.5,
-        "width": 1458.5
+        "leftMargin": 230.0,
+        "width": 1558.0
       },
       "CR": {
         "width": 508
       },
       "Cacute": {
-        "leftMargin": 172.5,
-        "width": 1458.5
+        "leftMargin": 230.0,
+        "width": 1558.0
       },
       "Ccaron": {
-        "leftMargin": 172.5,
-        "width": 1458.5
+        "leftMargin": 230.0,
+        "width": 1558.0
       },
       "Ccedilla": {
-        "leftMargin": 172.5,
-        "width": 1458.5
+        "leftMargin": 230.0,
+        "width": 1558.0
       },
       "Ccircumflex": {
-        "leftMargin": 172.5,
-        "width": 1458.5
+        "leftMargin": 230.0,
+        "width": 1558.0
       },
       "Cdotaccent": {
-        "leftMargin": 172.5,
-        "width": 1458.5
+        "leftMargin": 230.0,
+        "width": 1558.0
       },
       "Che": {
-        "leftMargin": 210.0,
-        "width": 1543.0
+        "leftMargin": 280.0,
+        "width": 1698.0
       },
       "Chedescender-cy": {
-        "leftMargin": 210.0,
-        "width": 1513.0
+        "leftMargin": 280.0,
+        "width": 1598.0
       },
       "Cheverticalstroke-cy": {
-        "leftMargin": 210.0,
-        "width": 1543.0
+        "leftMargin": 280.0,
+        "width": 1698.0
       },
       "Chi": {
-        "leftMargin": 37.5,
-        "width": 1247.0
+        "leftMargin": 50.0,
+        "width": 1272.0
       },
       "D": {
-        "leftMargin": 255.0,
-        "width": 1512.5
+        "leftMargin": 340.0,
+        "width": 1655.0
       },
       "DZcaron": {
-        "leftMargin": 255.0,
-        "width": 2655.0
+        "leftMargin": 340.0,
+        "width": 2773.0
       },
       "Dcaron": {
-        "leftMargin": 255.0,
-        "width": 1512.5
+        "leftMargin": 340.0,
+        "width": 1655.0
       },
       "Dcroat": {
-        "leftMargin": 30.0,
-        "width": 1437.0
+        "leftMargin": 40.0,
+        "width": 1504.0
       },
       "De": {
-        "leftMargin": 15.0,
-        "width": 1492.0
+        "leftMargin": 20.0,
+        "width": 1512.0
       },
       "De.bgr": {
-        "leftMargin": 15.0,
-        "width": 1494.0
+        "leftMargin": 20.0,
+        "width": 1504.0
       },
       "Delta": {
-        "leftMargin": 43.5,
-        "width": 1322.5
+        "leftMargin": 58.0,
+        "width": 1351.0
       },
       "Dje": {
-        "leftMargin": 36.0,
-        "width": 1680.5
+        "leftMargin": 48.0,
+        "width": 1745.0
       },
       "Dzcaron": {
-        "leftMargin": 255.0,
-        "width": 2479.0
+        "leftMargin": 340.0,
+        "width": 2596.0
       },
       "Dze": {
-        "leftMargin": 135.0,
-        "width": 1305.0
+        "leftMargin": 180.0,
+        "width": 1390.0
       },
       "Dzhe": {
-        "leftMargin": 255.0,
-        "width": 1608.0
+        "leftMargin": 340.0,
+        "width": 1778.0
       },
       "E": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Eacute": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Ebreve": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Ebrevecyr": {
-        "leftMargin": 126.0,
-        "width": 1458.5
+        "leftMargin": 168.0,
+        "width": 1558.0
       },
       "Ecaron": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Ecircumflex": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Ecircumflexacute": {
-        "leftMargin": 255.0,
-        "width": 1156.5
+        "leftMargin": 340.0,
+        "width": 1151.0
       },
       "Ecircumflexdotbelow": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Ecircumflexgrave": {
-        "leftMargin": 255.0,
-        "width": 1234.5
+        "leftMargin": 340.0,
+        "width": 1307.0
       },
       "Ecircumflexhookabove": {
-        "leftMargin": 255.0,
-        "width": 1212.0
+        "leftMargin": 340.0,
+        "width": 1262.0
       },
       "Ecircumflextilde": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Ecyr": {
-        "leftMargin": 126.0,
-        "width": 1458.5
+        "leftMargin": 168.0,
+        "width": 1558.0
       },
       "Edblgrave": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Edieresis": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Edotaccent": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Edotbelow": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Ef": {
-        "leftMargin": 157.5,
-        "width": 1850.0
+        "leftMargin": 210.0,
+        "width": 1955.0
       },
       "Egrave": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Ehookabove": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Einvertedbreve": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "El": {
-        "leftMargin": 15.0,
-        "width": 1538.0
+        "leftMargin": 20.0,
+        "width": 1628.0
       },
       "El.bgr": {
         "leftMargin": 0,
         "width": 1260
       },
       "Em": {
-        "leftMargin": 255.0,
-        "width": 1960.0
+        "leftMargin": 340.0,
+        "width": 2130.0
       },
       "Emacron": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Emacroncyr": {
-        "leftMargin": 126.0,
-        "width": 1458.5
+        "leftMargin": 168.0,
+        "width": 1558.0
       },
       "En": {
-        "leftMargin": 255.0,
-        "width": 1628.0
+        "leftMargin": 340.0,
+        "width": 1798.0
       },
       "Endescender": {
-        "leftMargin": 255.0,
-        "width": 1598.0
+        "leftMargin": 340.0,
+        "width": 1698.0
       },
       "Eng": {
-        "leftMargin": 255.0,
-        "width": 1630.0
+        "leftMargin": 340.0,
+        "width": 1800.0
       },
       "Eogonek": {
-        "leftMargin": 255.0,
-        "width": 1171.0
+        "leftMargin": 340.0,
+        "width": 1180.0
       },
       "Epsilon": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Epsilontonos": {
-        "leftMargin": -15.0,
-        "width": 1439.0
+        "leftMargin": -20.0,
+        "width": 1468.0
       },
       "Er": {
-        "leftMargin": 255.0,
-        "width": 1310.0
+        "leftMargin": 340.0,
+        "width": 1420.0
       },
       "Es": {
-        "leftMargin": 172.5,
-        "width": 1458.5
+        "leftMargin": 230.0,
+        "width": 1558.0
       },
       "Esdescendercyr": {
-        "leftMargin": 172.5,
-        "width": 1458.5
+        "leftMargin": 230.0,
+        "width": 1558.0
       },
       "Eta": {
-        "leftMargin": 255.0,
-        "width": 1628.0
+        "leftMargin": 340.0,
+        "width": 1798.0
       },
       "Etatonos": {
-        "leftMargin": -15.0,
-        "width": 1786.0
+        "leftMargin": -20.0,
+        "width": 1866.0
       },
       "Eth": {
-        "leftMargin": 30.0,
-        "width": 1437.5
+        "leftMargin": 40.0,
+        "width": 1505.0
       },
       "Etilde": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Euro": {
-        "leftMargin": 33.0,
-        "width": 1031.5
+        "leftMargin": 44.0,
+        "width": 1039.0
       },
       "F": {
-        "leftMargin": 255.0,
-        "width": 1244.0
+        "leftMargin": 340.0,
+        "width": 1358.0
       },
       "G": {
-        "leftMargin": 172.5,
-        "width": 1529.0
+        "leftMargin": 230.0,
+        "width": 1651.0
       },
       "Gamma": {
-        "leftMargin": 255.0,
-        "width": 1174.5
+        "leftMargin": 340.0,
+        "width": 1272.0
       },
       "Gbreve": {
-        "leftMargin": 172.5,
-        "width": 1529.0
+        "leftMargin": 230.0,
+        "width": 1651.0
       },
       "Gcaron": {
-        "leftMargin": 172.5,
-        "width": 1529.0
+        "leftMargin": 230.0,
+        "width": 1651.0
       },
       "Gcircumflex": {
-        "leftMargin": 172.5,
-        "width": 1529.0
+        "leftMargin": 230.0,
+        "width": 1651.0
       },
       "Gcommaaccent": {
-        "leftMargin": 172.5,
-        "width": 1529.0
+        "leftMargin": 230.0,
+        "width": 1651.0
       },
       "Gdotaccent": {
-        "leftMargin": 172.5,
-        "width": 1529.0
+        "leftMargin": 230.0,
+        "width": 1651.0
       },
       "Germandbls": {
-        "leftMargin": 19.5,
-        "width": 1495.5
+        "leftMargin": 26.0,
+        "width": 1542.0
       },
       "Ghe": {
-        "leftMargin": 255.0,
-        "width": 1174.5
+        "leftMargin": 340.0,
+        "width": 1272.0
       },
       "Ghestroke": {
-        "leftMargin": 30.0,
-        "width": 1099.5
+        "leftMargin": 40.0,
+        "width": 1122.0
       },
       "Gheup": {
-        "leftMargin": 255.0,
-        "width": 1174.5
+        "leftMargin": 340.0,
+        "width": 1272.0
       },
       "Gje": {
-        "leftMargin": 255.0,
-        "width": 1174.5
+        "leftMargin": 340.0,
+        "width": 1272.0
       },
       "H": {
-        "leftMargin": 255.0,
-        "width": 1628.0
+        "leftMargin": 340.0,
+        "width": 1798.0
       },
       "Ha": {
-        "leftMargin": 37.5,
-        "width": 1247.0
+        "leftMargin": 50.0,
+        "width": 1272.0
       },
       "Hadescender": {
-        "leftMargin": 37.5,
-        "width": 1207.5
+        "leftMargin": 50.0,
+        "width": 1194.0
       },
       "Hard": {
-        "leftMargin": 36.0,
-        "width": 1366.0
+        "leftMargin": 48.0,
+        "width": 1403.0
       },
       "Hastroke-cy": {
-        "leftMargin": 37.5,
-        "width": 1247.0
+        "leftMargin": 50.0,
+        "width": 1272.0
       },
       "Hbar": {
-        "leftMargin": 9.0,
-        "width": 1464.0
+        "leftMargin": 12.0,
+        "width": 1470.0
       },
       "Hcircumflex": {
-        "leftMargin": 255.0,
-        "width": 1628.0
+        "leftMargin": 340.0,
+        "width": 1798.0
       },
       "I": {
-        "leftMargin": 262.5,
-        "width": 717.0
+        "leftMargin": 350.0,
+        "width": 892.0
       },
       "IJ": {
-        "leftMargin": 262.5,
-        "width": 1807.0
+        "leftMargin": 350.0,
+        "width": 1972.0
       },
       "IJacute": {
-        "leftMargin": 262.5,
-        "width": 1723.0
+        "leftMargin": 350.0,
+        "width": 1804.0
       },
       "Iacute": {
-        "leftMargin": 232.5,
-        "width": 625.5
+        "leftMargin": 310.0,
+        "width": 709.0
       },
       "Ibreve": {
-        "leftMargin": -168.0,
-        "width": 429.5
+        "leftMargin": -224.0,
+        "width": 317.0
       },
       "Icircumflex": {
-        "leftMargin": -103.5,
-        "width": 480.0
+        "leftMargin": -138.0,
+        "width": 418.0
       },
       "Icyr": {
-        "leftMargin": 255.0,
-        "width": 1648.0
+        "leftMargin": 340.0,
+        "width": 1818.0
       },
       "Idblgrave": {
-        "leftMargin": -165.0,
-        "width": 488.5
+        "leftMargin": -220.0,
+        "width": 435.0
       },
       "Idieresis": {
-        "leftMargin": -112.5,
-        "width": 467.0
+        "leftMargin": -150.0,
+        "width": 392.0
       },
       "Idotaccent": {
-        "leftMargin": 232.5,
-        "width": 697.0
+        "leftMargin": 310.0,
+        "width": 852.0
       },
       "Idotbelow": {
-        "leftMargin": 232.5,
-        "width": 697.0
+        "leftMargin": 310.0,
+        "width": 852.0
       },
       "Ie": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Iebrevecyr": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Iemacroncyr": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Ieukran": {
-        "leftMargin": 172.5,
-        "width": 1458.5
+        "leftMargin": 230.0,
+        "width": 1558.0
       },
       "Igrave": {
-        "leftMargin": -15.0,
-        "width": 624.5
+        "leftMargin": -20.0,
+        "width": 707.0
       },
       "Igravecyr": {
-        "leftMargin": 255.0,
-        "width": 1648.0
+        "leftMargin": 340.0,
+        "width": 1818.0
       },
       "Ihookabove": {
-        "leftMargin": 16.5,
-        "width": 555.0
+        "leftMargin": 22.0,
+        "width": 568.0
       },
       "Iinvertedbreve": {
-        "leftMargin": -168.0,
-        "width": 429.5
+        "leftMargin": -224.0,
+        "width": 317.0
       },
       "Imacron": {
-        "leftMargin": -37.5,
-        "width": 517.0
+        "leftMargin": -50.0,
+        "width": 492.0
       },
       "Io": {
-        "leftMargin": 255.0,
-        "width": 1281.0
+        "leftMargin": 340.0,
+        "width": 1400.0
       },
       "Iogonek": {
-        "leftMargin": -43.5,
-        "width": 522.0
+        "leftMargin": -58.0,
+        "width": 502.0
       },
       "Iota": {
-        "leftMargin": 262.5,
-        "width": 717.0
+        "leftMargin": 350.0,
+        "width": 892.0
       },
       "Iotadieresis": {
-        "leftMargin": -112.5,
-        "width": 467.0
+        "leftMargin": -150.0,
+        "width": 392.0
       },
       "Iotatonos": {
-        "leftMargin": -15.0,
-        "width": 872.5
+        "leftMargin": -20.0,
+        "width": 955.0
       },
       "Ishort": {
-        "leftMargin": 255.0,
-        "width": 1648.0
+        "leftMargin": 340.0,
+        "width": 1818.0
       },
       "Itilde": {
-        "leftMargin": -204.0,
-        "width": 396.0
+        "leftMargin": -272.0,
+        "width": 250.0
       },
       "Iukran": {
-        "leftMargin": 262.5,
-        "width": 717.0
+        "leftMargin": 350.0,
+        "width": 892.0
       },
       "J": {
-        "leftMargin": 37.5,
-        "width": 1190.0
+        "leftMargin": 50.0,
+        "width": 1280.0
       },
       "Jacute.loclNLD": {
-        "leftMargin": 37.5,
-        "width": 1106.0
+        "leftMargin": 50.0,
+        "width": 1112.0
       },
       "Jcircumflex": {
-        "leftMargin": 37.5,
-        "width": 1072.5
+        "leftMargin": 50.0,
+        "width": 1045.0
       },
       "Je": {
-        "leftMargin": 37.5,
-        "width": 1190.0
+        "leftMargin": 50.0,
+        "width": 1280.0
       },
       "K": {
-        "leftMargin": 255.0,
-        "width": 1341.0
+        "leftMargin": 340.0,
+        "width": 1416.0
       },
       "Ka": {
-        "leftMargin": 255.0,
-        "width": 1341.0
+        "leftMargin": 340.0,
+        "width": 1416.0
       },
       "Ka.bgr": {
-        "leftMargin": 255.0,
-        "width": 1341.0
+        "leftMargin": 340.0,
+        "width": 1416.0
       },
       "Kabashkircyr": {
-        "leftMargin": 36.0,
-        "width": 1497.0
+        "leftMargin": 48.0,
+        "width": 1499.0
       },
       "Kadescender": {
-        "leftMargin": 255.0,
-        "width": 1349.0
+        "leftMargin": 340.0,
+        "width": 1408.0
       },
       "Kaisymbol": {
-        "leftMargin": 255.0,
-        "width": 1345.0
+        "leftMargin": 340.0,
+        "width": 1424.0
       },
       "Kappa": {
-        "leftMargin": 255.0,
-        "width": 1341.0
+        "leftMargin": 340.0,
+        "width": 1416.0
       },
       "Kaverticalstrokecyr": {
-        "leftMargin": 255.0,
-        "width": 1551.0
+        "leftMargin": 340.0,
+        "width": 1626.0
       },
       "Kcommaaccent": {
-        "leftMargin": 255.0,
-        "width": 1341.0
+        "leftMargin": 340.0,
+        "width": 1416.0
       },
       "Kje": {
-        "leftMargin": 255.0,
-        "width": 1341.0
+        "leftMargin": 340.0,
+        "width": 1416.0
       },
       "L": {
-        "leftMargin": 255.0,
-        "width": 1218.0
+        "leftMargin": 340.0,
+        "width": 1330.0
       },
       "LJ": {
-        "leftMargin": 255.0,
-        "width": 2368.5
+        "leftMargin": 340.0,
+        "width": 2531.0
       },
       "Lacute": {
-        "leftMargin": 255.0,
-        "width": 1218.0
+        "leftMargin": 340.0,
+        "width": 1330.0
       },
       "Lambda": {
         "leftMargin": 0,
         "width": 1240
       },
       "Lcaron": {
-        "leftMargin": 255.0,
-        "width": 1188.5
+        "leftMargin": 340.0,
+        "width": 1271.0
       },
       "Lcommaaccent": {
-        "leftMargin": 255.0,
-        "width": 1218.0
+        "leftMargin": 340.0,
+        "width": 1330.0
       },
       "Ldot": {
-        "leftMargin": 255.0,
-        "width": 1218.0
+        "leftMargin": 340.0,
+        "width": 1330.0
       },
       "Lj": {
-        "leftMargin": 255.0,
-        "width": 1758.0
+        "leftMargin": 340.0,
+        "width": 1910.0
       },
       "Lje": {
-        "leftMargin": 15.0,
-        "width": 2066.0
+        "leftMargin": 20.0,
+        "width": 2096.0
       },
       "Lslash": {
-        "leftMargin": 1.5,
-        "width": 1133.5
+        "leftMargin": 2.0,
+        "width": 1161.0
       },
       "M": {
-        "leftMargin": 255.0,
-        "width": 1960.0
+        "leftMargin": 340.0,
+        "width": 2130.0
       },
       "Mu": {
-        "leftMargin": 255.0,
-        "width": 1960.0
+        "leftMargin": 340.0,
+        "width": 2130.0
       },
       "N": {
-        "leftMargin": 255.0,
-        "width": 1630.0
+        "leftMargin": 340.0,
+        "width": 1800.0
       },
       "NJ": {
-        "leftMargin": 255.0,
-        "width": 2722.5
+        "leftMargin": 340.0,
+        "width": 2885.0
       },
       "Nacute": {
-        "leftMargin": 255.0,
-        "width": 1630.0
+        "leftMargin": 340.0,
+        "width": 1800.0
       },
       "Ncaron": {
-        "leftMargin": 255.0,
-        "width": 1630.0
+        "leftMargin": 340.0,
+        "width": 1800.0
       },
       "Ncommaaccent": {
-        "leftMargin": 255.0,
-        "width": 1630.0
+        "leftMargin": 340.0,
+        "width": 1800.0
       },
       "Nj": {
-        "leftMargin": 255.0,
-        "width": 2112.0
+        "leftMargin": 340.0,
+        "width": 2264.0
       },
       "Nje": {
-        "leftMargin": 255.0,
-        "width": 2136.0
+        "leftMargin": 340.0,
+        "width": 2246.0
       },
       "Ntilde": {
-        "leftMargin": 255.0,
-        "width": 1630.0
+        "leftMargin": 340.0,
+        "width": 1800.0
       },
       "Nu": {
-        "leftMargin": 255.0,
-        "width": 1630.0
+        "leftMargin": 340.0,
+        "width": 1800.0
       },
       "O": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "OE": {
-        "leftMargin": 172.5,
-        "width": 1970.5
+        "leftMargin": 230.0,
+        "width": 2062.0
       },
       "Oacute": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Obarcyr": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Obreve": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Obrevecyr": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ocircumflex": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ocircumflexacute": {
-        "leftMargin": 172.5,
-        "width": 1528.0
+        "leftMargin": 230.0,
+        "width": 1596.0
       },
       "Ocircumflexdotbelow": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ocircumflexgrave": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ocircumflexhookabove": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ocircumflextilde": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ocyr": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Odblgrave": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Odieresis": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Odieresiscyr": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Odieresismacron": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Odotaccentmacron": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Odotbelow": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ograve": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ohookabove": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ohorn": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ohornacute": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ohorndotbelow": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ohorngrave": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ohornhookabove": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ohorntilde": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Ohungarumlaut": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Oinvertedbreve": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Omacron": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Omacroncyr": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Omega": {
-        "leftMargin": 172.5,
-        "width": 1593.0
+        "leftMargin": 230.0,
+        "width": 1708.0
       },
       "Omegatonos": {
-        "leftMargin": -15.0,
-        "width": 1698.5
+        "leftMargin": -20.0,
+        "width": 1751.0
       },
       "Omicron": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Omicrontonos": {
-        "leftMargin": -15.0,
-        "width": 1660.5
+        "leftMargin": -20.0,
+        "width": 1713.0
       },
       "Oogonek": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Oslash": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Oslashacute": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Otilde": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Otildemacron": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "P": {
-        "leftMargin": 255.0,
-        "width": 1310.0
+        "leftMargin": 340.0,
+        "width": 1420.0
       },
       "Palochka": {
-        "leftMargin": 262.5,
-        "width": 717.0
+        "leftMargin": 350.0,
+        "width": 892.0
       },
       "Pe": {
-        "leftMargin": 255.0,
-        "width": 1608.0
+        "leftMargin": 340.0,
+        "width": 1778.0
       },
       "Phi": {
-        "leftMargin": 157.5,
-        "width": 1850.0
+        "leftMargin": 210.0,
+        "width": 1955.0
       },
       "Pi": {
-        "leftMargin": 255.0,
-        "width": 1608.0
+        "leftMargin": 340.0,
+        "width": 1778.0
       },
       "Psi": {
-        "leftMargin": 232.5,
-        "width": 1820.0
+        "leftMargin": 310.0,
+        "width": 1975.0
       },
       "Q": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "R": {
-        "leftMargin": 255.0,
-        "width": 1355.0
+        "leftMargin": 340.0,
+        "width": 1460.0
       },
       "Racute": {
-        "leftMargin": 255.0,
-        "width": 1355.0
+        "leftMargin": 340.0,
+        "width": 1460.0
       },
       "Rcaron": {
-        "leftMargin": 255.0,
-        "width": 1355.0
+        "leftMargin": 340.0,
+        "width": 1460.0
       },
       "Rcommaaccent": {
-        "leftMargin": 255.0,
-        "width": 1355.0
+        "leftMargin": 340.0,
+        "width": 1460.0
       },
       "Rdblgrave": {
-        "leftMargin": 255.0,
-        "width": 1355.0
+        "leftMargin": 340.0,
+        "width": 1460.0
       },
       "Rho": {
-        "leftMargin": 255.0,
-        "width": 1310.0
+        "leftMargin": 340.0,
+        "width": 1420.0
       },
       "Rinvertedbreve": {
-        "leftMargin": 255.0,
-        "width": 1355.0
+        "leftMargin": 340.0,
+        "width": 1460.0
       },
       "S": {
-        "leftMargin": 135.0,
-        "width": 1305.0
+        "leftMargin": 180.0,
+        "width": 1390.0
       },
       "Sacute": {
-        "leftMargin": 135.0,
-        "width": 1305.0
+        "leftMargin": 180.0,
+        "width": 1390.0
       },
       "Scaron": {
-        "leftMargin": 135.0,
-        "width": 1305.0
+        "leftMargin": 180.0,
+        "width": 1390.0
       },
       "Scedilla": {
-        "leftMargin": 135.0,
-        "width": 1305.0
+        "leftMargin": 180.0,
+        "width": 1390.0
       },
       "Schwa": {
-        "leftMargin": 96.0,
-        "width": 1518.0
+        "leftMargin": 128.0,
+        "width": 1590.0
       },
       "Schwacyr": {
-        "leftMargin": 172.5,
-        "width": 1555.0
+        "leftMargin": 230.0,
+        "width": 1670.0
       },
       "Scircumflex": {
-        "leftMargin": 135.0,
-        "width": 1305.0
+        "leftMargin": 180.0,
+        "width": 1390.0
       },
       "Scommaaccent": {
-        "leftMargin": 135.0,
-        "width": 1305.0
+        "leftMargin": 180.0,
+        "width": 1390.0
       },
       "Sha": {
-        "leftMargin": 255.0,
-        "width": 2114.0
+        "leftMargin": 340.0,
+        "width": 2284.0
       },
       "Shcha": {
-        "leftMargin": 255.0,
-        "width": 2084.0
+        "leftMargin": 340.0,
+        "width": 2184.0
       },
       "Shha": {
-        "leftMargin": 255.0,
-        "width": 1543.0
+        "leftMargin": 340.0,
+        "width": 1698.0
       },
       "Sigma": {
-        "leftMargin": 97.5,
-        "width": 1255.5
+        "leftMargin": 130.0,
+        "width": 1321.0
       },
       "Soft": {
-        "leftMargin": 255.0,
-        "width": 1310.0
+        "leftMargin": 340.0,
+        "width": 1420.0
       },
       "T": {
-        "leftMargin": 36.0,
-        "width": 1200.0
+        "leftMargin": 48.0,
+        "width": 1224.0
       },
       "Tau": {
-        "leftMargin": 36.0,
-        "width": 1200.0
+        "leftMargin": 48.0,
+        "width": 1224.0
       },
       "Tbar": {
-        "leftMargin": 36.0,
-        "width": 1200.0
+        "leftMargin": 48.0,
+        "width": 1224.0
       },
       "Tcaron": {
-        "leftMargin": 36.0,
-        "width": 1200.0
+        "leftMargin": 48.0,
+        "width": 1224.0
       },
       "Tcedilla": {
-        "leftMargin": 36.0,
-        "width": 1200.0
+        "leftMargin": 48.0,
+        "width": 1224.0
       },
       "Tcommaaccent": {
-        "leftMargin": 36.0,
-        "width": 1200.0
+        "leftMargin": 48.0,
+        "width": 1224.0
       },
       "Te": {
-        "leftMargin": 36.0,
-        "width": 1200.0
+        "leftMargin": 48.0,
+        "width": 1224.0
       },
       "Tedescender-cy": {
-        "leftMargin": 36.0,
-        "width": 1200.0
+        "leftMargin": 48.0,
+        "width": 1224.0
       },
       "Theta": {
-        "leftMargin": 172.5,
-        "width": 1575.0
+        "leftMargin": 230.0,
+        "width": 1690.0
       },
       "Thorn": {
-        "leftMargin": 255.0,
-        "width": 1280.0
+        "leftMargin": 340.0,
+        "width": 1390.0
       },
       "Tse": {
-        "leftMargin": 255.0,
-        "width": 1578.0
+        "leftMargin": 340.0,
+        "width": 1678.0
       },
       "Tshe": {
-        "leftMargin": 36.0,
-        "width": 1732.0
+        "leftMargin": 48.0,
+        "width": 1814.0
       },
       "U": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Uacute": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Ubreve": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Ucircumflex": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Ucyr": {
-        "leftMargin": 22.5,
-        "width": 1253.0
+        "leftMargin": 30.0,
+        "width": 1268.0
       },
       "Udblgrave": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Udieresis": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Udieresiscyr": {
-        "leftMargin": 22.5,
-        "width": 1253.0
+        "leftMargin": 30.0,
+        "width": 1268.0
       },
       "Udotbelow": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Ugrave": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Uhookabove": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Uhorn": {
-        "leftMargin": 232.5,
-        "width": 1377.0
+        "leftMargin": 310.0,
+        "width": 1390.0
       },
       "Uhornacute": {
-        "leftMargin": 232.5,
-        "width": 1377.0
+        "leftMargin": 310.0,
+        "width": 1390.0
       },
       "Uhorndotbelow": {
-        "leftMargin": 232.5,
-        "width": 1377.0
+        "leftMargin": 310.0,
+        "width": 1390.0
       },
       "Uhorngrave": {
-        "leftMargin": 232.5,
-        "width": 1377.0
+        "leftMargin": 310.0,
+        "width": 1390.0
       },
       "Uhornhookabove": {
-        "leftMargin": 232.5,
-        "width": 1377.0
+        "leftMargin": 310.0,
+        "width": 1390.0
       },
       "Uhorntilde": {
-        "leftMargin": 232.5,
-        "width": 1377.0
+        "leftMargin": 310.0,
+        "width": 1390.0
       },
       "Uhungarumlaut": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Uhungarumlautcyr": {
-        "leftMargin": 22.5,
-        "width": 1253.0
+        "leftMargin": 30.0,
+        "width": 1268.0
       },
       "Uinvertedbreve": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Umacron": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Umacroncyr": {
-        "leftMargin": 22.5,
-        "width": 1253.0
+        "leftMargin": 30.0,
+        "width": 1268.0
       },
       "Uogonek": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Upsilon": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Upsilondieresis": {
-        "leftMargin": 24.0,
-        "width": 1243.0
+        "leftMargin": 32.0,
+        "width": 1258.0
       },
       "Upsilontonos": {
-        "leftMargin": -15.0,
-        "width": 1578.5
+        "leftMargin": -20.0,
+        "width": 1581.0
       },
       "Uring": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "Ushort": {
-        "leftMargin": 22.5,
-        "width": 1253.0
+        "leftMargin": 30.0,
+        "width": 1268.0
       },
       "Ustraight": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Ustraightstroke": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Utilde": {
-        "leftMargin": 232.5,
-        "width": 1519.0
+        "leftMargin": 310.0,
+        "width": 1674.0
       },
       "V": {
         "leftMargin": 0,
         "width": 1260
       },
       "Ve": {
-        "leftMargin": 255.0,
-        "width": 1395.0
+        "leftMargin": 340.0,
+        "width": 1530.0
       },
       "W": {
-        "leftMargin": 75.0,
-        "width": 1862.0
+        "leftMargin": 100.0,
+        "width": 1912.0
       },
       "Wacute": {
-        "leftMargin": 75.0,
-        "width": 1862.0
+        "leftMargin": 100.0,
+        "width": 1912.0
       },
       "Wcircumflex": {
-        "leftMargin": 75.0,
-        "width": 1862.0
+        "leftMargin": 100.0,
+        "width": 1912.0
       },
       "Wdieresis": {
-        "leftMargin": 75.0,
-        "width": 1862.0
+        "leftMargin": 100.0,
+        "width": 1912.0
       },
       "Wgrave": {
-        "leftMargin": 75.0,
-        "width": 1862.0
+        "leftMargin": 100.0,
+        "width": 1912.0
       },
       "X": {
-        "leftMargin": 37.5,
-        "width": 1247.0
+        "leftMargin": 50.0,
+        "width": 1272.0
       },
       "Xi": {
-        "leftMargin": 102.0,
-        "width": 1208.0
+        "leftMargin": 136.0,
+        "width": 1276.0
       },
       "Y": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Ya": {
-        "leftMargin": 60.0,
-        "width": 1355.0
+        "leftMargin": 80.0,
+        "width": 1460.0
       },
       "Yacute": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Yamacron": {
-        "leftMargin": 60.0,
-        "width": 1355.0
+        "leftMargin": 80.0,
+        "width": 1460.0
       },
       "Ycircumflex": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Ydieresis": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Ydotbelow": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Yeru": {
-        "leftMargin": 255.0,
-        "width": 1857.0
+        "leftMargin": 340.0,
+        "width": 2027.0
       },
       "Ygrave": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Yhookabove": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Yi": {
-        "leftMargin": 22.5,
-        "width": 557.0
+        "leftMargin": 30.0,
+        "width": 572.0
       },
       "Ymacron": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Ytilde": {
-        "leftMargin": 22.5,
-        "width": 1243.0
+        "leftMargin": 30.0,
+        "width": 1258.0
       },
       "Yu": {
-        "leftMargin": 255.0,
-        "width": 2102.5
+        "leftMargin": 340.0,
+        "width": 2245.0
       },
       "Yumacron": {
-        "leftMargin": 255.0,
-        "width": 2102.5
+        "leftMargin": 340.0,
+        "width": 2245.0
       },
       "Z": {
-        "leftMargin": 97.5,
-        "width": 1255.5
+        "leftMargin": 130.0,
+        "width": 1321.0
       },
       "Zacute": {
-        "leftMargin": 97.5,
-        "width": 1255.5
+        "leftMargin": 130.0,
+        "width": 1321.0
       },
       "Zcaron": {
-        "leftMargin": 97.5,
-        "width": 1255.5
+        "leftMargin": 130.0,
+        "width": 1321.0
       },
       "Zdotaccent": {
-        "leftMargin": 97.5,
-        "width": 1255.5
+        "leftMargin": 130.0,
+        "width": 1321.0
       },
       "Ze": {
-        "leftMargin": 126.0,
-        "width": 1352.0
+        "leftMargin": 168.0,
+        "width": 1444.0
       },
       "Zedescendercyr": {
-        "leftMargin": 126.0,
-        "width": 1352.0
+        "leftMargin": 168.0,
+        "width": 1444.0
       },
       "Zeta": {
-        "leftMargin": 97.5,
-        "width": 1255.5
+        "leftMargin": 130.0,
+        "width": 1321.0
       },
       "Zhe": {
-        "leftMargin": -30.0,
-        "width": 1770.0
+        "leftMargin": -40.0,
+        "width": 1750.0
       },
       "Zhe.bgr": {
-        "leftMargin": -30.0,
-        "width": 1915.0
+        "leftMargin": -40.0,
+        "width": 1895.0
       },
       "Zhebrevecyr": {
-        "leftMargin": -30.0,
-        "width": 1770.0
+        "leftMargin": -40.0,
+        "width": 1750.0
       },
       "Zhedescender": {
-        "leftMargin": -30.0,
-        "width": 1758.0
+        "leftMargin": -40.0,
+        "width": 1722.0
       },
       "Zhedieresiscyr": {
-        "leftMargin": -30.0,
-        "width": 1770.0
+        "leftMargin": -40.0,
+        "width": 1750.0
       },
       "a": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "aacute": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "abreve": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "abreveacute": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "abrevecyr": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "abrevedotbelow": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "abrevegrave": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "abrevehookabove": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "abrevetilde": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "acircumflex": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "acircumflexacute": {
-        "leftMargin": 135.0,
-        "width": 1088.5
+        "leftMargin": 180.0,
+        "width": 1071.0
       },
       "acircumflexdotbelow": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "acircumflexgrave": {
-        "leftMargin": 135.0,
-        "width": 1198.0
+        "leftMargin": 180.0,
+        "width": 1290.0
       },
       "acircumflexhookabove": {
-        "leftMargin": 135.0,
-        "width": 1098.5
+        "leftMargin": 180.0,
+        "width": 1091.0
       },
       "acircumflextilde": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "acute": {
-        "leftMargin": 532.5,
-        "width": 1339.0
+        "leftMargin": 710.0,
+        "width": 1654.0
       },
       "acutecomb": {
-        "leftMargin": 532.5,
-        "width": 1339.0
+        "leftMargin": 710.0,
+        "width": 1654.0
       },
       "acutecomb.case": {
-        "leftMargin": 594.0,
-        "width": 1348.5
+        "leftMargin": 792.0,
+        "width": 1673.0
       },
       "acutecombstack.case": {
-        "leftMargin": 453.0,
-        "width": 1326.5
+        "leftMargin": 604.0,
+        "width": 1629.0
       },
       "acyr": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "adblgrave": {
-        "leftMargin": 130.5,
-        "width": 1201.5
+        "leftMargin": 174.0,
+        "width": 1297.0
       },
       "adieresis": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "adieresiscyr": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "adotbelow": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "ae": {
-        "leftMargin": 135.0,
-        "width": 1857.0
+        "leftMargin": 180.0,
+        "width": 1942.0
       },
       "aeacute": {
-        "leftMargin": 135.0,
-        "width": 1857.0
+        "leftMargin": 180.0,
+        "width": 1942.0
       },
       "agrave": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "ahookabove": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "ainvertedbreve": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "alpha": {
-        "leftMargin": 127.5,
-        "width": 1303.5
+        "leftMargin": 170.0,
+        "width": 1371.0
       },
       "alphatonos": {
-        "leftMargin": 127.5,
-        "width": 1303.5
+        "leftMargin": 170.0,
+        "width": 1371.0
       },
       "amacron": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "amacroncyr": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "ampersand": {
-        "leftMargin": 120.0,
-        "width": 1332.0
+        "leftMargin": 160.0,
+        "width": 1384.0
       },
       "anoteleia": {
-        "leftMargin": 264.0,
-        "width": 776.0
+        "leftMargin": 352.0,
+        "width": 952.0
       },
       "aogonek": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "apostrophemod": {
-        "leftMargin": 232.5,
-        "width": 746.5
+        "leftMargin": 310.0,
+        "width": 893.0
       },
       "approxequal": {
-        "leftMargin": 67.5,
-        "width": 1069.0
+        "leftMargin": 90.0,
+        "width": 1114.0
       },
       "aring": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "aringacute": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "arrowdown": {
-        "leftMargin": 300.0,
-        "width": 1486.0
+        "leftMargin": 400.0,
+        "width": 1686.0
       },
       "arrowleft": {
-        "leftMargin": 255.0,
-        "width": 1893.0
+        "leftMargin": 340.0,
+        "width": 2063.0
       },
       "arrowright": {
-        "leftMargin": 255.0,
-        "width": 1893.0
+        "leftMargin": 340.0,
+        "width": 2063.0
       },
       "arrowup": {
-        "leftMargin": 300.0,
-        "width": 1486.0
+        "leftMargin": 400.0,
+        "width": 1686.0
       },
       "asciicircum": {
-        "leftMargin": 37.5,
-        "width": 1195.0
+        "leftMargin": 50.0,
+        "width": 1220.0
       },
       "asciitilde": {
-        "leftMargin": 67.5,
-        "width": 1069.5
+        "leftMargin": 90.0,
+        "width": 1115.0
       },
       "asterisk": {
-        "leftMargin": 87.0,
-        "width": 1138.0
+        "leftMargin": 116.0,
+        "width": 1196.0
       },
       "at": {
-        "leftMargin": 171.0,
-        "width": 2224.0
+        "leftMargin": 228.0,
+        "width": 2338.0
       },
       "atilde": {
-        "leftMargin": 135.0,
-        "width": 1203.0
+        "leftMargin": 180.0,
+        "width": 1300.0
       },
       "b": {
-        "leftMargin": 222.0,
-        "width": 1286.5
+        "leftMargin": 296.0,
+        "width": 1403.0
       },
       "backslash": {
-        "leftMargin": -150.0,
-        "width": 484.0
+        "leftMargin": -200.0,
+        "width": 384.0
       },
       "bar": {
-        "leftMargin": 315.0,
-        "width": 802.0
+        "leftMargin": 420.0,
+        "width": 1012.0
       },
       "be": {
-        "leftMargin": 142.5,
-        "width": 1262.0
+        "leftMargin": 190.0,
+        "width": 1352.0
       },
       "be.locl": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "beta": {
-        "leftMargin": 222.0,
-        "width": 1306.5
+        "leftMargin": 296.0,
+        "width": 1423.0
       },
       "braceleft": {
-        "leftMargin": 96.0,
-        "width": 747.0
+        "leftMargin": 128.0,
+        "width": 794.0
       },
       "braceright": {
-        "leftMargin": 45.0,
-        "width": 747.0
+        "leftMargin": 60.0,
+        "width": 794.0
       },
       "bracketleft": {
-        "leftMargin": 216.0,
-        "width": 812.0
+        "leftMargin": 288.0,
+        "width": 924.0
       },
       "bracketright": {
-        "leftMargin": 120.0,
-        "width": 812.0
+        "leftMargin": 160.0,
+        "width": 924.0
       },
       "breve": {
-        "leftMargin": 265.5,
-        "width": 1197.0
+        "leftMargin": 354.0,
+        "width": 1372.0
       },
       "breve.cyr": {
-        "leftMargin": 295.5,
-        "width": 1259.0
+        "leftMargin": 394.0,
+        "width": 1456.0
       },
       "breve.cyr.case": {
-        "leftMargin": 195.0,
-        "width": 1154.0
+        "leftMargin": 260.0,
+        "width": 1284.0
       },
       "breveacutecomb": {
-        "leftMargin": 262.5,
-        "width": 1200.0
+        "leftMargin": 350.0,
+        "width": 1376.0
       },
       "breveacutecomb.case": {
-        "leftMargin": 222.0,
-        "width": 1171.5
+        "leftMargin": 296.0,
+        "width": 1319.0
       },
       "brevebelowcomb": {
-        "leftMargin": 193.5,
-        "width": 1152.5
+        "leftMargin": 258.0,
+        "width": 1281.0
       },
       "brevebelowcomb.case": {
-        "leftMargin": 193.5,
-        "width": 1152.5
+        "leftMargin": 258.0,
+        "width": 1281.0
       },
       "brevecomb": {
-        "leftMargin": 265.5,
-        "width": 1197.0
+        "leftMargin": 354.0,
+        "width": 1372.0
       },
       "brevecomb.case": {
-        "leftMargin": 193.5,
-        "width": 1152.5
+        "leftMargin": 258.0,
+        "width": 1281.0
       },
       "brevecombstack.case": {
-        "leftMargin": 222.0,
-        "width": 1171.5
+        "leftMargin": 296.0,
+        "width": 1319.0
       },
       "brevegravecomb": {
-        "leftMargin": 264.0,
-        "width": 1200.0
+        "leftMargin": 352.0,
+        "width": 1376.0
       },
       "brevegravecomb.case": {
-        "leftMargin": 222.0,
-        "width": 1171.5
+        "leftMargin": 296.0,
+        "width": 1319.0
       },
       "brevehookabovecomb": {
-        "leftMargin": 264.0,
-        "width": 1200.0
+        "leftMargin": 352.0,
+        "width": 1376.0
       },
       "brevehookabovecomb.case": {
-        "leftMargin": 222.0,
-        "width": 1171.5
+        "leftMargin": 296.0,
+        "width": 1319.0
       },
       "breveinvertedcomb": {
-        "leftMargin": 265.5,
-        "width": 1200.0
+        "leftMargin": 354.0,
+        "width": 1376.0
       },
       "breveinvertedcomb.case": {
-        "leftMargin": 193.5,
-        "width": 1152.5
+        "leftMargin": 258.0,
+        "width": 1281.0
       },
       "brevetildecomb": {
-        "leftMargin": 189.0,
-        "width": 1158.5
+        "leftMargin": 252.0,
+        "width": 1293.0
       },
       "brevetildecomb.case": {
-        "leftMargin": 223.5,
-        "width": 1171.5
+        "leftMargin": 298.0,
+        "width": 1319.0
       },
       "brokenbar": {
-        "leftMargin": 307.5,
-        "width": 797.0
+        "leftMargin": 410.0,
+        "width": 1002.0
       },
       "bullet": {
-        "leftMargin": 156.0,
-        "width": 888.0
+        "leftMargin": 208.0,
+        "width": 992.0
       },
       "bulletoperator": {
-        "leftMargin": 552.0,
-        "width": 1392.0
+        "leftMargin": 736.0,
+        "width": 1760.0
       },
       "c": {
-        "leftMargin": 127.5,
-        "width": 1145.0
+        "leftMargin": 170.0,
+        "width": 1222.0
       },
       "cacute": {
-        "leftMargin": 127.5,
-        "width": 1145.0
+        "leftMargin": 170.0,
+        "width": 1222.0
       },
       "caron": {
-        "leftMargin": 316.5,
-        "width": 1233.5
+        "leftMargin": 422.0,
+        "width": 1443.0
       },
       "caroncomb": {
-        "leftMargin": 316.5,
-        "width": 1233.5
+        "leftMargin": 422.0,
+        "width": 1443.0
       },
       "caroncomb.alt": {
-        "leftMargin": 579.0,
-        "width": 1390.0
+        "leftMargin": 772.0,
+        "width": 1756.0
       },
       "caroncomb.case": {
-        "leftMargin": 258.0,
-        "width": 1203.0
+        "leftMargin": 344.0,
+        "width": 1382.0
       },
       "ccaron": {
-        "leftMargin": 127.5,
-        "width": 1145.0
+        "leftMargin": 170.0,
+        "width": 1222.0
       },
       "ccedilla": {
-        "leftMargin": 127.5,
-        "width": 1145.0
+        "leftMargin": 170.0,
+        "width": 1222.0
       },
       "ccircumflex": {
-        "leftMargin": 127.5,
-        "width": 1145.0
+        "leftMargin": 170.0,
+        "width": 1222.0
       },
       "cdotaccent": {
-        "leftMargin": 127.5,
-        "width": 1145.0
+        "leftMargin": 170.0,
+        "width": 1222.0
       },
       "cedilla": {
-        "leftMargin": 511.5,
-        "width": 1344.5
+        "leftMargin": 682.0,
+        "width": 1665.0
       },
       "cedillacomb": {
-        "leftMargin": 511.5,
-        "width": 1344.5
+        "leftMargin": 682.0,
+        "width": 1665.0
       },
       "cedillacomb.case": {
-        "leftMargin": 466.5,
-        "width": 1319.5
+        "leftMargin": 622.0,
+        "width": 1615.0
       },
       "cent": {
-        "leftMargin": 97.5,
-        "width": 1079.5
+        "leftMargin": 130.0,
+        "width": 1135.0
       },
       "cent.rvrn": {
-        "leftMargin": 97.5,
-        "width": 1079.5
+        "leftMargin": 130.0,
+        "width": 1135.0
       },
       "che": {
-        "leftMargin": 187.5,
-        "width": 1231.5
+        "leftMargin": 250.0,
+        "width": 1368.0
       },
       "che.bgr": {
-        "leftMargin": 187.5,
-        "width": 1231.5
+        "leftMargin": 250.0,
+        "width": 1368.0
       },
       "chedescender-cy": {
-        "leftMargin": 187.5,
-        "width": 1194.5
+        "leftMargin": 250.0,
+        "width": 1267.0
       },
       "cheverticalstroke-cy": {
-        "leftMargin": 187.5,
-        "width": 1251.5
+        "leftMargin": 250.0,
+        "width": 1388.0
       },
       "chi": {
-        "leftMargin": 30.0,
-        "width": 999.0
+        "leftMargin": 40.0,
+        "width": 1019.0
       },
       "circumflex": {
-        "leftMargin": 316.5,
-        "width": 1233.5
+        "leftMargin": 422.0,
+        "width": 1443.0
       },
       "circumflexacutecomb": {
-        "leftMargin": 316.5,
-        "width": 1046.5
+        "leftMargin": 422.0,
+        "width": 1069.0
       },
       "circumflexacutecomb.case": {
-        "leftMargin": 267.0,
-        "width": 1014.5
+        "leftMargin": 356.0,
+        "width": 1005.0
       },
       "circumflexcomb": {
-        "leftMargin": 316.5,
-        "width": 1233.5
+        "leftMargin": 422.0,
+        "width": 1443.0
       },
       "circumflexcomb.case": {
-        "leftMargin": 258.0,
-        "width": 1203.0
+        "leftMargin": 344.0,
+        "width": 1382.0
       },
       "circumflexcombstack.case": {
-        "leftMargin": 258.0,
-        "width": 1203.0
+        "leftMargin": 344.0,
+        "width": 1382.0
       },
       "circumflexgravecomb": {
-        "leftMargin": 315.0,
-        "width": 1155.5
+        "leftMargin": 420.0,
+        "width": 1287.0
       },
       "circumflexgravecomb.case": {
-        "leftMargin": 267.0,
-        "width": 1092.5
+        "leftMargin": 356.0,
+        "width": 1161.0
       },
       "circumflexhookabovecomb": {
-        "leftMargin": 315.0,
-        "width": 1056.0
+        "leftMargin": 420.0,
+        "width": 1088.0
       },
       "circumflexhookabovecomb.case": {
-        "leftMargin": 267.0,
-        "width": 1070.0
+        "leftMargin": 356.0,
+        "width": 1116.0
       },
       "circumflextildecomb": {
-        "leftMargin": 202.5,
-        "width": 1158.5
+        "leftMargin": 270.0,
+        "width": 1293.0
       },
       "circumflextildecomb.case": {
-        "leftMargin": 238.5,
-        "width": 1183.5
+        "leftMargin": 318.0,
+        "width": 1343.0
       },
       "colon": {
-        "leftMargin": 264.0,
-        "width": 776.0
+        "leftMargin": 352.0,
+        "width": 952.0
       },
       "coloncurrency": {
-        "leftMargin": 127.5,
-        "width": 1207.0
+        "leftMargin": 170.0,
+        "width": 1260.0
       },
       "coloncurrency.rvrn": {
-        "leftMargin": 127.5,
-        "width": 1207.0
+        "leftMargin": 170.0,
+        "width": 1260.0
       },
       "comma": {
-        "leftMargin": 165.0,
-        "width": 730.0
+        "leftMargin": 220.0,
+        "width": 880.0
       },
       "commaaccentcomb": {
-        "leftMargin": 562.5,
-        "width": 1391.0
+        "leftMargin": 750.0,
+        "width": 1758.0
       },
       "commaaccentcomb.case": {
-        "leftMargin": 499.5,
-        "width": 1380.0
+        "leftMargin": 666.0,
+        "width": 1736.0
       },
       "commaaccentturned": {
-        "leftMargin": 687.0,
-        "width": 1391.0
+        "leftMargin": 916.0,
+        "width": 1758.0
       },
       "commercialMinusSign": {
-        "leftMargin": 90.0,
-        "width": 949.0
+        "leftMargin": 120.0,
+        "width": 1009.0
       },
       "copyright": {
-        "leftMargin": 57.0,
-        "width": 1692.0
+        "leftMargin": 76.0,
+        "width": 1730.0
       },
       "currency": {
-        "leftMargin": 18.0,
-        "width": 1170.0
+        "leftMargin": 24.0,
+        "width": 1182.0
       },
       "d": {
-        "leftMargin": 127.5,
-        "width": 1286.5
+        "leftMargin": 170.0,
+        "width": 1403.0
       },
       "dagger": {
-        "leftMargin": 108.0,
-        "width": 1082.5
+        "leftMargin": 144.0,
+        "width": 1157.0
       },
       "daggerdbl": {
-        "leftMargin": 115.5,
-        "width": 1087.5
+        "leftMargin": 154.0,
+        "width": 1167.0
       },
       "dblgravecomb": {
-        "leftMargin": 69.0,
-        "width": 1165.0
+        "leftMargin": 92.0,
+        "width": 1306.0
       },
       "dblgravecomb.case": {
-        "leftMargin": 196.5,
-        "width": 1211.5
+        "leftMargin": 262.0,
+        "width": 1399.0
       },
       "dcaron": {
-        "leftMargin": 127.5,
-        "width": 1055.5
+        "leftMargin": 170.0,
+        "width": 941.0
       },
       "dcroat": {
-        "leftMargin": 127.5,
-        "width": 1240.5
+        "leftMargin": 170.0,
+        "width": 1311.0
       },
       "de": {
-        "leftMargin": 15.0,
-        "width": 1146.0
+        "leftMargin": 20.0,
+        "width": 1161.0
       },
       "de.bgr": {
-        "leftMargin": 127.5,
-        "width": 1286.5
+        "leftMargin": 170.0,
+        "width": 1403.0
       },
       "de.locl": {
-        "leftMargin": 15.0,
-        "width": 1146.0
+        "leftMargin": 20.0,
+        "width": 1161.0
       },
       "degree": {
-        "leftMargin": 196.5,
-        "width": 894.5
+        "leftMargin": 262.0,
+        "width": 1024.0
       },
       "delta": {
-        "leftMargin": 127.5,
-        "width": 1227.0
+        "leftMargin": 170.0,
+        "width": 1312.0
       },
       "diagonalbarL": {
         "leftMargin": 0,
-        "width": 739.0
+        "width": 737.0
       },
       "diagonalbarO": {
-        "leftMargin": 4.5,
-        "width": 624.5
+        "leftMargin": 6.0,
+        "width": 626.0
       },
       "diagonalbarO.rvrn": {
-        "leftMargin": 4.5,
-        "width": 624.5
+        "leftMargin": 6.0,
+        "width": 626.0
       },
       "diagonalbarl": {
         "leftMargin": 0,
-        "width": 633.5
+        "width": 638.0
       },
       "diagonalbaro": {
-        "leftMargin": -132.0,
-        "width": 429.5
+        "leftMargin": -176.0,
+        "width": 347.0
       },
       "diagonalbaro.rvrn": {
-        "leftMargin": -132.0,
-        "width": 429.5
+        "leftMargin": -176.0,
+        "width": 347.0
       },
       "dieresis": {
-        "leftMargin": 280.5,
-        "width": 1211.0
+        "leftMargin": 374.0,
+        "width": 1398.0
       },
       "dieresisbelowcomb": {
-        "leftMargin": 249.0,
-        "width": 1190.0
+        "leftMargin": 332.0,
+        "width": 1356.0
       },
       "dieresisbelowcomb.case": {
-        "leftMargin": 249.0,
-        "width": 1190.0
+        "leftMargin": 332.0,
+        "width": 1356.0
       },
       "dieresiscomb": {
-        "leftMargin": 280.5,
-        "width": 1211.0
+        "leftMargin": 374.0,
+        "width": 1398.0
       },
       "dieresiscomb.case": {
-        "leftMargin": 249.0,
-        "width": 1190.0
+        "leftMargin": 332.0,
+        "width": 1356.0
       },
       "dieresiscombstack.case": {
-        "leftMargin": 249.0,
-        "width": 1190.0
+        "leftMargin": 332.0,
+        "width": 1356.0
       },
       "dieresistonos": {
-        "leftMargin": 280.5,
-        "width": 1301.0
+        "leftMargin": 374.0,
+        "width": 1488.0
       },
       "dieresistonoscomb": {
-        "leftMargin": 280.5,
-        "width": 1301.0
+        "leftMargin": 374.0,
+        "width": 1488.0
       },
       "divide": {
-        "leftMargin": 85.5,
-        "width": 1081.0
+        "leftMargin": 114.0,
+        "width": 1138.0
       },
       "divisionslash": {
-        "leftMargin": -93.0,
-        "width": 605.5
+        "leftMargin": -124.0,
+        "width": 555.0
       },
       "dje": {
-        "leftMargin": 33.0,
-        "width": 1218.0
+        "leftMargin": 44.0,
+        "width": 1298.0
       },
       "dollar": {
-        "leftMargin": 31.5,
-        "width": 1051.0
+        "leftMargin": 42.0,
+        "width": 1078.0
       },
       "dollar.rvrn": {
-        "leftMargin": 31.5,
-        "width": 1051.0
+        "leftMargin": 42.0,
+        "width": 1078.0
       },
       "dong": {
-        "leftMargin": 22.5,
-        "width": 1033.0
+        "leftMargin": 30.0,
+        "width": 1042.0
       },
       "dotaccent": {
-        "leftMargin": 594.0,
-        "width": 1420.0
+        "leftMargin": 792.0,
+        "width": 1816.0
       },
       "dotaccentcomb": {
-        "leftMargin": 594.0,
-        "width": 1420.0
+        "leftMargin": 792.0,
+        "width": 1816.0
       },
       "dotaccentcomb.case": {
-        "leftMargin": 594.0,
-        "width": 1420.0
+        "leftMargin": 792.0,
+        "width": 1816.0
       },
       "dotaccentcombstack.case": {
-        "leftMargin": 594.0,
-        "width": 1420.0
+        "leftMargin": 792.0,
+        "width": 1816.0
       },
       "dotbelowcomb": {
-        "leftMargin": 594.0,
-        "width": 1420.0
+        "leftMargin": 792.0,
+        "width": 1816.0
       },
       "dotbelowcomb.case": {
-        "leftMargin": 594.0,
-        "width": 1420.0
+        "leftMargin": 792.0,
+        "width": 1816.0
       },
       "doubleprimemod": {
-        "leftMargin": 259.5,
-        "width": 912.0
+        "leftMargin": 346.0,
+        "width": 1036.0
       },
       "dzcaron": {
-        "leftMargin": 127.5,
-        "width": 2236.5
+        "leftMargin": 170.0,
+        "width": 2311.0
       },
       "dze": {
-        "leftMargin": 120.0,
-        "width": 1090.0
+        "leftMargin": 160.0,
+        "width": 1170.0
       },
       "dzhe": {
-        "leftMargin": 222.0,
-        "width": 1276.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "e": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "eacute": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "ebreve": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "ebrevecyr": {
-        "leftMargin": 103.5,
-        "width": 1145.0
+        "leftMargin": 138.0,
+        "width": 1222.0
       },
       "ecaron": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "ecircumflex": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "ecircumflexacute": {
-        "leftMargin": 127.5,
-        "width": 1055.5
+        "leftMargin": 170.0,
+        "width": 1023.0
       },
       "ecircumflexdotbelow": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "ecircumflexgrave": {
-        "leftMargin": 127.5,
-        "width": 1165.0
+        "leftMargin": 170.0,
+        "width": 1242.0
       },
       "ecircumflexhookabove": {
-        "leftMargin": 127.5,
-        "width": 1065.5
+        "leftMargin": 170.0,
+        "width": 1043.0
       },
       "ecircumflextilde": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "ecyr": {
-        "leftMargin": 103.5,
-        "width": 1145.0
+        "leftMargin": 138.0,
+        "width": 1222.0
       },
       "edblgrave": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "edieresis": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "edotaccent": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "edotbelow": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "ef": {
-        "leftMargin": 127.5,
-        "width": 1533.0
+        "leftMargin": 170.0,
+        "width": 1618.0
       },
       "egrave": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "ehookabove": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "eight": {
-        "leftMargin": 156.0,
-        "width": 1260.0
+        "leftMargin": 208.0,
+        "width": 1364.0
       },
       "eight.prop": {
-        "leftMargin": 156.0,
-        "width": 1260.0
+        "leftMargin": 208.0,
+        "width": 1364.0
       },
       "einvertedbreve": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "el": {
-        "leftMargin": 15.0,
-        "width": 1208.5
+        "leftMargin": 20.0,
+        "width": 1289.0
       },
       "el.bgr": {
         "leftMargin": 0,
         "width": 942
       },
       "ellipsis": {
-        "leftMargin": 240.0,
-        "width": 1900.0
+        "leftMargin": 320.0,
+        "width": 2060.0
       },
       "em": {
-        "leftMargin": 222.0,
-        "width": 1654.0
+        "leftMargin": 296.0,
+        "width": 1802.0
       },
       "emacron": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "emacroncyr": {
-        "leftMargin": 103.5,
-        "width": 1145.0
+        "leftMargin": 138.0,
+        "width": 1222.0
       },
       "emdash": {
-        "leftMargin": 390.0,
-        "width": 2308.0
+        "leftMargin": 520.0,
+        "width": 2568.0
       },
       "en": {
-        "leftMargin": 222.0,
-        "width": 1286.0
+        "leftMargin": 296.0,
+        "width": 1434.0
       },
       "en.bgr": {
-        "leftMargin": 222.0,
-        "width": 1286.0
+        "leftMargin": 296.0,
+        "width": 1434.0
       },
       "endash": {
         "leftMargin": 0,
         "width": 1024
       },
       "endescender": {
-        "leftMargin": 222.0,
-        "width": 1249.0
+        "leftMargin": 296.0,
+        "width": 1333.0
       },
       "eng": {
-        "leftMargin": 222.0,
-        "width": 1281.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "engtail": {
-        "leftMargin": 40.5,
-        "width": 696.0
+        "leftMargin": 54.0,
+        "width": 763.0
       },
       "enspace": {
         "width": 1138
       },
       "eogonek": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "epsilon": {
-        "leftMargin": 148.5,
-        "width": 1159.5
+        "leftMargin": 198.0,
+        "width": 1241.0
       },
       "epsilontonos": {
-        "leftMargin": 148.5,
-        "width": 1159.5
+        "leftMargin": 198.0,
+        "width": 1241.0
       },
       "equal": {
-        "leftMargin": 85.5,
-        "width": 1081.0
+        "leftMargin": 114.0,
+        "width": 1138.0
       },
       "er": {
-        "leftMargin": 222.0,
-        "width": 1286.5
+        "leftMargin": 296.0,
+        "width": 1403.0
       },
       "es": {
-        "leftMargin": 127.5,
-        "width": 1145.0
-      },
-      "esdescendercyr": {
-        "leftMargin": 127.5,
-        "width": 1145.0
-      },
-      "eta": {
-        "leftMargin": 222.0,
-        "width": 1281.0
-      },
-      "etatonos": {
-        "leftMargin": 222.0,
-        "width": 1281.0
-      },
-      "eth": {
-        "leftMargin": 127.5,
-        "width": 1199.0
-      },
-      "etilde": {
-        "leftMargin": 127.5,
-        "width": 1170.5
-      },
-      "exclam": {
-        "leftMargin": 279.0,
-        "width": 806.0
-      },
-      "exclamdown": {
-        "leftMargin": 279.0,
-        "width": 806.0
-      },
-      "f": {
-        "leftMargin": 37.5,
-        "width": 573.5
-      },
-      "f_f": {
-        "leftMargin": 37.5,
-        "width": 1173.5
-      },
-      "f_f_i": {
-        "leftMargin": 37.5,
-        "width": 1779.5
-      },
-      "f_f_ij": {
-        "leftMargin": 37.5,
-        "width": 2279.5
-      },
-      "f_f_l": {
-        "leftMargin": 37.5,
-        "width": 1788.5
-      },
-      "f_ij": {
-        "leftMargin": 37.5,
-        "width": 1679.5
-      },
-      "fi": {
-        "leftMargin": 37.5,
-        "width": 1179.5
-      },
-      "finalsigma": {
-        "leftMargin": 127.5,
-        "width": 1115.0
-      },
-      "firsttonechinese": {
-        "leftMargin": 297.0,
+        "leftMargin": 170.0,
         "width": 1222.0
       },
+      "esdescendercyr": {
+        "leftMargin": 170.0,
+        "width": 1222.0
+      },
+      "eta": {
+        "leftMargin": 296.0,
+        "width": 1424.0
+      },
+      "etatonos": {
+        "leftMargin": 296.0,
+        "width": 1424.0
+      },
+      "eth": {
+        "leftMargin": 170.0,
+        "width": 1284.0
+      },
+      "etilde": {
+        "leftMargin": 170.0,
+        "width": 1253.0
+      },
+      "exclam": {
+        "leftMargin": 372.0,
+        "width": 992.0
+      },
+      "exclamdown": {
+        "leftMargin": 372.0,
+        "width": 992.0
+      },
+      "f": {
+        "leftMargin": 50.0,
+        "width": 547.0
+      },
+      "f_f": {
+        "leftMargin": 50.0,
+        "width": 1147.0
+      },
+      "f_f_i": {
+        "leftMargin": 50.0,
+        "width": 1859.0
+      },
+      "f_f_ij": {
+        "leftMargin": 50.0,
+        "width": 2359.0
+      },
+      "f_f_l": {
+        "leftMargin": 50.0,
+        "width": 1879.0
+      },
+      "f_ij": {
+        "leftMargin": 50.0,
+        "width": 1759.0
+      },
+      "fi": {
+        "leftMargin": 50.0,
+        "width": 1259.0
+      },
+      "finalsigma": {
+        "leftMargin": 170.0,
+        "width": 1182.0
+      },
+      "firsttonechinese": {
+        "leftMargin": 396.0,
+        "width": 1420.0
+      },
       "five": {
-        "leftMargin": 150.0,
-        "width": 1256.0
+        "leftMargin": 200.0,
+        "width": 1356.0
       },
       "five.prop": {
-        "leftMargin": 87.0,
-        "width": 1130.0
+        "leftMargin": 116.0,
+        "width": 1188.0
       },
       "fl": {
-        "leftMargin": 37.5,
-        "width": 1188.5
+        "leftMargin": 50.0,
+        "width": 1279.0
       },
       "florin": {
-        "leftMargin": -13.5,
-        "width": 1050.0
+        "leftMargin": -18.0,
+        "width": 1076.0
       },
       "four": {
-        "leftMargin": 75.0,
-        "width": 1205.0
+        "leftMargin": 100.0,
+        "width": 1254.0
       },
       "four.prop": {
-        "leftMargin": -19.5,
-        "width": 1006.5
+        "leftMargin": -26.0,
+        "width": 1002.0
       },
       "foursuperior": {
-        "leftMargin": 81.0,
-        "width": 803.5
+        "leftMargin": 108.0,
+        "width": 856.0
+      },
+      "fraction": {
+        "leftMargin": -690.0,
+        "width": 0
       },
       "franc": {
-        "leftMargin": 30.0,
-        "width": 1045.0
+        "leftMargin": 40.0,
+        "width": 1066.0
       },
       "g": {
-        "leftMargin": 127.5,
-        "width": 1286.5
+        "leftMargin": 170.0,
+        "width": 1403.0
       },
       "gamma": {
         "leftMargin": 0,
         "width": 942
       },
       "gbreve": {
-        "leftMargin": 127.5,
-        "width": 1286.5
+        "leftMargin": 170.0,
+        "width": 1403.0
       },
       "gcaron": {
-        "leftMargin": 127.5,
-        "width": 1286.5
+        "leftMargin": 170.0,
+        "width": 1403.0
       },
       "gcircumflex": {
-        "leftMargin": 127.5,
-        "width": 1286.5
+        "leftMargin": 170.0,
+        "width": 1403.0
       },
       "gcommaaccent": {
-        "leftMargin": 127.5,
-        "width": 1286.5
+        "leftMargin": 170.0,
+        "width": 1403.0
       },
       "gdotaccent": {
-        "leftMargin": 127.5,
-        "width": 1286.5
+        "leftMargin": 170.0,
+        "width": 1403.0
       },
       "germandbls": {
-        "leftMargin": 222.0,
-        "width": 1284.0
+        "leftMargin": 296.0,
+        "width": 1382.0
       },
       "ghe": {
-        "leftMargin": 222.0,
-        "width": 953.0
+        "leftMargin": 296.0,
+        "width": 1042.0
       },
       "ghe.bgr": {
-        "leftMargin": 120.0,
-        "width": 1090.0
+        "leftMargin": 160.0,
+        "width": 1170.0
       },
       "ghe.locl": {
-        "leftMargin": 222.0,
-        "width": 953.0
+        "leftMargin": 296.0,
+        "width": 1042.0
       },
       "ghestroke": {
-        "leftMargin": 58.5,
-        "width": 920.5
+        "leftMargin": 78.0,
+        "width": 955.0
       },
       "gheup": {
-        "leftMargin": 222.0,
-        "width": 953.0
+        "leftMargin": 296.0,
+        "width": 1042.0
       },
       "gje": {
-        "leftMargin": 222.0,
-        "width": 953.0
+        "leftMargin": 296.0,
+        "width": 1042.0
       },
       "gr:question": {
-        "leftMargin": 180.0,
-        "width": 748.0
+        "leftMargin": 240.0,
+        "width": 896.0
       },
       "grave": {
-        "leftMargin": 418.5,
-        "width": 1334.0
+        "leftMargin": 558.0,
+        "width": 1644.0
       },
       "gravecomb": {
-        "leftMargin": 418.5,
-        "width": 1334.0
+        "leftMargin": 558.0,
+        "width": 1644.0
       },
       "gravecomb.case": {
-        "leftMargin": 346.5,
-        "width": 1361.5
+        "leftMargin": 462.0,
+        "width": 1699.0
       },
       "gravecombstack.case": {
-        "leftMargin": 385.5,
-        "width": 1305.5
+        "leftMargin": 514.0,
+        "width": 1587.0
       },
       "greater": {
-        "leftMargin": 159.0,
-        "width": 1127.0
+        "leftMargin": 212.0,
+        "width": 1230.0
       },
       "greaterequal": {
-        "leftMargin": 93.0,
-        "width": 1081.0
+        "leftMargin": 124.0,
+        "width": 1138.0
       },
       "guillemotleft": {
-        "leftMargin": 162.0,
-        "width": 1189.5
+        "leftMargin": 216.0,
+        "width": 1287.0
       },
       "guillemotright": {
-        "leftMargin": 130.5,
-        "width": 1189.5
+        "leftMargin": 174.0,
+        "width": 1287.0
       },
       "guilsinglleft": {
-        "leftMargin": 162.0,
-        "width": 749.5
+        "leftMargin": 216.0,
+        "width": 847.0
       },
       "guilsinglright": {
-        "leftMargin": 130.5,
-        "width": 749.5
+        "leftMargin": 174.0,
+        "width": 847.0
       },
       "h": {
-        "leftMargin": 222.0,
-        "width": 1281.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "ha": {
-        "leftMargin": 30.0,
-        "width": 998.0
+        "leftMargin": 40.0,
+        "width": 1018.0
       },
       "hadescender": {
-        "leftMargin": 30.0,
-        "width": 981.5
+        "leftMargin": 40.0,
+        "width": 977.0
       },
       "hard": {
-        "leftMargin": 45.0,
-        "width": 1265.0
+        "leftMargin": 60.0,
+        "width": 1310.0
       },
       "hard.bgr": {
-        "leftMargin": 45.0,
-        "width": 1305.0
+        "leftMargin": 60.0,
+        "width": 1350.0
       },
       "hastroke-cy": {
-        "leftMargin": 30.0,
-        "width": 998.0
+        "leftMargin": 40.0,
+        "width": 1018.0
       },
       "hbar": {
-        "leftMargin": 25.5,
-        "width": 1216.5
+        "leftMargin": 34.0,
+        "width": 1294.0
       },
       "hcircumflex": {
-        "leftMargin": -85.5,
-        "width": 1178.5
+        "leftMargin": -114.0,
+        "width": 1219.0
       },
       "hookabovecomb": {
-        "leftMargin": 498.0,
-        "width": 1278.0
+        "leftMargin": 664.0,
+        "width": 1532.0
       },
       "hookabovecomb.case": {
-        "leftMargin": 378.0,
-        "width": 1278.0
+        "leftMargin": 504.0,
+        "width": 1532.0
       },
       "hookabovecombstack.case": {
-        "leftMargin": 378.0,
-        "width": 1307.5
+        "leftMargin": 504.0,
+        "width": 1591.0
       },
       "horizontalbar": {
-        "leftMargin": 30.0,
-        "width": 681.5
+        "leftMargin": 40.0,
+        "width": 707.0
       },
       "horizontalbarH": {
-        "leftMargin": 9.0,
-        "width": 1464.0
+        "leftMargin": 12.0,
+        "width": 1470.0
       },
       "horizontalbarlc": {
-        "leftMargin": 43.5,
-        "width": 650.5
+        "leftMargin": 58.0,
+        "width": 665.0
       },
       "horncomb": {
         "leftMargin": 0,
-        "width": 1346.0
+        "width": 1668.0
       },
       "horncomb.case": {
-        "leftMargin": 573.0,
-        "width": 1346.0
+        "leftMargin": 764.0,
+        "width": 1668.0
       },
       "hryvnia": {
-        "leftMargin": -15.0,
-        "width": 1014.5
+        "leftMargin": -20.0,
+        "width": 1005.0
       },
       "hryvnia.rvrn": {
-        "leftMargin": -15.0,
-        "width": 1014.5
+        "leftMargin": -20.0,
+        "width": 1005.0
       },
       "hungarumlaut": {
-        "leftMargin": 397.5,
-        "width": 1189.0
+        "leftMargin": 530.0,
+        "width": 1354.0
       },
       "hungarumlautcomb": {
-        "leftMargin": 397.5,
-        "width": 1189.0
+        "leftMargin": 530.0,
+        "width": 1354.0
       },
       "hungarumlautcomb.case": {
-        "leftMargin": 373.5,
-        "width": 1181.5
+        "leftMargin": 498.0,
+        "width": 1339.0
       },
       "hyphen": {
-        "leftMargin": 112.5,
-        "width": 789.0
+        "leftMargin": 150.0,
+        "width": 864.0
       },
       "hyphentwo": {
-        "leftMargin": 112.5,
-        "width": 684.0
+        "leftMargin": 150.0,
+        "width": 724.0
       },
       "i": {
-        "leftMargin": 201.0,
-        "width": 634.0
+        "leftMargin": 268.0,
+        "width": 768.0
       },
       "i.bgr": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "iacute": {
-        "leftMargin": 139.5,
-        "width": 553.0
+        "leftMargin": 186.0,
+        "width": 606.0
       },
       "ibreve": {
-        "leftMargin": -126.0,
-        "width": 414.0
+        "leftMargin": -168.0,
+        "width": 328.0
       },
       "icircumflex": {
-        "leftMargin": -76.5,
-        "width": 447.5
+        "leftMargin": -102.0,
+        "width": 395.0
       },
       "icyr": {
-        "leftMargin": 222.0,
-        "width": 1306.0
+        "leftMargin": 296.0,
+        "width": 1454.0
       },
       "idblgrave": {
-        "leftMargin": -324.0,
-        "width": 379.0
+        "leftMargin": -432.0,
+        "width": 258.0
       },
       "idieresis": {
-        "leftMargin": -112.5,
-        "width": 425.0
+        "leftMargin": -150.0,
+        "width": 350.0
       },
       "idotaccent": {
-        "leftMargin": 201.0,
-        "width": 634.0
+        "leftMargin": 268.0,
+        "width": 768.0
       },
       "idotbelow": {
-        "leftMargin": 201.0,
-        "width": 634.0
+        "leftMargin": 268.0,
+        "width": 768.0
       },
       "idotless": {
-        "leftMargin": 235.5,
-        "width": 657.0
+        "leftMargin": 314.0,
+        "width": 814.0
       },
       "ie": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "iebrevecyr": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "iemacroncyr": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "ieukran": {
-        "leftMargin": 127.5,
-        "width": 1145.0
+        "leftMargin": 170.0,
+        "width": 1222.0
       },
       "igrave": {
-        "leftMargin": 25.5,
-        "width": 548.0
+        "leftMargin": 34.0,
+        "width": 596.0
       },
       "igrave.bgr": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "igravecyr": {
-        "leftMargin": 222.0,
-        "width": 1306.0
+        "leftMargin": 296.0,
+        "width": 1454.0
       },
       "ihookabove": {
-        "leftMargin": 105.0,
-        "width": 492.0
+        "leftMargin": 140.0,
+        "width": 484.0
       },
       "iinvertedbreve": {
-        "leftMargin": -127.5,
-        "width": 414.0
+        "leftMargin": -170.0,
+        "width": 328.0
       },
       "ij": {
-        "leftMargin": 201.0,
-        "width": 1134.0
+        "leftMargin": 268.0,
+        "width": 1268.0
       },
       "ijacute": {
-        "leftMargin": 201.0,
-        "width": 1073.5
+        "leftMargin": 268.0,
+        "width": 1147.0
       },
       "imacron": {
-        "leftMargin": -96.0,
-        "width": 436.0
+        "leftMargin": -128.0,
+        "width": 372.0
       },
       "increment": {
-        "leftMargin": 43.5,
-        "width": 1322.5
+        "leftMargin": 58.0,
+        "width": 1351.0
       },
       "io": {
-        "leftMargin": 127.5,
-        "width": 1170.5
+        "leftMargin": 170.0,
+        "width": 1253.0
       },
       "iogonek": {
-        "leftMargin": -30.0,
-        "width": 557.0
+        "leftMargin": -40.0,
+        "width": 614.0
       },
       "iota": {
-        "leftMargin": 207.0,
-        "width": 694.0
+        "leftMargin": 276.0,
+        "width": 788.0
       },
       "iotadieresis": {
-        "leftMargin": -132.0,
-        "width": 575.0
+        "leftMargin": -176.0,
+        "width": 550.0
       },
       "iotadieresistonos": {
-        "leftMargin": -183.0,
-        "width": 530.0
+        "leftMargin": -244.0,
+        "width": 460.0
       },
       "iotatonos": {
-        "leftMargin": 207.0,
-        "width": 694.0
+        "leftMargin": 276.0,
+        "width": 788.0
       },
       "ishort": {
-        "leftMargin": 222.0,
-        "width": 1306.0
+        "leftMargin": 296.0,
+        "width": 1454.0
       },
       "ishort.bgr": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "itilde": {
-        "leftMargin": -159.0,
-        "width": 372.5
+        "leftMargin": -212.0,
+        "width": 245.0
       },
       "iukran": {
-        "leftMargin": 201.0,
-        "width": 634.0
+        "leftMargin": 268.0,
+        "width": 768.0
       },
       "j": {
-        "leftMargin": -141.0,
-        "width": 520.0
+        "leftMargin": -188.0,
+        "width": 540.0
       },
       "jacute.loclNLD": {
-        "leftMargin": -141.0,
-        "width": 459.5
+        "leftMargin": -188.0,
+        "width": 419.0
       },
       "jcircumflex": {
-        "leftMargin": -141.0,
-        "width": 426.0
+        "leftMargin": -188.0,
+        "width": 352.0
       },
       "jdotless": {
-        "leftMargin": -141.0,
-        "width": 531.5
+        "leftMargin": -188.0,
+        "width": 563.0
       },
       "je": {
-        "leftMargin": -141.0,
-        "width": 520.0
+        "leftMargin": -188.0,
+        "width": 540.0
       },
       "k": {
-        "leftMargin": 222.0,
-        "width": 1094.0
+        "leftMargin": 296.0,
+        "width": 1160.0
       },
       "ka": {
-        "leftMargin": 222.0,
-        "width": 1109.5
+        "leftMargin": 296.0,
+        "width": 1176.0
       },
       "ka.bgr": {
-        "leftMargin": 222.0,
-        "width": 1094.0
+        "leftMargin": 296.0,
+        "width": 1160.0
       },
       "kabashkircyr": {
-        "leftMargin": 45.0,
-        "width": 1222.5
+        "leftMargin": 60.0,
+        "width": 1230.0
       },
       "kadescender": {
-        "leftMargin": 222.0,
-        "width": 1082.5
+        "leftMargin": 296.0,
+        "width": 1137.0
       },
       "kaisymbol": {
-        "leftMargin": 222.0,
-        "width": 1114.5
+        "leftMargin": 296.0,
+        "width": 1186.0
       },
       "kappa": {
-        "leftMargin": 222.0,
-        "width": 1109.5
+        "leftMargin": 296.0,
+        "width": 1176.0
       },
       "kaverticalstrokecyr": {
-        "leftMargin": 222.0,
-        "width": 1271.5
+        "leftMargin": 296.0,
+        "width": 1333.0
       },
       "kcommaaccent": {
-        "leftMargin": 222.0,
-        "width": 1094.0
+        "leftMargin": 296.0,
+        "width": 1160.0
       },
       "kgreenlandic": {
-        "leftMargin": 232.5,
-        "width": 1141.5
+        "leftMargin": 310.0,
+        "width": 1211.0
       },
       "kje": {
-        "leftMargin": 222.0,
-        "width": 1109.5
+        "leftMargin": 296.0,
+        "width": 1176.0
       },
       "l": {
-        "leftMargin": 234.0,
-        "width": 654.0
+        "leftMargin": 312.0,
+        "width": 810.0
       },
       "lacute": {
-        "leftMargin": 138.0,
-        "width": 550.0
+        "leftMargin": 184.0,
+        "width": 602.0
       },
       "lambda": {
         "leftMargin": 0,
         "width": 961
       },
       "lcaron": {
-        "leftMargin": 234.0,
-        "width": 423.0
+        "leftMargin": 312.0,
+        "width": 348.0
       },
       "lcommaaccent": {
-        "leftMargin": 168.0,
-        "width": 602.0
+        "leftMargin": 224.0,
+        "width": 706.0
       },
       "ldot": {
-        "leftMargin": 234.0,
-        "width": 1109.0
+        "leftMargin": 312.0,
+        "width": 1267.0
       },
       "leftanglebracket": {
-        "leftMargin": -24.0,
-        "width": 692.5
+        "leftMargin": -32.0,
+        "width": 685.0
       },
       "less": {
-        "leftMargin": 150.0,
-        "width": 1127.0
+        "leftMargin": 200.0,
+        "width": 1230.0
       },
       "lessequal": {
-        "leftMargin": 78.0,
-        "width": 1081.0
+        "leftMargin": 104.0,
+        "width": 1138.0
       },
       "lira": {
-        "leftMargin": 54.0,
-        "width": 1040.0
+        "leftMargin": 72.0,
+        "width": 1056.0
       },
       "liraTurkish": {
-        "leftMargin": 9.0,
-        "width": 1031.5
+        "leftMargin": 12.0,
+        "width": 1039.0
       },
       "lj": {
-        "leftMargin": 234.0,
-        "width": 1143.0
+        "leftMargin": 312.0,
+        "width": 1288.0
       },
       "lje": {
-        "leftMargin": 15.0,
-        "width": 1705.0
+        "leftMargin": 20.0,
+        "width": 1745.0
       },
       "logicalnot": {
-        "leftMargin": 87.0,
-        "width": 1101.0
+        "leftMargin": 116.0,
+        "width": 1178.0
       },
       "lownumeralsign": {
-        "leftMargin": 165.0,
-        "width": 724.0
+        "leftMargin": 220.0,
+        "width": 874.0
       },
       "lslash": {
-        "leftMargin": -91.5,
-        "width": 437.0
+        "leftMargin": -122.0,
+        "width": 376.0
       },
       "m": {
-        "leftMargin": 222.0,
-        "width": 1907.0
+        "leftMargin": 296.0,
+        "width": 2050.0
       },
       "macron": {
-        "leftMargin": 297.0,
-        "width": 1222.0
+        "leftMargin": 396.0,
+        "width": 1420.0
       },
       "macronbelowcomb": {
-        "leftMargin": 324.0,
-        "width": 1240.0
+        "leftMargin": 432.0,
+        "width": 1456.0
       },
       "macronbelowcomb.case": {
-        "leftMargin": 324.0,
-        "width": 1240.0
+        "leftMargin": 432.0,
+        "width": 1456.0
       },
       "macroncomb": {
-        "leftMargin": 297.0,
-        "width": 1222.0
+        "leftMargin": 396.0,
+        "width": 1420.0
       },
       "macroncomb.case": {
-        "leftMargin": 324.0,
-        "width": 1240.0
+        "leftMargin": 432.0,
+        "width": 1456.0
       },
       "macroncombstack.case": {
-        "leftMargin": 324.0,
-        "width": 1240.0
+        "leftMargin": 432.0,
+        "width": 1456.0
       },
       "manat": {
-        "leftMargin": 97.5,
-        "width": 1089.0
+        "leftMargin": 130.0,
+        "width": 1154.0
       },
       "micro": {
-        "leftMargin": -63.0,
-        "width": 1229.0
+        "leftMargin": -84.0,
+        "width": 1260.0
       },
       "minus": {
-        "leftMargin": 85.5,
-        "width": 1081.0
+        "leftMargin": 114.0,
+        "width": 1138.0
       },
       "minute": {
-        "leftMargin": 150.0,
-        "width": 737.0
+        "leftMargin": 200.0,
+        "width": 820.0
       },
       "mu": {
-        "leftMargin": 222.0,
-        "width": 1301.0
+        "leftMargin": 296.0,
+        "width": 1396.0
       },
       "multiply": {
-        "leftMargin": 123.0,
-        "width": 1111.5
+        "leftMargin": 164.0,
+        "width": 1199.0
       },
       "n": {
-        "leftMargin": 222.0,
-        "width": 1281.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "nacute": {
-        "leftMargin": 222.0,
-        "width": 1281.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "naira": {
-        "leftMargin": -12.0,
-        "width": 1016.0
+        "leftMargin": -16.0,
+        "width": 1008.0
       },
       "naira.rvrn": {
-        "leftMargin": -12.0,
-        "width": 1016.0
+        "leftMargin": -16.0,
+        "width": 1008.0
       },
       "napostrophe": {
-        "leftMargin": 222.0,
-        "width": 1668.0
+        "leftMargin": 296.0,
+        "width": 1788.0
       },
       "nbspace": {
         "width": 500
       },
       "ncaron": {
-        "leftMargin": 222.0,
-        "width": 1281.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "ncommaaccent": {
-        "leftMargin": 222.0,
-        "width": 1281.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "nine": {
-        "leftMargin": 108.0,
-        "width": 1236.0
+        "leftMargin": 144.0,
+        "width": 1316.0
       },
       "nine.prop": {
-        "leftMargin": 90.0,
-        "width": 1206.0
+        "leftMargin": 120.0,
+        "width": 1276.0
       },
       "nj": {
-        "leftMargin": 222.0,
-        "width": 1779.0
+        "leftMargin": 296.0,
+        "width": 1920.0
       },
       "nje": {
-        "leftMargin": 222.0,
-        "width": 1805.0
+        "leftMargin": 296.0,
+        "width": 1909.0
       },
       "notequal": {
-        "leftMargin": 85.5,
-        "width": 1081.0
+        "leftMargin": 114.0,
+        "width": 1138.0
       },
       "ntilde": {
-        "leftMargin": 222.0,
-        "width": 1281.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "nu": {
         "leftMargin": 0,
         "width": 942
       },
       "numbersign": {
-        "leftMargin": 96.0,
-        "width": 1620.5
+        "leftMargin": 128.0,
+        "width": 1697.0
       },
       "numeralsign": {
-        "leftMargin": 165.0,
-        "width": 724.0
+        "leftMargin": 220.0,
+        "width": 874.0
       },
       "numero": {
-        "leftMargin": 255.0,
-        "width": 2468.5
+        "leftMargin": 340.0,
+        "width": 2606.0
       },
       "o": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "oacute": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "obarcyr": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "obreve": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "obrevecyr": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "ocircumflex": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "ocircumflexacute": {
-        "leftMargin": 127.5,
-        "width": 1156.0
+        "leftMargin": 170.0,
+        "width": 1150.0
       },
       "ocircumflexdotbelow": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "ocircumflexgrave": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "ocircumflexhookabove": {
-        "leftMargin": 127.5,
-        "width": 1166.0
+        "leftMargin": 170.0,
+        "width": 1170.0
       },
       "ocircumflextilde": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "ocyr": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "odblgrave": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "odieresis": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "odieresiscyr": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "odieresismacron": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "odotaccentmacron": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "odotbelow": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "oe": {
-        "leftMargin": 127.5,
-        "width": 1971.5
+        "leftMargin": 170.0,
+        "width": 2054.0
       },
       "ogonek": {
-        "leftMargin": 412.5,
-        "width": 1359.5
+        "leftMargin": 550.0,
+        "width": 1695.0
       },
       "ogonekcomb": {
-        "leftMargin": 412.5,
-        "width": 1359.5
+        "leftMargin": 550.0,
+        "width": 1695.0
       },
       "ogonekcomb.case": {
-        "leftMargin": 331.5,
-        "width": 1245.0
+        "leftMargin": 442.0,
+        "width": 1466.0
       },
       "ograve": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "ohm": {
-        "leftMargin": 172.5,
-        "width": 1593.0
+        "leftMargin": 230.0,
+        "width": 1708.0
       },
       "ohookabove": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "ohorn": {
-        "leftMargin": 127.5,
-        "width": 1228.5
+        "leftMargin": 170.0,
+        "width": 1295.0
       },
       "ohornacute": {
-        "leftMargin": 127.5,
-        "width": 1228.5
+        "leftMargin": 170.0,
+        "width": 1295.0
       },
       "ohorndotbelow": {
-        "leftMargin": 127.5,
-        "width": 1228.5
+        "leftMargin": 170.0,
+        "width": 1295.0
       },
       "ohorngrave": {
-        "leftMargin": 127.5,
-        "width": 1228.5
+        "leftMargin": 170.0,
+        "width": 1295.0
       },
       "ohornhookabove": {
-        "leftMargin": 127.5,
-        "width": 1228.5
+        "leftMargin": 170.0,
+        "width": 1295.0
       },
       "ohorntilde": {
-        "leftMargin": 127.5,
-        "width": 1228.5
+        "leftMargin": 170.0,
+        "width": 1295.0
       },
       "ohungarumlaut": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "oinvertedbreve": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "omacron": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "omacroncyr": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "omega": {
-        "leftMargin": 142.5,
-        "width": 1665.0
+        "leftMargin": 190.0,
+        "width": 1760.0
       },
       "omegatonos": {
-        "leftMargin": 142.5,
-        "width": 1665.0
+        "leftMargin": 190.0,
+        "width": 1760.0
       },
       "omicron": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "omicrontonos": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "one": {
-        "leftMargin": 258.0,
-        "width": 1454.0
+        "leftMargin": 344.0,
+        "width": 1752.0
       },
       "one.prop": {
-        "leftMargin": 37.5,
-        "width": 824.0
+        "leftMargin": 50.0,
+        "width": 912.0
       },
       "onehalf": {
-        "leftMargin": 184.5,
-        "width": 1618.5
+        "leftMargin": 246.0,
+        "width": 1701.0
       },
       "onequarter": {
-        "leftMargin": 184.5,
-        "width": 1615.5
+        "leftMargin": 246.0,
+        "width": 1695.0
       },
       "onesuperior": {
-        "leftMargin": 184.5,
-        "width": 937.5
+        "leftMargin": 246.0,
+        "width": 1124.0
       },
       "oogonek": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "ordfeminine": {
-        "leftMargin": 211.5,
-        "width": 1052.5
+        "leftMargin": 282.0,
+        "width": 1189.0
       },
       "ordmasculine": {
-        "leftMargin": 184.5,
-        "width": 1056.0
+        "leftMargin": 246.0,
+        "width": 1180.0
       },
       "oslash": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "oslashacute": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "otilde": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "otildemacron": {
-        "leftMargin": 127.5,
-        "width": 1247.0
+        "leftMargin": 170.0,
+        "width": 1332.0
       },
       "p": {
-        "leftMargin": 222.0,
-        "width": 1286.5
+        "leftMargin": 296.0,
+        "width": 1403.0
       },
       "palochka": {
-        "leftMargin": 234.0,
-        "width": 654.0
+        "leftMargin": 312.0,
+        "width": 810.0
       },
       "paragraph": {
-        "leftMargin": 84.0,
-        "width": 1389.0
+        "leftMargin": 112.0,
+        "width": 1517.0
       },
       "parenleft": {
-        "leftMargin": 186.0,
-        "width": 780.0
+        "leftMargin": 248.0,
+        "width": 860.0
       },
       "parenright": {
-        "leftMargin": 54.0,
-        "width": 780.0
+        "leftMargin": 72.0,
+        "width": 860.0
       },
       "pe": {
-        "leftMargin": 222.0,
-        "width": 1276.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "pe.bgr": {
-        "leftMargin": 222.0,
-        "width": 1281.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "pe.locl": {
-        "leftMargin": 222.0,
-        "width": 1276.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "percent": {
-        "leftMargin": 102.0,
-        "width": 1916.0
+        "leftMargin": 136.0,
+        "width": 1984.0
       },
       "period": {
-        "leftMargin": 240.0,
-        "width": 740.0
+        "leftMargin": 320.0,
+        "width": 900.0
       },
       "periodcentered": {
-        "leftMargin": 264.0,
-        "width": 776.0
+        "leftMargin": 352.0,
+        "width": 952.0
       },
       "periodcentered.loclCAT": {
-        "leftMargin": 264.0,
-        "width": 776.0
+        "leftMargin": 352.0,
+        "width": 952.0
       },
       "periodcentered.loclCAT.case": {
-        "leftMargin": 264.0,
-        "width": 776.0
+        "leftMargin": 352.0,
+        "width": 952.0
       },
       "perthousand": {
-        "leftMargin": 102.0,
-        "width": 2716.0
+        "leftMargin": 136.0,
+        "width": 2784.0
       },
       "peseta": {
-        "leftMargin": 250.5,
-        "width": 1803.5
+        "leftMargin": 334.0,
+        "width": 1926.0
       },
       "phi": {
-        "leftMargin": 127.5,
-        "width": 1533.0
+        "leftMargin": 170.0,
+        "width": 1618.0
       },
       "pi": {
         "leftMargin": 0,
-        "width": 1209.0
+        "width": 1234.0
       },
       "plus": {
-        "leftMargin": 85.5,
-        "width": 1081.0
+        "leftMargin": 114.0,
+        "width": 1138.0
       },
       "plusminus": {
-        "leftMargin": 85.5,
-        "width": 1081.0
+        "leftMargin": 114.0,
+        "width": 1138.0
       },
       "primemod": {
-        "leftMargin": 258.0,
-        "width": 779.5
+        "leftMargin": 344.0,
+        "width": 959.0
       },
       "psi": {
-        "leftMargin": 207.0,
-        "width": 1576.0
+        "leftMargin": 276.0,
+        "width": 1714.0
       },
       "q": {
-        "leftMargin": 127.5,
-        "width": 1286.5
+        "leftMargin": 170.0,
+        "width": 1403.0
       },
       "question": {
-        "leftMargin": 90.0,
-        "width": 1045.0
+        "leftMargin": 120.0,
+        "width": 1122.0
       },
       "questiondown": {
-        "leftMargin": 141.0,
-        "width": 1045.0
+        "leftMargin": 188.0,
+        "width": 1122.0
       },
       "quotedbl": {
-        "leftMargin": 150.0,
-        "width": 860.0
+        "leftMargin": 200.0,
+        "width": 960.0
       },
       "quotedblbase": {
-        "leftMargin": 58.5,
-        "width": 895.5
+        "leftMargin": 78.0,
+        "width": 961.0
       },
       "quotedblleft": {
-        "leftMargin": 138.0,
-        "width": 895.5
+        "leftMargin": 184.0,
+        "width": 961.0
       },
       "quotedblright": {
-        "leftMargin": 58.5,
-        "width": 895.5
+        "leftMargin": 78.0,
+        "width": 961.0
       },
       "quoteleft": {
-        "leftMargin": 138.0,
-        "width": 475.5
+        "leftMargin": 184.0,
+        "width": 541.0
       },
       "quoteright": {
-        "leftMargin": 58.5,
-        "width": 475.5
+        "leftMargin": 78.0,
+        "width": 541.0
       },
       "quotesinglbase": {
-        "leftMargin": 58.5,
-        "width": 475.5
+        "leftMargin": 78.0,
+        "width": 541.0
       },
       "quotesingle": {
-        "leftMargin": 150.0,
-        "width": 500.0
+        "leftMargin": 200.0,
+        "width": 600.0
       },
       "r": {
-        "leftMargin": 222.0,
-        "width": 789.0
+        "leftMargin": 296.0,
+        "width": 878.0
       },
       "racute": {
-        "leftMargin": 222.0,
-        "width": 789.0
+        "leftMargin": 296.0,
+        "width": 878.0
       },
       "rcaron": {
-        "leftMargin": 174.0,
-        "width": 747.5
+        "leftMargin": 232.0,
+        "width": 795.0
       },
       "rcommaaccent": {
-        "leftMargin": 222.0,
-        "width": 789.0
+        "leftMargin": 296.0,
+        "width": 878.0
       },
       "rdblgrave": {
-        "leftMargin": -73.5,
-        "width": 679.0
+        "leftMargin": -98.0,
+        "width": 658.0
       },
       "registered": {
-        "leftMargin": 57.0,
-        "width": 1692.0
+        "leftMargin": 76.0,
+        "width": 1730.0
       },
       "replacementchar": {
-        "leftMargin": 138.0,
-        "width": 2194.0
+        "leftMargin": 184.0,
+        "width": 2287.0
       },
       "rho": {
-        "leftMargin": 222.0,
-        "width": 1286.5
+        "leftMargin": 296.0,
+        "width": 1403.0
       },
       "rightanglebracket": {
-        "leftMargin": 1.5,
-        "width": 692.5
+        "leftMargin": 2.0,
+        "width": 685.0
       },
       "ring": {
-        "leftMargin": 429.0,
-        "width": 1310.0
+        "leftMargin": 572.0,
+        "width": 1596.0
       },
       "ringcomb": {
-        "leftMargin": 429.0,
-        "width": 1310.0
+        "leftMargin": 572.0,
+        "width": 1596.0
       },
       "ringcomb.case": {
-        "leftMargin": 409.5,
-        "width": 1297.0
+        "leftMargin": 546.0,
+        "width": 1570.0
       },
       "rinvertedbreve": {
-        "leftMargin": 123.0,
-        "width": 714.0
+        "leftMargin": 164.0,
+        "width": 728.0
       },
       "ruble": {
-        "leftMargin": 45.0,
-        "width": 1034.0
+        "leftMargin": 60.0,
+        "width": 1044.0
       },
       "rupeeIndian": {
-        "leftMargin": 28.5,
-        "width": 1041.0
+        "leftMargin": 38.0,
+        "width": 1058.0
       },
       "s": {
-        "leftMargin": 120.0,
-        "width": 1090.0
+        "leftMargin": 160.0,
+        "width": 1170.0
       },
       "sacute": {
-        "leftMargin": 120.0,
-        "width": 1090.0
+        "leftMargin": 160.0,
+        "width": 1170.0
       },
       "scaron": {
-        "leftMargin": 120.0,
-        "width": 1090.0
+        "leftMargin": 160.0,
+        "width": 1170.0
       },
       "scedilla": {
-        "leftMargin": 120.0,
-        "width": 1090.0
+        "leftMargin": 160.0,
+        "width": 1170.0
       },
       "schwa": {
-        "leftMargin": 120.0,
-        "width": 1170.5
+        "leftMargin": 160.0,
+        "width": 1253.0
       },
       "schwacyr": {
-        "leftMargin": 120.0,
-        "width": 1170.5
+        "leftMargin": 160.0,
+        "width": 1253.0
       },
       "scircumflex": {
-        "leftMargin": 120.0,
-        "width": 1090.0
+        "leftMargin": 160.0,
+        "width": 1170.0
       },
       "scommaaccent": {
-        "leftMargin": 120.0,
-        "width": 1090.0
+        "leftMargin": 160.0,
+        "width": 1170.0
       },
       "second": {
-        "leftMargin": 150.0,
-        "width": 1136.5
+        "leftMargin": 200.0,
+        "width": 1219.0
       },
       "section": {
-        "leftMargin": 178.5,
-        "width": 1376.0
+        "leftMargin": 238.0,
+        "width": 1496.0
       },
       "semicolon": {
-        "leftMargin": 180.0,
-        "width": 748.0
+        "leftMargin": 240.0,
+        "width": 896.0
       },
       "seven": {
-        "leftMargin": 117.0,
-        "width": 1247.0
+        "leftMargin": 156.0,
+        "width": 1338.0
       },
       "seven.prop": {
-        "leftMargin": -4.5,
-        "width": 886.0
+        "leftMargin": -6.0,
+        "width": 890.0
       },
       "sha": {
-        "leftMargin": 222.0,
-        "width": 1822.0
+        "leftMargin": 296.0,
+        "width": 1970.0
       },
       "sha.bgr": {
-        "leftMargin": 207.0,
-        "width": 1907.0
+        "leftMargin": 276.0,
+        "width": 2050.0
       },
       "shcha": {
-        "leftMargin": 222.0,
-        "width": 1785.0
+        "leftMargin": 296.0,
+        "width": 1869.0
       },
       "shcha.bgr": {
-        "leftMargin": 207.0,
-        "width": 1870.0
+        "leftMargin": 276.0,
+        "width": 1949.0
       },
       "shha": {
-        "leftMargin": 222.0,
-        "width": 1281.0
+        "leftMargin": 296.0,
+        "width": 1424.0
       },
       "sigma": {
-        "leftMargin": 127.5,
-        "width": 1294.5
+        "leftMargin": 170.0,
+        "width": 1362.0
       },
       "six": {
-        "leftMargin": 132.0,
-        "width": 1236.0
+        "leftMargin": 176.0,
+        "width": 1316.0
       },
       "six.prop": {
-        "leftMargin": 120.0,
-        "width": 1206.0
+        "leftMargin": 160.0,
+        "width": 1276.0
       },
       "slash": {
-        "leftMargin": -150.0,
-        "width": 484.0
+        "leftMargin": -200.0,
+        "width": 384.0
       },
       "soft": {
-        "leftMargin": 222.0,
-        "width": 1152.0
+        "leftMargin": 296.0,
+        "width": 1256.0
       },
       "soft.bgr": {
-        "leftMargin": 222.0,
-        "width": 1192.0
+        "leftMargin": 296.0,
+        "width": 1296.0
       },
       "softhyphen": {
         "width": 0
       },
+      "space": {
+        "width": 500
+      },
       "sterling": {
-        "leftMargin": 54.0,
-        "width": 1040.0
+        "leftMargin": 72.0,
+        "width": 1056.0
       },
       "t": {
         "leftMargin": 0,
-        "width": 675.0
+        "width": 700.0
       },
       "tau": {
         "leftMargin": 0,
-        "width": 845.0
+        "width": 870.0
       },
       "tbar": {
         "leftMargin": 0,
-        "width": 662.0
+        "width": 673.0
       },
       "tcaron": {
         "leftMargin": 0,
-        "width": 1137.0
+        "width": 1162.0
       },
       "tcedilla": {
         "leftMargin": 0,
-        "width": 670.0
+        "width": 690.0
       },
       "tcommaaccent": {
         "leftMargin": 0,
-        "width": 675.0
+        "width": 700.0
       },
       "te": {
-        "leftMargin": 45.0,
-        "width": 936.0
+        "leftMargin": 60.0,
+        "width": 966.0
       },
       "te.bgr": {
-        "leftMargin": 222.0,
-        "width": 1907.0
+        "leftMargin": 296.0,
+        "width": 2050.0
       },
       "te.locl": {
-        "leftMargin": 45.0,
-        "width": 936.0
+        "leftMargin": 60.0,
+        "width": 966.0
       },
       "tedescender-cy": {
-        "leftMargin": 45.0,
-        "width": 936.0
+        "leftMargin": 60.0,
+        "width": 966.0
       },
       "tenge": {
-        "leftMargin": 36.0,
-        "width": 1048.0
+        "leftMargin": 48.0,
+        "width": 1072.0
       },
       "theta": {
-        "leftMargin": 142.5,
-        "width": 1238.0
+        "leftMargin": 190.0,
+        "width": 1333.0
       },
       "thinspace": {
         "width": 100
       },
       "thorn": {
-        "leftMargin": 222.0,
-        "width": 1286.5
+        "leftMargin": 296.0,
+        "width": 1403.0
       },
       "three": {
-        "leftMargin": 120.0,
-        "width": 1253.0
+        "leftMargin": 160.0,
+        "width": 1350.0
       },
       "three.prop": {
-        "leftMargin": 25.5,
-        "width": 1095.5
+        "leftMargin": 34.0,
+        "width": 1140.0
       },
       "threequarters": {
-        "leftMargin": 94.5,
-        "width": 1585.5
+        "leftMargin": 126.0,
+        "width": 1635.0
       },
       "threesuperior": {
-        "leftMargin": 94.5,
-        "width": 824.5
+        "leftMargin": 126.0,
+        "width": 898.0
       },
       "tilde": {
-        "leftMargin": 234.0,
-        "width": 1158.5
+        "leftMargin": 312.0,
+        "width": 1293.0
       },
       "tildecomb": {
-        "leftMargin": 234.0,
-        "width": 1158.5
+        "leftMargin": 312.0,
+        "width": 1293.0
       },
       "tildecomb.case": {
-        "leftMargin": 157.5,
-        "width": 1119.0
+        "leftMargin": 210.0,
+        "width": 1214.0
       },
       "tildecombstack.case": {
-        "leftMargin": 259.5,
-        "width": 1183.5
+        "leftMargin": 346.0,
+        "width": 1343.0
       },
       "tonos": {
-        "leftMargin": 532.5,
-        "width": 1203.0
+        "leftMargin": 710.0,
+        "width": 1518.0
       },
       "tonos.case": {
-        "leftMargin": 532.5,
-        "width": 1203.0
+        "leftMargin": 710.0,
+        "width": 1518.0
       },
       "tonoscomb": {
-        "leftMargin": 532.5,
-        "width": 1203.0
+        "leftMargin": 710.0,
+        "width": 1518.0
       },
       "trademark": {
-        "leftMargin": 36.0,
-        "width": 1975.5
+        "leftMargin": 48.0,
+        "width": 2070.0
       },
       "tse": {
-        "leftMargin": 222.0,
-        "width": 1239.0
+        "leftMargin": 296.0,
+        "width": 1323.0
       },
       "tse.bgr": {
-        "leftMargin": 207.0,
-        "width": 1244.0
+        "leftMargin": 276.0,
+        "width": 1323.0
       },
       "tshe": {
-        "leftMargin": 25.5,
-        "width": 1215.0
+        "leftMargin": 34.0,
+        "width": 1292.0
       },
       "two": {
-        "leftMargin": 165.0,
-        "width": 1254.0
+        "leftMargin": 220.0,
+        "width": 1352.0
       },
       "two.prop": {
-        "leftMargin": 39.0,
-        "width": 1002.0
+        "leftMargin": 52.0,
+        "width": 1016.0
       },
       "twosuperior": {
-        "leftMargin": 100.48125,
-        "width": 818.49375
+        "leftMargin": 133.975,
+        "width": 885.9875
       },
       "u": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "uacute": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "ubreve": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "ucircumflex": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "ucyr": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "udblgrave": {
-        "leftMargin": 154.5,
-        "width": 1263.5
+        "leftMargin": 206.0,
+        "width": 1389.0
       },
       "udieresis": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "udieresiscyr": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "udotbelow": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "ugrave": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "uhookabove": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "uhorn": {
-        "leftMargin": 207.0,
-        "width": 1151.0
+        "leftMargin": 276.0,
+        "width": 1164.0
       },
       "uhornacute": {
-        "leftMargin": 207.0,
-        "width": 1151.0
+        "leftMargin": 276.0,
+        "width": 1164.0
       },
       "uhorndotbelow": {
-        "leftMargin": 207.0,
-        "width": 1151.0
+        "leftMargin": 276.0,
+        "width": 1164.0
       },
       "uhorngrave": {
-        "leftMargin": 207.0,
-        "width": 1151.0
+        "leftMargin": 276.0,
+        "width": 1164.0
       },
       "uhornhookabove": {
-        "leftMargin": 207.0,
-        "width": 1151.0
+        "leftMargin": 276.0,
+        "width": 1164.0
       },
       "uhorntilde": {
-        "leftMargin": 207.0,
-        "width": 1151.0
+        "leftMargin": 276.0,
+        "width": 1164.0
       },
       "uhungarumlaut": {
-        "leftMargin": 207.0,
-        "width": 1268.0
+        "leftMargin": 276.0,
+        "width": 1398.0
       },
       "uhungarumlautcyr": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "uinvertedbreve": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "umacron": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "umacroncyr": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "underscore": {
         "leftMargin": 0,
         "width": 1024
       },
       "uni20AD": {
-        "leftMargin": -13.5,
-        "width": 1001.0
+        "leftMargin": -18.0,
+        "width": 978.0
       },
       "uni20B1": {
-        "leftMargin": -1.5,
-        "width": 1026.0
+        "leftMargin": -2.0,
+        "width": 1028.0
       },
       "uni20B1.rvrn": {
-        "leftMargin": -1.5,
-        "width": 1026.0
+        "leftMargin": -2.0,
+        "width": 1028.0
       },
       "uni20B2": {
-        "leftMargin": 141.0,
-        "width": 1085.5
+        "leftMargin": 188.0,
+        "width": 1147.0
       },
       "uni20B2.rvrn": {
-        "leftMargin": 141.0,
-        "width": 1085.5
+        "leftMargin": 188.0,
+        "width": 1147.0
       },
       "uni20B5": {
-        "leftMargin": 153.0,
-        "width": 1082.0
+        "leftMargin": 204.0,
+        "width": 1140.0
       },
       "uni20B5.rvrn": {
-        "leftMargin": 153.0,
-        "width": 1082.0
+        "leftMargin": 204.0,
+        "width": 1140.0
       },
       "uogonek": {
-        "leftMargin": 207.0,
-        "width": 1270.5
+        "leftMargin": 276.0,
+        "width": 1403.0
       },
       "upsilon": {
-        "leftMargin": 207.0,
-        "width": 1266.0
+        "leftMargin": 276.0,
+        "width": 1404.0
       },
       "upsilondieresis": {
-        "leftMargin": 207.0,
-        "width": 1266.0
+        "leftMargin": 276.0,
+        "width": 1404.0
       },
       "upsilondieresistonos": {
-        "leftMargin": 207.0,
-        "width": 1266.0
+        "leftMargin": 276.0,
+        "width": 1404.0
       },
       "upsilontonos": {
-        "leftMargin": 207.0,
-        "width": 1266.0
+        "leftMargin": 276.0,
+        "width": 1404.0
       },
       "uring": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "ushort": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "ustraight": {
         "leftMargin": 0,
@@ -7370,164 +7377,164 @@
         "width": 942
       },
       "utilde": {
-        "leftMargin": 207.0,
-        "width": 1281.0
+        "leftMargin": 276.0,
+        "width": 1424.0
       },
       "v": {
         "leftMargin": 0,
         "width": 942
       },
       "ve": {
-        "leftMargin": 222.0,
-        "width": 1254.0
+        "leftMargin": 296.0,
+        "width": 1383.0
       },
       "ve.bgr": {
-        "leftMargin": 187.5,
-        "width": 1174.0
+        "leftMargin": 250.0,
+        "width": 1274.0
       },
       "w": {
-        "leftMargin": 37.5,
-        "width": 1571.0
+        "leftMargin": 50.0,
+        "width": 1596.0
       },
       "wacute": {
-        "leftMargin": 37.5,
-        "width": 1571.0
+        "leftMargin": 50.0,
+        "width": 1596.0
       },
       "wcircumflex": {
-        "leftMargin": 37.5,
-        "width": 1571.0
+        "leftMargin": 50.0,
+        "width": 1596.0
       },
       "wdieresis": {
-        "leftMargin": 37.5,
-        "width": 1571.0
+        "leftMargin": 50.0,
+        "width": 1596.0
       },
       "wgrave": {
-        "leftMargin": 37.5,
-        "width": 1571.0
+        "leftMargin": 50.0,
+        "width": 1596.0
       },
       "won": {
-        "leftMargin": 72.0,
-        "width": 1844.0
+        "leftMargin": 96.0,
+        "width": 1892.0
       },
       "won.rvrn": {
-        "leftMargin": 72.0,
-        "width": 1844.0
+        "leftMargin": 96.0,
+        "width": 1892.0
       },
       "x": {
-        "leftMargin": 30.0,
-        "width": 998.0
+        "leftMargin": 40.0,
+        "width": 1018.0
       },
       "xi": {
-        "leftMargin": 127.5,
-        "width": 982.0
+        "leftMargin": 170.0,
+        "width": 1044.0
       },
       "y": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "ya": {
-        "leftMargin": 127.5,
-        "width": 1233.5
+        "leftMargin": 170.0,
+        "width": 1350.0
       },
       "yacute": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "yamacron": {
-        "leftMargin": 127.5,
-        "width": 1233.5
+        "leftMargin": 170.0,
+        "width": 1350.0
       },
       "ycircumflex": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "ydieresis": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "ydotbelow": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "yen": {
-        "leftMargin": -52.5,
-        "width": 989.0
+        "leftMargin": -70.0,
+        "width": 954.0
       },
       "yeru": {
-        "leftMargin": 222.0,
-        "width": 1609.0
+        "leftMargin": 296.0,
+        "width": 1757.0
       },
       "ygrave": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "yhookabove": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "yi": {
-        "leftMargin": 30.0,
-        "width": 520.0
+        "leftMargin": 40.0,
+        "width": 540.0
       },
       "ymacron": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "ytilde": {
-        "leftMargin": 15.0,
-        "width": 947.0
+        "leftMargin": 20.0,
+        "width": 952.0
       },
       "yu": {
-        "leftMargin": 222.0,
-        "width": 1723.5
+        "leftMargin": 296.0,
+        "width": 1840.0
       },
       "yu.bgr": {
-        "leftMargin": 234.0,
-        "width": 1735.5
+        "leftMargin": 312.0,
+        "width": 1856.0
       },
       "yumacron": {
-        "leftMargin": 222.0,
-        "width": 1738.5
+        "leftMargin": 296.0,
+        "width": 1860.0
       },
       "z": {
-        "leftMargin": 105.0,
-        "width": 1059.0
+        "leftMargin": 140.0,
+        "width": 1126.0
       },
       "zacute": {
-        "leftMargin": 105.0,
-        "width": 1059.0
+        "leftMargin": 140.0,
+        "width": 1126.0
       },
       "zcaron": {
-        "leftMargin": 105.0,
-        "width": 1059.0
+        "leftMargin": 140.0,
+        "width": 1126.0
       },
       "zdotaccent": {
-        "leftMargin": 105.0,
-        "width": 1059.0
+        "leftMargin": 140.0,
+        "width": 1126.0
       },
       "ze": {
-        "leftMargin": 133.5,
-        "width": 1194.5
+        "leftMargin": 178.0,
+        "width": 1294.0
       },
       "ze.bgr": {
-        "leftMargin": 37.5,
-        "width": 1039.5
+        "leftMargin": 50.0,
+        "width": 1087.0
       },
       "zedescendercyr": {
-        "leftMargin": 133.5,
-        "width": 1194.5
+        "leftMargin": 178.0,
+        "width": 1294.0
       },
       "zero": {
-        "leftMargin": 165.0,
-        "width": 1266.0
+        "leftMargin": 220.0,
+        "width": 1376.0
       },
       "zero.prop": {
-        "leftMargin": 165.0,
-        "width": 1266.0
+        "leftMargin": 220.0,
+        "width": 1376.0
       },
       "zerosuperior": {
-        "leftMargin": 100.5,
-        "width": 854.0
+        "leftMargin": 134.0,
+        "width": 921.0
       },
       "zerowidthnbspace": {
         "width": 0
@@ -7536,28 +7543,28 @@
         "width": 0
       },
       "zeta": {
-        "leftMargin": 97.5,
-        "width": 828.5
+        "leftMargin": 130.0,
+        "width": 841.0
       },
       "zhe": {
-        "leftMargin": -37.5,
-        "width": 1370.0
+        "leftMargin": -50.0,
+        "width": 1345.0
       },
       "zhe.bgr": {
-        "leftMargin": -24.0,
-        "width": 1514.0
+        "leftMargin": -32.0,
+        "width": 1498.0
       },
       "zhebrevecyr": {
-        "leftMargin": -37.5,
-        "width": 1370.0
+        "leftMargin": -50.0,
+        "width": 1345.0
       },
       "zhedescender": {
-        "leftMargin": -37.5,
-        "width": 1368.0
+        "leftMargin": -50.0,
+        "width": 1336.0
       },
       "zhedieresiscyr": {
-        "leftMargin": -37.5,
-        "width": 1370.0
+        "leftMargin": -50.0,
+        "width": 1345.0
       }
     },
     "tight": {
@@ -14900,3552 +14907,3552 @@
       [
         "B",
         "V",
-        -24
+        -1
       ],
       [
         "B",
         "public.kern2.T_UC",
-        -27
+        -1
       ],
       [
         "B",
         "public.kern2.Y_UC",
-        -55
+        -1
       ],
       [
         "B",
         "public.kern2.emdash",
-        20
+        1
       ],
       [
         "F",
         "a",
-        -34
+        -1
       ],
       [
         "F",
         "aacute",
-        -34
+        -1
       ],
       [
         "F",
         "abreve",
-        -34
+        -1
       ],
       [
         "F",
         "abreveacute",
-        -34
+        -1
       ],
       [
         "F",
         "abrevedotbelow",
-        -34
+        -1
       ],
       [
         "F",
         "abrevegrave",
-        -34
+        -1
       ],
       [
         "F",
         "abrevehookabove",
-        -34
+        -1
       ],
       [
         "F",
         "abrevetilde",
-        -34
+        -1
       ],
       [
         "F",
         "acircumflex",
-        -34
+        -1
       ],
       [
         "F",
         "acircumflexacute",
-        -34
+        -1
       ],
       [
         "F",
         "acircumflexdotbelow",
-        -34
+        -1
       ],
       [
         "F",
         "acircumflexgrave",
-        -34
+        -1
       ],
       [
         "F",
         "acircumflexhookabove",
-        -34
+        -1
       ],
       [
         "F",
         "acircumflextilde",
-        -34
+        -1
       ],
       [
         "F",
         "adblgrave",
-        -34
+        -1
       ],
       [
         "F",
         "adieresis",
-        -34
+        -1
       ],
       [
         "F",
         "adotbelow",
-        -34
+        -1
       ],
       [
         "F",
         "agrave",
-        -34
+        -1
       ],
       [
         "F",
         "ahookabove",
-        -34
+        -1
       ],
       [
         "F",
         "ainvertedbreve",
-        -34
+        -1
       ],
       [
         "F",
         "amacron",
-        -34
+        -1
       ],
       [
         "F",
         "aogonek",
-        -34
+        -1
       ],
       [
         "F",
         "aring",
-        -34
+        -1
       ],
       [
         "F",
         "aringacute",
-        -34
+        -1
       ],
       [
         "F",
         "asterisk",
-        20
+        1
       ],
       [
         "F",
         "at",
-        -20
+        -1
       ],
       [
         "F",
         "atilde",
-        -34
+        -1
       ],
       [
         "F",
         "backslash",
-        110
+        1
       ],
       [
         "F",
         "o",
-        -21
+        -1
       ],
       [
         "F",
         "oacute",
-        -21
+        -1
       ],
       [
         "F",
         "obreve",
-        -21
+        -1
       ],
       [
         "F",
         "ocircumflex",
-        -21
+        -1
       ],
       [
         "F",
         "ocircumflexacute",
-        -21
+        -1
       ],
       [
         "F",
         "ocircumflexdotbelow",
-        -21
+        -1
       ],
       [
         "F",
         "ocircumflexgrave",
-        -21
+        -1
       ],
       [
         "F",
         "ocircumflexhookabove",
-        -21
+        -1
       ],
       [
         "F",
         "ocircumflextilde",
-        -21
+        -1
       ],
       [
         "F",
         "odblgrave",
-        -21
+        -1
       ],
       [
         "F",
         "odieresis",
-        -21
+        -1
       ],
       [
         "F",
         "odieresismacron",
-        -21
+        -1
       ],
       [
         "F",
         "odotaccentmacron",
-        -21
+        -1
       ],
       [
         "F",
         "odotbelow",
-        -21
+        -1
       ],
       [
         "F",
         "ograve",
-        -21
+        -1
       ],
       [
         "F",
         "ohookabove",
-        -21
+        -1
       ],
       [
         "F",
         "ohorntilde",
-        -21
+        -1
       ],
       [
         "F",
         "ohungarumlaut",
-        -21
+        -1
       ],
       [
         "F",
         "oinvertedbreve",
-        -21
+        -1
       ],
       [
         "F",
         "omacron",
-        -21
+        -1
       ],
       [
         "F",
         "oogonek",
-        -21
+        -1
       ],
       [
         "F",
         "otilde",
-        -21
+        -1
       ],
       [
         "F",
         "otildemacron",
-        -21
+        -1
       ],
       [
         "F",
         "public.kern2.A_UC",
-        -170
+        -1
       ],
       [
         "F",
         "public.kern2.J_UC",
-        -184
+        -1
       ],
       [
         "F",
         "public.kern2.T_UC",
-        20
+        1
       ],
       [
         "F",
         "public.kern2.a_LC",
-        0
+        -1
       ],
       [
         "F",
         "public.kern2.alpha",
-        -21
+        -1
       ],
       [
         "F",
         "public.kern2.colon",
-        -40
+        -1
       ],
       [
         "F",
         "public.kern2.comma",
-        -184
+        -1
       ],
       [
         "F",
         "public.kern2.gamma",
-        -24
+        -1
       ],
       [
         "F",
         "public.kern2.minute",
-        60
+        1
       ],
       [
         "F",
         "public.kern2.mnpr_LC",
-        -26
+        -1
       ],
       [
         "F",
         "public.kern2.o_LC",
-        0
+        -1
       ],
       [
         "F",
         "public.kern2.u_LC",
-        -22
+        -1
       ],
       [
         "F",
         "slash",
-        -50
+        -1
       ],
       [
         "Lslash",
         "ampersand",
-        -20
+        -1
       ],
       [
         "Lslash",
         "asterisk",
-        -100
+        -1
       ],
       [
         "Lslash",
         "backslash",
-        -110
+        -1
       ],
       [
         "Lslash",
         "public.kern2.minute",
-        -80
+        -1
       ],
       [
         "Lslash",
         "slash",
-        90
+        1
       ],
       [
         "P",
         "X",
-        -31
+        -1
       ],
       [
         "P",
         "ampersand",
-        -20
+        -1
       ],
       [
         "P",
         "asterisk",
-        50
+        1
       ],
       [
         "P",
         "at",
-        -20
+        -1
       ],
       [
         "P",
         "backslash",
-        60
+        1
       ],
       [
         "P",
         "public.kern2.AE_UC",
-        -97
+        -1
       ],
       [
         "P",
         "public.kern2.A_UC",
-        -113
+        -1
       ],
       [
         "P",
         "public.kern2.J_UC",
-        -170
+        -1
       ],
       [
         "P",
         "public.kern2.Z_UC",
-        -26
+        -1
       ],
       [
         "P",
         "public.kern2.a_LC",
-        -11
+        -1
       ],
       [
         "P",
         "public.kern2.alpha",
-        -13
+        -1
       ],
       [
         "P",
         "public.kern2.comma",
-        -274
+        -1
       ],
       [
         "P",
         "public.kern2.emdash",
-        20
+        1
       ],
       [
         "P",
         "public.kern2.gamma",
-        15
+        1
       ],
       [
         "P",
         "public.kern2.minute",
-        60
+        1
       ],
       [
         "P",
         "public.kern2.o_LC",
-        -13
+        -1
       ],
       [
         "P",
         "public.kern2.t_LC",
-        14
+        1
       ],
       [
         "P",
         "slash",
-        -70
+        -1
       ],
       [
         "Q",
         "V",
-        -28
+        -1
       ],
       [
         "Q",
         "Y",
-        -35
+        -1
       ],
       [
         "Q",
         "Yacute",
-        -35
+        -1
       ],
       [
         "Q",
         "Ycircumflex",
-        -35
+        -1
       ],
       [
         "Q",
         "Ydieresis",
-        -35
+        -1
       ],
       [
         "Q",
         "Ydotbelow",
-        -35
+        -1
       ],
       [
         "Q",
         "Ygrave",
-        -35
+        -1
       ],
       [
         "Q",
         "Yhookabove",
-        -35
+        -1
       ],
       [
         "Q",
         "Ytilde",
-        -35
+        -1
       ],
       [
         "Q",
         "public.kern2.T_UC",
-        -43
+        -1
       ],
       [
         "Q",
         "public.kern2.W_UC",
-        -20
+        -1
       ],
       [
         "Q",
         "public.kern2.Y_UC",
-        0
+        -1
       ],
       [
         "Q",
         "public.kern2.comma",
-        -50
+        -1
       ],
       [
         "Q",
         "public.kern2.emdash",
-        30
+        1
       ],
       [
         "Thorn",
         "asterisk",
-        40
+        1
       ],
       [
         "Thorn",
         "at",
-        30
+        1
       ],
       [
         "Thorn",
         "public.kern2.comma",
-        -110
+        -1
       ],
       [
         "Thorn",
         "public.kern2.emdash",
-        70
+        1
       ],
       [
         "V",
         "ampersand",
-        -50
+        -1
       ],
       [
         "V",
         "asterisk",
-        20
+        1
       ],
       [
         "V",
         "at",
-        -90
+        -1
       ],
       [
         "V",
         "backslash",
-        150
+        1
       ],
       [
         "V",
         "public.kern2.A_UC",
-        -75
+        -1
       ],
       [
         "V",
         "public.kern2.CG_UC",
-        -13
+        -1
       ],
       [
         "V",
         "public.kern2.J_UC",
-        -75
+        -1
       ],
       [
         "V",
         "public.kern2.Y_UC",
-        40
+        1
       ],
       [
         "V",
         "public.kern2.a_LC",
-        -46
+        -1
       ],
       [
         "V",
         "public.kern2.alpha",
-        -44
+        -1
       ],
       [
         "V",
         "public.kern2.colon",
-        -50
+        -1
       ],
       [
         "V",
         "public.kern2.comma",
-        -200
+        -1
       ],
       [
         "V",
         "public.kern2.emdash",
-        -37
+        -1
       ],
       [
         "V",
         "public.kern2.gamma",
-        -11
+        -1
       ],
       [
         "V",
         "public.kern2.minute",
-        60
+        1
       ],
       [
         "V",
         "public.kern2.mnpr_LC",
-        -30
+        -1
       ],
       [
         "V",
         "public.kern2.o_LC",
-        -46
+        -1
       ],
       [
         "V",
         "public.kern2.parens",
-        20
+        1
       ],
       [
         "V",
         "public.kern2.u_LC",
-        -28
+        -1
       ],
       [
         "V",
         "slash",
-        -90
+        -1
       ],
       [
         "X",
         "V",
-        14
+        1
       ],
       [
         "X",
         "ampersand",
-        -30
+        -1
       ],
       [
         "X",
         "asterisk",
-        -30
+        -1
       ],
       [
         "X",
         "backslash",
-        100
+        1
       ],
       [
         "X",
         "public.kern2.CG_UC",
-        -25
+        -1
       ],
       [
         "X",
         "public.kern2.alpha",
-        -26
+        -1
       ],
       [
         "X",
         "public.kern2.emdash",
-        -50
+        -1
       ],
       [
         "X",
         "public.kern2.gamma",
-        -31
+        -1
       ],
       [
         "X",
         "public.kern2.o_LC",
-        -21
+        -1
       ],
       [
         "X",
         "public.kern2.u_LC",
-        -21
+        -1
       ],
       [
         "X",
         "slash",
-        90
+        1
       ],
       [
         "Y",
         "bullet",
-        -45
+        -1
       ],
       [
         "Yacute",
         "ampersand",
-        -30
+        -1
       ],
       [
         "Yacute",
         "asterisk",
-        -49
+        -1
       ],
       [
         "Yacute",
         "bullet",
-        -45
+        -1
       ],
       [
         "Ycircumflex",
         "ampersand",
-        -30
+        -1
       ],
       [
         "Ycircumflex",
         "asterisk",
-        -49
+        -1
       ],
       [
         "Ycircumflex",
         "bullet",
-        -45
+        -1
       ],
       [
         "Ydieresis",
         "ampersand",
-        -30
+        -1
       ],
       [
         "Ydieresis",
         "asterisk",
-        -49
+        -1
       ],
       [
         "Ydieresis",
         "bullet",
-        -45
+        -1
       ],
       [
         "Ydotbelow",
         "ampersand",
-        -30
+        -1
       ],
       [
         "Ydotbelow",
         "asterisk",
-        -49
+        -1
       ],
       [
         "Ydotbelow",
         "bullet",
-        -45
+        -1
       ],
       [
         "Ygrave",
         "ampersand",
-        -30
+        -1
       ],
       [
         "Ygrave",
         "asterisk",
-        -49
+        -1
       ],
       [
         "Ygrave",
         "bullet",
-        -45
+        -1
       ],
       [
         "Yhookabove",
         "ampersand",
-        -30
+        -1
       ],
       [
         "Yhookabove",
         "asterisk",
-        -49
+        -1
       ],
       [
         "Yhookabove",
         "bullet",
-        -45
+        -1
       ],
       [
         "Ytilde",
         "ampersand",
-        -30
+        -1
       ],
       [
         "Ytilde",
         "asterisk",
-        -49
+        -1
       ],
       [
         "Ytilde",
         "bullet",
-        -45
+        -1
       ],
       [
         "ampersand",
         "Eth",
-        40
+        1
       ],
       [
         "ampersand",
         "Lslash",
-        40
+        1
       ],
       [
         "ampersand",
         "V",
-        -90
+        -1
       ],
       [
         "ampersand",
         "X",
-        20
+        1
       ],
       [
         "ampersand",
         "lslash",
-        40
+        1
       ],
       [
         "ampersand",
         "public.kern2.A_UC",
-        50
+        1
       ],
       [
         "ampersand",
         "public.kern2.J_UC",
-        50
+        1
       ],
       [
         "ampersand",
         "public.kern2.T_UC",
-        -130
+        -1
       ],
       [
         "ampersand",
         "public.kern2.U_UC",
-        -20
+        -1
       ],
       [
         "ampersand",
         "public.kern2.W_UC",
-        -80
+        -1
       ],
       [
         "ampersand",
         "public.kern2.Y_UC",
-        -150
+        -1
       ],
       [
         "ampersand",
         "public.kern2.f_LC",
-        -20
+        -1
       ],
       [
         "ampersand",
         "public.kern2.gamma",
-        -30
+        -1
       ],
       [
         "ampersand",
         "public.kern2.w_LC",
-        -30
+        -1
       ],
       [
         "asterisk",
         "V",
-        20
+        1
       ],
       [
         "asterisk",
         "X",
-        -30
+        -1
       ],
       [
         "asterisk",
         "eth",
-        -30
+        -1
       ],
       [
         "asterisk",
         "public.kern2.A_UC",
-        -100
+        -1
       ],
       [
         "asterisk",
         "public.kern2.J_UC",
-        -100
+        -1
       ],
       [
         "asterisk",
         "public.kern2.Y_UC",
-        -20
+        -1
       ],
       [
         "asterisk",
         "public.kern2.a_LC",
-        -30
+        -1
       ],
       [
         "asterisk",
         "public.kern2.alpha",
-        -20
+        -1
       ],
       [
         "asterisk",
         "public.kern2.f_LC",
-        60
+        1
       ],
       [
         "asterisk",
         "public.kern2.gamma",
-        80
+        1
       ],
       [
         "asterisk",
         "public.kern2.o_LC",
-        -20
+        -1
       ],
       [
         "asterisk",
         "public.kern2.s_LC",
-        -10
+        -1
       ],
       [
         "asterisk",
         "public.kern2.t_LC",
-        70
+        1
       ],
       [
         "asterisk",
         "public.kern2.w_LC",
-        60
+        1
       ],
       [
         "asterisk",
         "public.kern2.z_LC",
-        30
+        1
       ],
       [
         "asterisk",
         "x",
-        30
+        1
       ],
       [
         "at",
         "Eth",
-        30
+        1
       ],
       [
         "at",
         "Lslash",
-        20
+        1
       ],
       [
         "at",
         "V",
-        -50
+        -1
       ],
       [
         "at",
         "X",
-        -50
+        -1
       ],
       [
         "at",
         "lslash",
-        20
+        1
       ],
       [
         "at",
         "public.kern2.J_UC",
-        40
+        1
       ],
       [
         "at",
         "public.kern2.T_UC",
-        -70
+        -1
       ],
       [
         "at",
         "public.kern2.W_UC",
-        -20
+        -1
       ],
       [
         "at",
         "public.kern2.Y_UC",
-        -110
+        -1
       ],
       [
         "backslash",
         "V",
-        -90
+        -1
       ],
       [
         "backslash",
         "X",
-        90
+        1
       ],
       [
         "backslash",
         "public.kern2.A_UC",
-        120
+        1
       ],
       [
         "backslash",
         "public.kern2.CG_UC",
-        -40
+        -1
       ],
       [
         "backslash",
         "public.kern2.J_UC",
-        70
+        1
       ],
       [
         "backslash",
         "public.kern2.T_UC",
-        -130
+        -1
       ],
       [
         "backslash",
         "public.kern2.U_UC",
-        -30
+        -1
       ],
       [
         "backslash",
         "public.kern2.W_UC",
-        -20
+        -1
       ],
       [
         "backslash",
         "public.kern2.Y_UC",
-        -110
+        -1
       ],
       [
         "backslash",
         "public.kern2.Z_UC",
-        80
+        1
       ],
       [
         "backslash",
         "public.kern2.o_LC",
-        -20
+        -1
       ],
       [
         "backslash",
         "public.kern2.z_LC",
-        90
+        1
       ],
       [
         "backslash",
         "thorn",
-        60
+        1
       ],
       [
         "backslash",
         "x",
-        100
+        1
       ],
       [
         "e",
         "quoteright",
-        -80
+        -1
       ],
       [
         "eacute",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ebreve",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ecaron",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ecircumflex",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ecircumflexacute",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ecircumflexdotbelow",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ecircumflexgrave",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ecircumflexhookabove",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ecircumflextilde",
         "quoteright",
-        -80
+        -1
       ],
       [
         "edieresis",
         "quoteright",
-        -80
+        -1
       ],
       [
         "edotaccent",
         "quoteright",
-        -80
+        -1
       ],
       [
         "edotbelow",
         "quoteright",
-        -80
+        -1
       ],
       [
         "egrave",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ehookabove",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ellipsis",
         "j",
-        0
+        -1
       ],
       [
         "emacron",
         "quoteright",
-        -80
+        -1
       ],
       [
         "eogonek",
         "quoteright",
-        -80
+        -1
       ],
       [
         "eth",
         "public.kern2.comma",
-        -30
+        -1
       ],
       [
         "eth",
         "public.kern2.emdash",
-        50
+        1
       ],
       [
         "etilde",
         "quoteright",
-        -80
+        -1
       ],
       [
         "g",
         "backslash",
-        -90
+        -1
       ],
       [
         "h",
         "quoteright",
-        -80
+        -1
       ],
       [
         "hcircumflex",
         "quoteright",
-        -80
+        -1
       ],
       [
         "lslash",
         "ampersand",
-        -30
+        -1
       ],
       [
         "lslash",
         "asterisk",
-        10
+        1
       ],
       [
         "lslash",
         "at",
-        -20
+        -1
       ],
       [
         "lslash",
         "public.kern2.minute",
-        40
+        1
       ],
       [
         "m",
         "quoteright",
-        -80
+        -1
       ],
       [
         "n",
         "quoteright",
-        -80
+        -1
       ],
       [
         "nacute",
         "quoteright",
-        -80
+        -1
       ],
       [
         "napostrophe",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ncaron",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ncommaaccent",
         "quoteright",
-        -80
+        -1
       ],
       [
         "ntilde",
         "quoteright",
-        -80
+        -1
       ],
       [
         "period",
         "j",
-        0
+        -1
       ],
       [
         "public.kern1.A_UC",
         "V",
-        -87
+        -1
       ],
       [
         "public.kern1.A_UC",
         "asterisk",
-        -100
+        -1
       ],
       [
         "public.kern1.A_UC",
         "at",
-        60
+        1
       ],
       [
         "public.kern1.A_UC",
         "backslash",
-        -60
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.CG_UC",
-        -11
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.J_UC",
-        90
+        1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.T_UC",
-        -129
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.U_UC",
-        -17
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.W_UC",
-        -69
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.Y_UC",
-        -94
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.colon",
-        20
+        1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.comma",
-        50
+        1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.gamma",
-        -50
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.minute",
-        -100
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.o_LC",
-        -12
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.t_LC",
-        -17
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.u_LC",
-        -11
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.w_LC",
-        -33
+        -1
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.z_LC",
-        12
+        1
       ],
       [
         "public.kern1.A_UC",
         "question",
-        -61
+        -1
       ],
       [
         "public.kern1.A_UC",
         "slash",
-        120
+        1
       ],
       [
         "public.kern1.C_UC",
         "V",
-        -10
+        -1
       ],
       [
         "public.kern1.C_UC",
         "asterisk",
-        20
+        1
       ],
       [
         "public.kern1.C_UC",
         "backslash",
-        40
+        1
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.J_UC",
-        20
+        1
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.T_UC",
-        10
+        1
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.W_UC",
-        -10
+        -1
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.emdash",
-        30
+        1
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.minute",
-        40
+        1
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.parens",
-        -12
+        -1
       ],
       [
         "public.kern1.D_UC",
         "V",
-        -22
+        -1
       ],
       [
         "public.kern1.D_UC",
         "X",
-        -22
+        -1
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.AE_UC",
-        -33
+        -1
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.A_UC",
-        -21
+        -1
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.T_UC",
-        -27
+        -1
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.Y_UC",
-        -75
+        -1
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.Z_UC",
-        -23
+        -1
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.colon",
-        -20
+        -1
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.comma",
-        -80
+        -1
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.emdash",
-        30
+        1
       ],
       [
         "public.kern1.D_UC",
         "slash",
-        -40
+        -1
       ],
       [
         "public.kern1.E_UC",
         "at",
-        50
+        1
       ],
       [
         "public.kern1.E_UC",
         "backslash",
-        100
+        1
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.T_UC",
-        20
+        1
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.alpha",
-        -19
+        -1
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.emdash",
-        30
+        1
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.f_LC",
-        -18
+        -1
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.gamma",
-        -26
+        -1
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.minute",
-        40
+        1
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.o_LC",
-        -19
+        -1
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.u_LC",
-        -17
+        -1
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.w_LC",
-        -22
+        -1
       ],
       [
         "public.kern1.E_UC",
         "slash",
-        80
+        1
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.emdash",
-        30
+        1
       ],
       [
         "public.kern1.G_UC",
         "slash",
-        20
+        1
       ],
       [
         "public.kern1.JU_UC",
         "ampersand",
-        -20
+        -1
       ],
       [
         "public.kern1.JU_UC",
         "at",
-        -10
+        -1
       ],
       [
         "public.kern1.JU_UC",
         "backslash",
-        40
+        1
       ],
       [
         "public.kern1.JU_UC",
         "public.kern2.A_UC",
-        -22
+        -1
       ],
       [
         "public.kern1.JU_UC",
         "public.kern2.colon",
-        -20
+        -1
       ],
       [
         "public.kern1.JU_UC",
         "public.kern2.comma",
-        -30
+        -1
       ],
       [
         "public.kern1.JU_UC",
         "public.kern2.emdash",
-        10
+        1
       ],
       [
         "public.kern1.JU_UC",
         "slash",
-        -30
+        -1
       ],
       [
         "public.kern1.K_UC",
         "backslash",
-        120
+        1
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.CG_UC",
-        -31
+        -1
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.alpha",
-        -26
+        -1
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.comma",
-        80
+        1
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.emdash",
-        -64
+        -1
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.gamma",
-        -40
+        -1
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.minute",
-        50
+        1
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.mnpr_LC",
-        -23
+        -1
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.o_LC",
-        -27
+        -1
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.u_LC",
-        -23
+        -1
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.w_LC",
-        -63
+        -1
       ],
       [
         "public.kern1.K_UC",
         "slash",
-        140
+        1
       ],
       [
         "public.kern1.L_UC",
         "V",
-        -135
+        -1
       ],
       [
         "public.kern1.L_UC",
         "ampersand",
-        -20
+        -1
       ],
       [
         "public.kern1.L_UC",
         "asterisk",
-        -120
+        -1
       ],
       [
         "public.kern1.L_UC",
         "at",
-        30
+        1
       ],
       [
         "public.kern1.L_UC",
         "backslash",
-        -100
+        -1
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.A_UC",
-        19
+        1
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.CG_UC",
-        -65
+        -1
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.T_UC",
-        -145
+        -1
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.U_UC",
-        -54
+        -1
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.W_UC",
-        -113
+        -1
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.Y_UC",
-        -189
+        -1
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.comma",
-        40
+        1
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.gamma",
-        -133
+        -1
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.minute",
-        -206
+        -1
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.u_LC",
-        -44
+        -1
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.w_LC",
-        -92
+        -1
       ],
       [
         "public.kern1.L_UC",
         "slash",
-        70
+        1
       ],
       [
         "public.kern1.LeftStraight_UC",
         "X",
-        17
+        1
       ],
       [
         "public.kern1.LeftStraight_UC",
         "public.kern2.A_UC",
-        18
+        1
       ],
       [
         "public.kern1.LeftStraight_UC",
         "public.kern2.T_UC",
-        -29
+        -1
       ],
       [
         "public.kern1.LeftStraight_UC",
         "public.kern2.Y_UC",
-        -28
+        -1
       ],
       [
         "public.kern1.R_UC",
         "V",
-        -19
+        -1
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.T_UC",
-        -80
+        -1
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.Y_UC",
-        -48
+        -1
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.comma",
-        60
+        1
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.emdash",
-        -30
+        -1
       ],
       [
         "public.kern1.R_UC",
         "slash",
-        80
+        1
       ],
       [
         "public.kern1.S_UC",
         "backslash",
-        20
+        1
       ],
       [
         "public.kern1.S_UC",
         "public.kern2.emdash",
-        10
+        1
       ],
       [
         "public.kern1.T_UC",
         "V",
-        16
+        1
       ],
       [
         "public.kern1.T_UC",
         "ampersand",
-        -60
+        -1
       ],
       [
         "public.kern1.T_UC",
         "at",
-        -70
+        -1
       ],
       [
         "public.kern1.T_UC",
         "backslash",
-        160
+        1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.AE_UC",
-        -179
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.A_UC",
-        -79
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.CG_UC",
-        -28
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.J_UC",
-        -160
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.S_UC",
-        -16
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.T_UC",
-        16
+        1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.W_UC",
-        15
+        1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.Y_UC",
-        16
+        1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.a_LC",
-        -155
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.alpha",
-        -150
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.colon",
-        -110
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.comma",
-        -180
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.emdash",
-        -190
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.gamma",
-        -122
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.guillemotleft",
-        -328
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.guillemotright",
-        -216
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.minute",
-        60
+        1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.mnpr_LC",
-        -150
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.o_LC",
-        -150
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.s_LC",
-        -176
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.u_LC",
-        -135
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.w_LC",
-        -137
+        -1
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.z_LC",
-        -60
+        -1
       ],
       [
         "public.kern1.T_UC",
         "slash",
-        -130
+        -1
       ],
       [
         "public.kern1.T_UC",
         "space",
-        -40
+        -1
       ],
       [
         "public.kern1.T_UC",
         "x",
-        -77
+        -1
       ],
       [
         "public.kern1.W_UC",
         "ampersand",
-        -30
+        -1
       ],
       [
         "public.kern1.W_UC",
         "at",
-        -60
+        -1
       ],
       [
         "public.kern1.W_UC",
         "backslash",
-        100
+        1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.A_UC",
-        -43
+        -1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.T_UC",
-        14
+        1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.a_LC",
-        -33
+        -1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.alpha",
-        -31
+        -1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.colon",
-        -40
+        -1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.comma",
-        -123
+        -1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.emdash",
-        -50
+        -1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.minute",
-        40
+        1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.mnpr_LC",
-        -21
+        -1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.o_LC",
-        -31
+        -1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.parens",
-        12
+        1
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.u_LC",
-        -19
+        -1
       ],
       [
         "public.kern1.W_UC",
         "slash",
-        -20
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "V",
-        40
+        1
       ],
       [
         "public.kern1.Y_UC",
         "X",
-        13
+        1
       ],
       [
         "public.kern1.Y_UC",
         "ampersand",
-        -100
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "asterisk",
-        -20
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "at",
-        -140
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "backslash",
-        150
+        1
       ],
       [
         "public.kern1.Y_UC",
         "bullet",
-        0
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "eth",
-        -90
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "germandbls",
-        -60
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "lslash",
-        -40
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.AE_UC",
-        -96
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.A_UC",
-        -94
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.CG_UC",
-        -75
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.J_UC",
-        -156
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.S_UC",
-        -16
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.T_UC",
-        17
+        1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.W_UC",
-        17
+        1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.Y_UC",
-        18
+        1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.a_LC",
-        -153
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.alpha",
-        -145
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.colon",
-        -80
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.comma",
-        -211
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.emdash",
-        -90
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.f_LC",
-        -22
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.gamma",
-        -60
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.guillemotleft",
-        -82
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.guillemotright",
-        -51
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.minute",
-        50
+        1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.mnpr_LC",
-        -110
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.o_LC",
-        -145
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.parens",
-        20
+        1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.s_LC",
-        -128
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.t_LC",
-        -22
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.u_LC",
-        -99
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.w_LC",
-        -70
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.z_LC",
-        -70
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "slash",
-        -110
+        -1
       ],
       [
         "public.kern1.Y_UC",
         "x",
-        -83
+        -1
       ],
       [
         "public.kern1.Z_UC",
         "backslash",
-        80
+        1
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.A_UC",
-        13
+        1
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.CG_UC",
-        -26
+        -1
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.alpha",
-        -21
+        -1
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.comma",
-        80
+        1
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.gamma",
-        -27
+        -1
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.minute",
-        30
+        1
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.o_LC",
-        -21
+        -1
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.u_LC",
-        -19
+        -1
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.w_LC",
-        -27
+        -1
       ],
       [
         "public.kern1.Z_UC",
         "slash",
-        80
+        1
       ],
       [
         "public.kern1.a_LC",
         "backslash",
-        -140
+        -1
       ],
       [
         "public.kern1.a_LC",
         "public.kern2.gamma",
-        -15
+        -1
       ],
       [
         "public.kern1.a_LC",
         "public.kern2.minute",
-        -54
+        -1
       ],
       [
         "public.kern1.b_LC",
         "asterisk",
-        -20
+        -1
       ],
       [
         "public.kern1.b_LC",
         "backslash",
-        -90
+        -1
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.colon",
-        -20
+        -1
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.comma",
-        -20
+        -1
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.emdash",
-        40
+        1
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.gamma",
-        -11
+        -1
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.minute",
-        -29
+        -1
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.z_LC",
-        -15
+        -1
       ],
       [
         "public.kern1.b_LC",
         "x",
-        -15
+        -1
       ],
       [
         "public.kern1.c_LC",
         "V",
-        -60
+        -1
       ],
       [
         "public.kern1.c_LC",
         "at",
-        30
+        1
       ],
       [
         "public.kern1.c_LC",
         "backslash",
-        -60
+        -1
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.A_UC",
-        60
+        1
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.J_UC",
-        40
+        1
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.T_UC",
-        -180
+        -1
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.U_UC",
-        30
+        1
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.W_UC",
-        -30
+        -1
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.emdash",
-        50
+        1
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.f_LC",
-        55
+        1
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.minute",
-        -11
+        -1
       ],
       [
         "public.kern1.c_LC",
         "slash",
-        30
+        1
       ],
       [
         "public.kern1.colon",
         "V",
-        -50
+        -1
       ],
       [
         "public.kern1.colon",
         "public.kern2.A_UC",
-        20
+        1
       ],
       [
         "public.kern1.colon",
         "public.kern2.CG_UC",
-        -20
+        -1
       ],
       [
         "public.kern1.colon",
         "public.kern2.T_UC",
-        -110
+        -1
       ],
       [
         "public.kern1.colon",
         "public.kern2.U_UC",
-        -20
+        -1
       ],
       [
         "public.kern1.colon",
         "public.kern2.W_UC",
-        -40
+        -1
       ],
       [
         "public.kern1.colon",
         "public.kern2.Y_UC",
-        -80
+        -1
       ],
       [
         "public.kern1.colon",
         "public.kern2.alpha",
-        -20
+        -1
       ],
       [
         "public.kern1.colon",
         "public.kern2.o_LC",
-        -20
+        -1
       ],
       [
         "public.kern1.comma",
         "V",
-        -200
+        -1
       ],
       [
         "public.kern1.comma",
         "eth",
-        -20
+        -1
       ],
       [
         "public.kern1.comma",
         "j",
-        60
+        1
       ],
       [
         "public.kern1.comma",
         "public.kern2.A_UC",
-        50
+        1
       ],
       [
         "public.kern1.comma",
         "public.kern2.CG_UC",
-        -80
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.J_UC",
-        30
+        1
       ],
       [
         "public.kern1.comma",
         "public.kern2.T_UC",
-        -180
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.U_UC",
-        -30
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.W_UC",
-        -123
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.Y_UC",
-        -211
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.Z_UC",
-        70
+        1
       ],
       [
         "public.kern1.comma",
         "public.kern2.alpha",
-        -20
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.f_LC",
-        -30
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.gamma",
-        -110
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.minute",
-        -170
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.o_LC",
-        -20
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.t_LC",
-        -50
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.u_LC",
-        -30
+        -1
       ],
       [
         "public.kern1.comma",
         "public.kern2.w_LC",
-        -124
+        -1
       ],
       [
         "public.kern1.comma",
         "x",
-        30
+        1
       ],
       [
         "public.kern1.e_LC",
         "V",
-        -60
+        -1
       ],
       [
         "public.kern1.e_LC",
         "ampersand",
-        50
+        1
       ],
       [
         "public.kern1.e_LC",
         "at",
-        20
+        1
       ],
       [
         "public.kern1.e_LC",
         "backslash",
-        -70
+        -1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.A_UC",
-        60
+        1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.CG_UC",
-        30
+        1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.J_UC",
-        70
+        1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.T_UC",
-        -150
+        -1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.U_UC",
-        40
+        1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.W_UC",
-        -40
+        -1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.Y_UC",
-        -125
+        -1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.Z_UC",
-        30
+        1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.comma",
-        30
+        1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.emdash",
-        80
+        1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.gamma",
-        -13
+        -1
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.minute",
-        -14
+        -1
       ],
       [
         "public.kern1.e_LC",
         "slash",
-        60
+        1
       ],
       [
         "public.kern1.emdash",
         "Eth",
-        90
+        1
       ],
       [
         "public.kern1.emdash",
         "Lslash",
-        90
+        1
       ],
       [
         "public.kern1.emdash",
         "V",
-        -37
+        -1
       ],
       [
         "public.kern1.emdash",
         "X",
-        -50
+        -1
       ],
       [
         "public.kern1.emdash",
         "eth",
-        30
+        1
       ],
       [
         "public.kern1.emdash",
         "lslash",
-        70
+        1
       ],
       [
         "public.kern1.emdash",
         "public.kern2.CG_UC",
-        30
+        1
       ],
       [
         "public.kern1.emdash",
         "public.kern2.T_UC",
-        -190
+        -1
       ],
       [
         "public.kern1.emdash",
         "public.kern2.U_UC",
-        10
+        1
       ],
       [
         "public.kern1.emdash",
         "public.kern2.W_UC",
-        -50
+        -1
       ],
       [
         "public.kern1.emdash",
         "public.kern2.Y_UC",
-        -90
+        -1
       ],
       [
         "public.kern1.emdash",
         "public.kern2.a_LC",
-        -10
+        -1
       ],
       [
         "public.kern1.emdash",
         "public.kern2.alpha",
-        40
+        1
       ],
       [
         "public.kern1.emdash",
         "public.kern2.gamma",
-        20
+        1
       ],
       [
         "public.kern1.emdash",
         "public.kern2.o_LC",
-        40
+        1
       ],
       [
         "public.kern1.emdash",
         "public.kern2.t_LC",
-        20
+        1
       ],
       [
         "public.kern1.emdash",
         "public.kern2.w_LC",
-        20
+        1
       ],
       [
         "public.kern1.emdash",
         "x",
-        -30
+        -1
       ],
       [
         "public.kern1.f_LC",
         "ampersand",
-        40
+        1
       ],
       [
         "public.kern1.f_LC",
         "asterisk",
-        100
+        1
       ],
       [
         "public.kern1.f_LC",
         "backslash",
-        240
+        1
       ],
       [
         "public.kern1.f_LC",
         "j",
-        90
+        1
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.alpha",
-        -24
+        -1
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.bhk_LC",
-        80
+        1
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.comma",
-        -40
+        -1
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.f_LC",
-        55
+        1
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.gamma",
-        120
+        1
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.i_LC",
-        90
+        1
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.minute",
-        166
+        1
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.parens",
-        160
+        1
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.t_LC",
-        65
+        1
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.w_LC",
-        95
+        1
       ],
       [
         "public.kern1.gamma",
         "ampersand",
-        -20
+        -1
       ],
       [
         "public.kern1.gamma",
         "asterisk",
-        80
+        1
       ],
       [
         "public.kern1.gamma",
         "at",
-        -30
+        -1
       ],
       [
         "public.kern1.gamma",
         "backslash",
-        20
+        1
       ],
       [
         "public.kern1.gamma",
         "public.kern2.a_LC",
-        -15
+        -1
       ],
       [
         "public.kern1.gamma",
         "public.kern2.alpha",
-        -13
+        -1
       ],
       [
         "public.kern1.gamma",
         "public.kern2.comma",
-        -110
+        -1
       ],
       [
         "public.kern1.gamma",
         "public.kern2.emdash",
-        20
+        1
       ],
       [
         "public.kern1.gamma",
         "public.kern2.f_LC",
-        13
+        1
       ],
       [
         "public.kern1.gamma",
         "public.kern2.minute",
-        60
+        1
       ],
       [
         "public.kern1.gamma",
         "public.kern2.o_LC",
-        -15
+        -1
       ],
       [
         "public.kern1.hmn_LC",
         "asterisk",
-        -10
+        -1
       ],
       [
         "public.kern1.hmn_LC",
         "backslash",
-        -140
+        -1
       ],
       [
         "public.kern1.hmn_LC",
         "public.kern2.minute",
-        -54
+        -1
       ],
       [
         "public.kern1.k_LC",
         "ampersand",
-        -20
+        -1
       ],
       [
         "public.kern1.k_LC",
         "asterisk",
-        30
+        1
       ],
       [
         "public.kern1.k_LC",
         "public.kern2.alpha",
-        -20
+        -1
       ],
       [
         "public.kern1.k_LC",
         "public.kern2.colon",
-        50
+        1
       ],
       [
         "public.kern1.k_LC",
         "public.kern2.comma",
-        80
+        1
       ],
       [
         "public.kern1.k_LC",
         "public.kern2.emdash",
-        -60
+        -1
       ],
       [
         "public.kern1.k_LC",
         "slash",
-        120
+        1
       ],
       [
         "public.kern1.minute",
         "Eth",
-        30
+        1
       ],
       [
         "public.kern1.minute",
         "V",
-        60
+        1
       ],
       [
         "public.kern1.minute",
         "eth",
-        -40
+        -1
       ],
       [
         "public.kern1.minute",
         "lslash",
-        -30
+        -1
       ],
       [
         "public.kern1.minute",
         "public.kern2.A_UC",
-        -100
+        -1
       ],
       [
         "public.kern1.minute",
         "public.kern2.T_UC",
-        60
+        1
       ],
       [
         "public.kern1.minute",
         "public.kern2.W_UC",
-        40
+        1
       ],
       [
         "public.kern1.minute",
         "public.kern2.Y_UC",
-        50
+        1
       ],
       [
         "public.kern1.minute",
         "public.kern2.Z_UC",
-        50
+        1
       ],
       [
         "public.kern1.minute",
         "public.kern2.a_LC",
-        -50
+        -1
       ],
       [
         "public.kern1.minute",
         "public.kern2.alpha",
-        -59
+        -1
       ],
       [
         "public.kern1.minute",
         "public.kern2.bhk_LC",
-        0
+        -1
       ],
       [
         "public.kern1.minute",
         "public.kern2.f_LC",
-        50
+        1
       ],
       [
         "public.kern1.minute",
         "public.kern2.gamma",
-        60
+        1
       ],
       [
         "public.kern1.minute",
         "public.kern2.minute",
-        -107
+        -1
       ],
       [
         "public.kern1.minute",
         "public.kern2.mnpr_LC",
-        -20
+        -1
       ],
       [
         "public.kern1.minute",
         "public.kern2.o_LC",
-        -56
+        -1
       ],
       [
         "public.kern1.minute",
         "public.kern2.s_LC",
-        -30
+        -1
       ],
       [
         "public.kern1.minute",
         "public.kern2.t_LC",
-        50
+        1
       ],
       [
         "public.kern1.minute",
         "public.kern2.w_LC",
-        60
+        1
       ],
       [
         "public.kern1.minute",
         "public.kern2.z_LC",
-        30
+        1
       ],
       [
         "public.kern1.minute",
         "x",
-        30
+        1
       ],
       [
         "public.kern1.o_LC",
         "asterisk",
-        -20
+        -1
       ],
       [
         "public.kern1.o_LC",
         "backslash",
-        -120
+        -1
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.colon",
-        -20
+        -1
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.comma",
-        -20
+        -1
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.emdash",
-        40
+        1
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.gamma",
-        -15
+        -1
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.minute",
-        -56
+        -1
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.z_LC",
-        -16
+        -1
       ],
       [
         "public.kern1.o_LC",
         "slash",
-        -20
+        -1
       ],
       [
         "public.kern1.o_LC",
         "x",
-        -21
+        -1
       ],
       [
         "public.kern1.parens",
         "V",
-        20
+        1
       ],
       [
         "public.kern1.parens",
         "j",
-        180
+        1
       ],
       [
         "public.kern1.parens",
         "public.kern2.J_UC",
-        -20
+        -1
       ],
       [
         "public.kern1.parens",
         "public.kern2.U_UC",
-        -18
+        -1
       ],
       [
         "public.kern1.parens",
         "public.kern2.W_UC",
-        18
+        1
       ],
       [
         "public.kern1.parens",
         "public.kern2.Y_UC",
-        22
+        1
       ],
       [
         "public.kern1.parens",
         "public.kern2.gamma",
-        60
+        1
       ],
       [
         "public.kern1.r_LC",
         "ampersand",
-        -50
+        -1
       ],
       [
         "public.kern1.r_LC",
         "asterisk",
-        50
+        1
       ],
       [
         "public.kern1.r_LC",
         "at",
-        -20
+        -1
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.a_LC",
-        -40
+        -1
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.alpha",
-        -19
+        -1
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.comma",
-        -123
+        -1
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.f_LC",
-        30
+        1
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.gamma",
-        18
+        1
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.minute",
-        66
+        1
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.o_LC",
-        -20
+        -1
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.t_LC",
-        50
+        1
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.w_LC",
-        17
+        1
       ],
       [
         "public.kern1.r_LC",
         "slash",
-        -60
+        -1
       ],
       [
         "public.kern1.s_LC",
         "asterisk",
-        -30
+        -1
       ],
       [
         "public.kern1.s_LC",
         "backslash",
-        -130
+        -1
       ],
       [
         "public.kern1.s_LC",
         "public.kern2.minute",
-        -40
+        -1
       ],
       [
         "public.kern1.t_LC",
         "asterisk",
-        10
+        1
       ],
       [
         "public.kern1.t_LC",
         "public.kern2.comma",
-        30
+        1
       ],
       [
         "public.kern1.t_LC",
         "public.kern2.minute",
-        20
+        1
       ],
       [
         "public.kern1.t_LC",
         "public.kern2.o_LC",
-        -20
+        -1
       ],
       [
         "public.kern1.t_LC",
         "slash",
-        90
+        1
       ],
       [
         "public.kern1.u_LC",
         "backslash",
-        -100
+        -1
       ],
       [
         "public.kern1.u_LC",
         "public.kern2.T_UC",
-        -135
+        -1
       ],
       [
         "public.kern1.w_LC",
         "ampersand",
-        -30
+        -1
       ],
       [
         "public.kern1.w_LC",
         "asterisk",
-        60
+        1
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.comma",
-        -124
+        -1
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.emdash",
-        20
+        1
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.minute",
-        60
+        1
       ],
       [
         "public.kern1.z_LC",
         "ampersand",
-        -30
+        -1
       ],
       [
         "public.kern1.z_LC",
         "backslash",
-        -40
+        -1
       ],
       [
         "public.kern1.z_LC",
         "public.kern2.alpha",
-        -16
+        -1
       ],
       [
         "public.kern1.z_LC",
         "public.kern2.o_LC",
-        -16
+        -1
       ],
       [
         "public.kern1.z_LC",
         "slash",
-        60
+        1
       ],
       [
         "q",
         "backslash",
-        -100
+        -1
       ],
       [
         "q",
         "j",
-        80
+        1
       ],
       [
         "quoteright",
         "h",
-        32
+        1
       ],
       [
         "quoteright",
         "k",
-        32
+        1
       ],
       [
         "quoteright",
         "l",
-        32
+        1
       ],
       [
         "quoteright",
         "lj",
-        32
+        1
       ],
       [
         "quoteright",
         "o",
-        -128
+        -1
       ],
       [
         "quoteright",
         "oacute",
-        -128
+        -1
       ],
       [
         "quoteright",
         "obreve",
-        -128
+        -1
       ],
       [
         "quoteright",
         "ocircumflex",
-        -128
+        -1
       ],
       [
         "quoteright",
         "ocircumflexacute",
-        -128
+        -1
       ],
       [
         "quoteright",
         "ocircumflexdotbelow",
-        -128
+        -1
       ],
       [
         "quoteright",
         "ocircumflexgrave",
-        -128
+        -1
       ],
       [
         "quoteright",
         "ocircumflexhookabove",
-        -128
+        -1
       ],
       [
         "quoteright",
         "ocircumflextilde",
-        -128
+        -1
       ],
       [
         "quoteright",
         "odblgrave",
-        -128
+        -1
       ],
       [
         "quoteright",
         "odieresis",
-        -128
+        -1
       ],
       [
         "quoteright",
         "odieresismacron",
-        -128
+        -1
       ],
       [
         "quoteright",
         "odotaccentmacron",
-        -128
+        -1
       ],
       [
         "quoteright",
         "odotbelow",
-        -128
+        -1
       ],
       [
         "quoteright",
         "ograve",
-        -128
+        -1
       ],
       [
         "quoteright",
         "ohookabove",
-        -128
+        -1
       ],
       [
         "quoteright",
         "ohorntilde",
-        -128
+        -1
       ],
       [
         "quoteright",
         "ohungarumlaut",
-        -128
+        -1
       ],
       [
         "quoteright",
         "oinvertedbreve",
-        -128
+        -1
       ],
       [
         "quoteright",
         "omacron",
-        -128
+        -1
       ],
       [
         "quoteright",
         "oogonek",
-        -128
+        -1
       ],
       [
         "quoteright",
         "otilde",
-        -128
+        -1
       ],
       [
         "quoteright",
         "otildemacron",
-        -128
+        -1
       ],
       [
         "quoteright",
         "public.kern2.s_LC",
-        -112
+        -1
       ],
       [
         "schwa",
         "public.kern2.minute",
-        -14
+        -1
       ],
       [
         "slash",
         "Eth",
-        30
+        1
       ],
       [
         "slash",
         "V",
-        150
+        1
       ],
       [
         "slash",
         "X",
-        100
+        1
       ],
       [
         "slash",
         "eth",
-        -30
+        -1
       ],
       [
         "slash",
         "public.kern2.A_UC",
-        -60
+        -1
       ],
       [
         "slash",
         "public.kern2.J_UC",
-        -70
+        -1
       ],
       [
         "slash",
         "public.kern2.S_UC",
-        10
+        1
       ],
       [
         "slash",
         "public.kern2.T_UC",
-        140
+        1
       ],
       [
         "slash",
         "public.kern2.U_UC",
-        40
+        1
       ],
       [
         "slash",
         "public.kern2.W_UC",
-        100
+        1
       ],
       [
         "slash",
         "public.kern2.Y_UC",
-        150
+        1
       ],
       [
         "slash",
         "public.kern2.Z_UC",
-        90
+        1
       ],
       [
         "slash",
         "public.kern2.a_LC",
-        -140
+        -1
       ],
       [
         "slash",
         "public.kern2.alpha",
-        -130
+        -1
       ],
       [
         "slash",
         "public.kern2.f_LC",
-        20
+        1
       ],
       [
         "slash",
         "public.kern2.gamma",
-        20
+        1
       ],
       [
         "slash",
         "public.kern2.mnpr_LC",
-        -110
+        -1
       ],
       [
         "slash",
         "public.kern2.o_LC",
-        -130
+        -1
       ],
       [
         "slash",
         "public.kern2.s_LC",
-        -120
+        -1
       ],
       [
         "slash",
         "public.kern2.t_LC",
-        50
+        1
       ],
       [
         "slash",
         "public.kern2.u_LC",
-        -110
+        -1
       ],
       [
         "slash",
         "public.kern2.z_LC",
-        -20
+        -1
       ],
       [
         "slash",
         "slash",
-        -224
+        -1
       ],
       [
         "slash",
         "x",
-        -10
+        -1
       ],
       [
         "space",
         "public.kern2.T_UC",
-        -40
+        -1
       ],
       [
         "x",
         "ampersand",
-        -20
+        -1
       ],
       [
         "x",
         "asterisk",
-        30
+        1
       ],
       [
         "x",
         "backslash",
-        -10
+        -1
       ],
       [
         "x",
         "public.kern2.alpha",
-        -20
+        -1
       ],
       [
         "x",
         "public.kern2.comma",
-        30
+        1
       ],
       [
         "x",
         "public.kern2.emdash",
-        -30
+        -1
       ],
       [
         "x",
         "public.kern2.minute",
-        30
+        1
       ],
       [
         "x",
         "public.kern2.o_LC",
-        -20
+        -1
       ],
       [
         "x",
         "slash",
-        100
+        1
       ]
     ],
     "tight": [
