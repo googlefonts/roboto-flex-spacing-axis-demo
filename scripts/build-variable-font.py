@@ -1,12 +1,12 @@
 '''
 build Roboto Flex SPAC variable font
 
-- (import spacing states from JSON files) (currently a separate script)
-- take RobotoFlex sources with spacing state libs
-- build spacing states as separate UFO sources
-- change the designspace to include a SPAC axis and the new sources
-- build Roboto Flex SPAC variable font with fontmake
-- optionally generate a WOFF2 file for testing
+- (clone or download the latest version of Roboto Flex) <- do it manually / separately
+- (import spacing states from JSON files into Roboto Flex sources) <- currently a separate script
+- build spacing states in sources into separate UFO files
+- update the designspace with a new spacing axis (SPAC) and add the newly built spacing sources
+- build Roboto Flex SPAC variable font using fontmake
+- generate a WOFF2 file for testing in the browser
 
 WARNING: this script takes a very long time to run!
 
@@ -34,8 +34,8 @@ from operator import attrgetter
 from defcon import Font
 from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor
 from fontmake.font_project import FontProject
-from variableSpacing import buildSpacingSources
 from hTools3.modules.webfonts import sfnt2woff2
+from variableSpacing import buildSpacingSources
 
 # --------
 # settings
@@ -49,9 +49,9 @@ _generateWOFF2        = True
 _clearFiles           = False
 # input
 drawingsFolder        = '1A-drawings'
-sourcesSubFolders     = ['Mains', 'Duovars']
+sourcesSubFolders     = ['Mains', 'Duovars', 'Trivars']
 designspacePath       = os.path.join(sourcesFolder, 'RobotoFlex.designspace')
-designspacePathNew    = designspacePath.replace('.designspace', '_SPAC.designspace') # '_SPAC.designspace'
+designspacePathNew    = designspacePath.replace('.designspace', '_SPAC.designspace')
 # output
 varFontPath           = os.path.join(outputFolder, 'Roboto-Flex_SPAC.ttf')
 prefix                = '_SPAC-'
@@ -157,10 +157,9 @@ if _generateVariableFont:
     D = DesignSpaceDocument()
     D.read(designspacePathNew)
     for src in D.sources:
-        print(f'\tloading {src.path}...\n')
+        print(f'\tloading {src.path}...')
         src.font = Font(src.path)
     print('...done.\n')
-
     # generate variable font
     print('generating variable font... ', end='')
     P = FontProject()

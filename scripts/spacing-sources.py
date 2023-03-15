@@ -3,7 +3,7 @@ from fontParts.world import OpenFont
 from progvis.objects.ufotext import UFOSetter
 
 baseFolder = '/Users/sergiogonzalez/Desktop/hipertipo/fonts/roboto-flex/sources/1A-drawings'
-subFolders = ['Mains', 'Duovars']
+subFolders = ['Mains', 'Duovars', 'Trivars']
 
 c0 = 0,
 c1 = 1,0,0
@@ -37,15 +37,17 @@ for folder in subFolders:
 
     newPage('A4')
     save()
-    translate(width()/2, height()-70)
+    translate(width()/2, height()-30)
     fontSize(13)
     text(folder, (0, 40), align='center')
+
+    translate(0, -40)
     fontSize(7)
 
     for ufo in ufos:
         f = OpenFont(ufo)
         T = UFOSetter(f)
-        T.scale = 0.0125
+        T.scale = 0.01
         T.text = txt
         if ufo in statesFalse:
             c = c1

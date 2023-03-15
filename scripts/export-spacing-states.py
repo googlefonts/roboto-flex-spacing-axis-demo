@@ -1,6 +1,5 @@
 '''
-export spacing states from UFO sources
-into JSON files of the same name
+export spacing states from UFO sources to JSON files of the same name
 
 '''
 
@@ -21,13 +20,13 @@ from fontParts.world import OpenFont
 from variableSpacing import *
 
 drawingsFolder    = '1A-drawings'
-sourcesSubFolders = ['Mains', 'Duovars']
+sourcesSubFolders = ['Mains', 'Duovars', 'Trivars']
 
 # get output folder
 baseFolder = os.path.dirname(os.getcwd())
 jsonFolder = os.path.join(baseFolder, 'spacing states')
 
-# export spacing states to JSON
+# export spacing states to JSON files
 for subFolder in sourcesSubFolders:
     subFolderPath = os.path.join(sourcesFolder, drawingsFolder, subFolder)
     ufos = glob.glob(f'{subFolderPath}/*.ufo')
