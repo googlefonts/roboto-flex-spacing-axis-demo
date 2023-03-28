@@ -8055,31 +8055,31 @@
       },
       "IJacute": {
         "leftMargin": 10,
-        "width": 2559
+        "width": 2316
       },
       "Iacute": {
-        "leftMargin": 10,
-        "width": 905
+        "leftMargin": -31,
+        "width": 630
       },
       "Ibreve": {
-        "leftMargin": 10,
-        "width": 1060
+        "leftMargin": -204,
+        "width": 630
       },
       "Icircumflex": {
-        "leftMargin": 10,
-        "width": 1122
+        "leftMargin": -240,
+        "width": 630
       },
       "Icyr": {
         "leftMargin": 10,
         "width": 1749
       },
       "Idblgrave": {
-        "leftMargin": 10,
-        "width": 1679
+        "leftMargin": -468,
+        "width": 630
       },
       "Idieresis": {
-        "leftMargin": 10,
-        "width": 1201
+        "leftMargin": -276,
+        "width": 630
       },
       "Idotaccent": {
         "leftMargin": 10,
@@ -8106,32 +8106,32 @@
         "width": 2019
       },
       "Igrave": {
-        "leftMargin": 10,
-        "width": 905
+        "leftMargin": -161,
+        "width": 630
       },
       "Igravecyr": {
         "leftMargin": 10,
         "width": 1749
       },
       "Ihookabove": {
-        "leftMargin": 10,
-        "width": 811
+        "leftMargin": -34,
+        "width": 630
       },
       "Iinvertedbreve": {
-        "leftMargin": 10,
-        "width": 1060
+        "leftMargin": -204,
+        "width": 630
       },
       "Imacron": {
-        "leftMargin": 10,
-        "width": 874
+        "leftMargin": -112,
+        "width": 630
       },
       "Io": {
         "leftMargin": 10,
         "width": 1546
       },
       "Iogonek": {
-        "leftMargin": 10,
-        "width": 894
+        "leftMargin": -254,
+        "width": 630
       },
       "Iota": {
         "leftMargin": 10,
@@ -8139,7 +8139,7 @@
       },
       "Iotadieresis": {
         "leftMargin": 10,
-        "width": 1201
+        "width": 916
       },
       "Iotatonos": {
         "leftMargin": 10,
@@ -8150,8 +8150,8 @@
         "width": 1749
       },
       "Itilde": {
-        "leftMargin": 10,
-        "width": 1121
+        "leftMargin": -236,
+        "width": 630
       },
       "Iukran": {
         "leftMargin": 10,
@@ -8163,11 +8163,11 @@
       },
       "Jacute.loclNLD": {
         "leftMargin": 10,
-        "width": 1790
+        "width": 1548
       },
       "Jcircumflex": {
         "leftMargin": 10,
-        "width": 1798
+        "width": 1548
       },
       "Je": {
         "leftMargin": 10,
@@ -8243,7 +8243,7 @@
       },
       "Lj": {
         "leftMargin": 10,
-        "width": 2140
+        "width": 2119
       },
       "Lje": {
         "leftMargin": 10,
@@ -8283,7 +8283,7 @@
       },
       "Nj": {
         "leftMargin": 10,
-        "width": 2564
+        "width": 2543
       },
       "Nje": {
         "leftMargin": 10,
@@ -8814,8 +8814,8 @@
         "width": 2031
       },
       "Yi": {
-        "leftMargin": 10,
-        "width": 853
+        "leftMargin": -102,
+        "width": 630
       },
       "Ymacron": {
         "leftMargin": 10,
@@ -9734,11 +9734,11 @@
       },
       "f": {
         "leftMargin": 10,
-        "width": 1085
+        "width": 1045
       },
       "f_f": {
         "leftMargin": 10,
-        "width": 2091
+        "width": 2051
       },
       "f_f_i": {
         "leftMargin": 10,
@@ -9746,7 +9746,7 @@
       },
       "f_f_ij": {
         "leftMargin": 10,
-        "width": 3539
+        "width": 3518
       },
       "f_f_l": {
         "leftMargin": 10,
@@ -9754,7 +9754,7 @@
       },
       "f_ij": {
         "leftMargin": 10,
-        "width": 2533
+        "width": 2512
       },
       "fi": {
         "leftMargin": 10,
@@ -9781,8 +9781,8 @@
         "width": 1696
       },
       "florin": {
-        "leftMargin": 10,
-        "width": 1679
+        "leftMargin": -228,
+        "width": 1146
       },
       "four": {
         "leftMargin": 10,
@@ -9997,44 +9997,44 @@
         "width": 908
       },
       "i": {
-        "leftMargin": 10,
-        "width": 651
+        "leftMargin": -9,
+        "width": 613
       },
       "i.bgr": {
         "leftMargin": 10,
         "width": 1507
       },
       "iacute": {
-        "leftMargin": 10,
-        "width": 762
+        "leftMargin": -1,
+        "width": 613
       },
       "ibreve": {
-        "leftMargin": 10,
-        "width": 1026
+        "leftMargin": -195,
+        "width": 613
       },
       "icircumflex": {
-        "leftMargin": 10,
-        "width": 1122
+        "leftMargin": -249,
+        "width": 613
       },
       "icyr": {
         "leftMargin": 10,
         "width": 1496
       },
       "idblgrave": {
-        "leftMargin": 10,
-        "width": 1452
+        "leftMargin": -387,
+        "width": 613
       },
       "idieresis": {
-        "leftMargin": 10,
-        "width": 1045
+        "leftMargin": -207,
+        "width": 613
       },
       "idotaccent": {
         "leftMargin": 10,
         "width": 613
       },
       "idotbelow": {
-        "leftMargin": 10,
-        "width": 651
+        "leftMargin": -9,
+        "width": 613
       },
       "idotless": {
         "leftMargin": 10,
@@ -10057,8 +10057,8 @@
         "width": 1507
       },
       "igrave": {
-        "leftMargin": 10,
-        "width": 775
+        "leftMargin": -152,
+        "width": 613
       },
       "igrave.bgr": {
         "leftMargin": 10,
@@ -10069,24 +10069,24 @@
         "width": 1496
       },
       "ihookabove": {
-        "leftMargin": 10,
-        "width": 751
+        "leftMargin": -43,
+        "width": 613
       },
       "iinvertedbreve": {
-        "leftMargin": 10,
-        "width": 946
+        "leftMargin": -156,
+        "width": 613
       },
       "ij": {
-        "leftMargin": 10,
-        "width": 1462
+        "leftMargin": -9,
+        "width": 1422
       },
       "ijacute": {
-        "leftMargin": 10,
-        "width": 1559
+        "leftMargin": -9,
+        "width": 1422
       },
       "imacron": {
-        "leftMargin": 10,
-        "width": 850
+        "leftMargin": -109,
+        "width": 613
       },
       "increment": {
         "leftMargin": 10,
@@ -10097,24 +10097,24 @@
         "width": 1587
       },
       "iogonek": {
-        "leftMargin": 10,
-        "width": 882
+        "leftMargin": -240,
+        "width": 613
       },
       "iota": {
-        "leftMargin": 10,
-        "width": 833
+        "leftMargin": 9,
+        "width": 832
       },
       "iotadieresis": {
-        "leftMargin": 10,
-        "width": 1064
+        "leftMargin": -222,
+        "width": 832
       },
       "iotadieresistonos": {
-        "leftMargin": 10,
-        "width": 1154
+        "leftMargin": -244,
+        "width": 900
       },
       "iotatonos": {
-        "leftMargin": 10,
-        "width": 833
+        "leftMargin": 9,
+        "width": 832
       },
       "ishort": {
         "leftMargin": 10,
@@ -10125,32 +10125,32 @@
         "width": 1507
       },
       "itilde": {
-        "leftMargin": 10,
-        "width": 1063
+        "leftMargin": -208,
+        "width": 613
       },
       "iukran": {
-        "leftMargin": 10,
-        "width": 651
+        "leftMargin": -9,
+        "width": 613
       },
       "j": {
-        "leftMargin": 10,
-        "width": 1040
+        "leftMargin": -401,
+        "width": 608
       },
       "jacute.loclNLD": {
-        "leftMargin": 10,
-        "width": 1137
+        "leftMargin": -401,
+        "width": 608
       },
       "jcircumflex": {
-        "leftMargin": 10,
-        "width": 1249
+        "leftMargin": -401,
+        "width": 608
       },
       "jdotless": {
-        "leftMargin": 10,
-        "width": 1019
+        "leftMargin": -401,
+        "width": 608
       },
       "je": {
-        "leftMargin": 10,
-        "width": 1040
+        "leftMargin": -401,
+        "width": 608
       },
       "k": {
         "leftMargin": 10,
@@ -10201,8 +10201,8 @@
         "width": 606
       },
       "lacute": {
-        "leftMargin": 10,
-        "width": 762
+        "leftMargin": -4,
+        "width": 606
       },
       "lambda": {
         "leftMargin": 10,
@@ -10213,8 +10213,8 @@
         "width": 1401
       },
       "lcommaaccent": {
-        "leftMargin": 10,
-        "width": 716
+        "leftMargin": -37,
+        "width": 606
       },
       "ldot": {
         "leftMargin": 10,
@@ -10242,7 +10242,7 @@
       },
       "lj": {
         "leftMargin": 10,
-        "width": 1436
+        "width": 1415
       },
       "lje": {
         "leftMargin": 10,
@@ -10353,7 +10353,7 @@
       },
       "nj": {
         "leftMargin": 10,
-        "width": 2321
+        "width": 2300
       },
       "nje": {
         "leftMargin": 10,
@@ -11261,8 +11261,8 @@
         "width": 1714
       },
       "yi": {
-        "leftMargin": 10,
-        "width": 731
+        "leftMargin": -49,
+        "width": 613
       },
       "ymacron": {
         "leftMargin": 10,
@@ -27685,502 +27685,507 @@
       [
         "A",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "A",
         "question",
-        -172
+        -497
       ],
       [
         "A",
         "t",
-        -60
-      ],
-      [
-        "A",
-        "w",
-        -39
+        -255
       ],
       [
         "Aacute",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Aacute",
         "question",
-        -72
+        -497
       ],
       [
         "Aacute",
         "t",
-        -20
+        -275
       ],
       [
         "Aacute",
         "w",
-        -39
+        -429
       ],
       [
         "Abreve",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Abreve",
         "question",
-        -72
+        -497
       ],
       [
         "Abreve",
         "t",
-        -20
+        -275
       ],
       [
         "Abreve",
         "w",
-        -39
+        -429
       ],
       [
         "Abreveacute",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Abreveacute",
         "question",
-        -72
+        -497
       ],
       [
         "Abreveacute",
         "t",
-        -20
+        -275
       ],
       [
         "Abreveacute",
         "w",
-        -39
+        -429
       ],
       [
         "Abrevedotbelow",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Abrevedotbelow",
         "question",
-        -72
+        -497
       ],
       [
         "Abrevedotbelow",
         "t",
-        -20
+        -275
       ],
       [
         "Abrevedotbelow",
         "w",
-        -39
+        -429
       ],
       [
         "Abrevegrave",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Abrevegrave",
         "question",
-        -72
+        -497
       ],
       [
         "Abrevegrave",
         "t",
-        -20
+        -275
       ],
       [
         "Abrevegrave",
         "w",
-        -39
+        -429
       ],
       [
         "Abrevehookabove",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Abrevehookabove",
         "question",
-        -72
+        -497
       ],
       [
         "Abrevehookabove",
         "t",
-        -20
+        -275
       ],
       [
         "Abrevehookabove",
         "w",
-        -39
+        -429
       ],
       [
         "Abrevetilde",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Abrevetilde",
         "question",
-        -72
+        -497
       ],
       [
         "Abrevetilde",
         "t",
-        -20
+        -275
       ],
       [
         "Abrevetilde",
         "w",
-        -39
+        -429
       ],
       [
         "Acircumflex",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Acircumflex",
         "question",
-        -72
+        -497
       ],
       [
         "Acircumflex",
         "t",
-        -20
+        -275
       ],
       [
         "Acircumflex",
         "w",
-        -39
+        -429
       ],
       [
         "Acircumflexacute",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Acircumflexacute",
         "question",
-        -72
+        -497
       ],
       [
         "Acircumflexacute",
         "t",
-        -20
+        -275
       ],
       [
         "Acircumflexacute",
         "w",
-        -39
+        -429
       ],
       [
         "Acircumflexdotbelow",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Acircumflexdotbelow",
         "question",
-        -72
+        -497
       ],
       [
         "Acircumflexdotbelow",
         "t",
-        -20
+        -275
       ],
       [
         "Acircumflexdotbelow",
         "w",
-        -39
+        -429
       ],
       [
         "Acircumflexgrave",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Acircumflexgrave",
         "question",
-        -72
+        -497
       ],
       [
         "Acircumflexgrave",
         "t",
-        -20
+        -275
       ],
       [
         "Acircumflexgrave",
         "w",
-        -39
+        -429
       ],
       [
         "Acircumflexhookabove",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Acircumflexhookabove",
         "question",
-        -72
+        -497
       ],
       [
         "Acircumflexhookabove",
         "t",
-        -20
+        -275
       ],
       [
         "Acircumflexhookabove",
         "w",
-        -39
+        -429
       ],
       [
         "Acircumflextilde",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Acircumflextilde",
         "question",
-        -72
+        -497
       ],
       [
         "Acircumflextilde",
         "t",
-        -20
+        -275
       ],
       [
         "Acircumflextilde",
         "w",
-        -39
+        -429
       ],
       [
         "Adblgrave",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Adblgrave",
         "question",
-        -72
+        -497
       ],
       [
         "Adblgrave",
         "t",
-        -20
+        -275
       ],
       [
         "Adblgrave",
         "w",
-        -39
+        -429
       ],
       [
         "Adieresis",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Adieresis",
         "question",
-        -72
+        -497
       ],
       [
         "Adieresis",
         "t",
-        -20
+        -275
       ],
       [
         "Adieresis",
         "w",
-        -39
+        -429
       ],
       [
         "Adotbelow",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Adotbelow",
         "question",
-        -72
+        -497
       ],
       [
         "Adotbelow",
         "t",
-        -20
+        -275
       ],
       [
         "Adotbelow",
         "w",
-        -39
+        -429
       ],
       [
         "Agrave",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Agrave",
         "question",
-        -72
+        -497
       ],
       [
         "Agrave",
         "t",
-        -20
+        -275
       ],
       [
         "Agrave",
         "w",
-        -39
+        -429
       ],
       [
         "Ahookabove",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Ahookabove",
         "question",
-        -72
+        -497
       ],
       [
         "Ahookabove",
         "t",
-        -20
+        -275
       ],
       [
         "Ahookabove",
         "w",
-        -39
+        -429
       ],
       [
         "Ainvertedbreve",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Ainvertedbreve",
         "question",
-        -72
+        -497
       ],
       [
         "Ainvertedbreve",
         "t",
-        -20
+        -275
       ],
       [
         "Ainvertedbreve",
         "w",
-        -39
+        -429
       ],
       [
         "Amacron",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Amacron",
         "question",
-        -72
+        -497
       ],
       [
         "Amacron",
         "t",
-        -20
+        -275
       ],
       [
         "Amacron",
         "w",
-        -39
+        -429
       ],
       [
         "Aogonek",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Aogonek",
         "question",
-        -72
+        -497
       ],
       [
         "Aogonek",
         "t",
-        -20
+        -275
       ],
       [
         "Aogonek",
         "w",
-        -39
+        -429
       ],
       [
         "Aring",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Aring",
         "question",
-        -72
+        -497
       ],
       [
         "Aring",
         "t",
-        -20
+        -275
       ],
       [
         "Aring",
         "w",
-        -39
+        -429
       ],
       [
         "Aringacute",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Aringacute",
         "question",
-        -72
+        -497
       ],
       [
         "Aringacute",
         "t",
-        -20
+        -275
       ],
       [
         "Aringacute",
         "w",
-        -39
+        -429
       ],
       [
         "Atilde",
         "Uhorn",
-        -21
+        -251
       ],
       [
         "Atilde",
         "question",
-        -72
+        -497
       ],
       [
         "Atilde",
         "t",
-        -20
+        -275
       ],
       [
         "Atilde",
         "w",
-        -39
+        -429
+      ],
+      [
+        "B",
+        "V",
+        -230
+      ],
+      [
+        "B",
+        "X",
+        -230
       ],
       [
         "B",
@@ -28190,57 +28195,92 @@
       [
         "B",
         "backslash",
-        -50
+        -255
       ],
       [
         "B",
         "eth",
-        30
-      ],
-      [
-        "B",
-        "public.kern2.S_UC",
-        80
-      ],
-      [
-        "B",
-        "public.kern2.a_LC",
-        10
-      ],
-      [
-        "B",
-        "public.kern2.alpha",
-        30
-      ],
-      [
-        "B",
-        "public.kern2.f_LC",
-        30
-      ],
-      [
-        "B",
-        "public.kern2.o_LC",
-        30
-      ],
-      [
-        "B",
-        "public.kern2.s_LC",
-        40
-      ],
-      [
-        "B",
-        "public.kern2.t_LC",
-        30
-      ],
-      [
-        "B",
-        "public.kern2.w_LC",
         -20
       ],
       [
         "B",
+        "public.kern2.A_UC",
+        -170
+      ],
+      [
+        "B",
+        "public.kern2.CG_UC",
+        -40
+      ],
+      [
+        "B",
+        "public.kern2.J_UC",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.T_UC",
+        -95
+      ],
+      [
+        "B",
+        "public.kern2.U_UC",
+        -15
+      ],
+      [
+        "B",
+        "public.kern2.W_UC",
+        -200
+      ],
+      [
+        "B",
+        "public.kern2.Y_UC",
+        -280
+      ],
+      [
+        "B",
+        "public.kern2.Z_UC",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.a_LC",
+        -20
+      ],
+      [
+        "B",
+        "public.kern2.alpha",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.f_LC",
+        -25
+      ],
+      [
+        "B",
+        "public.kern2.o_LC",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.s_LC",
+        -20
+      ],
+      [
+        "B",
+        "public.kern2.t_LC",
+        -15
+      ],
+      [
+        "B",
+        "public.kern2.w_LC",
+        -170
+      ],
+      [
+        "B",
         "public.kern2.z_LC",
-        20
+        -20
       ],
       [
         "B",
@@ -28250,97 +28290,97 @@
       [
         "B",
         "x",
-        -20
+        -260
       ],
       [
         "C",
         "braceright",
-        -20
+        -75
       ],
       [
         "C",
         "bracketright",
-        -14
+        -69
       ],
       [
         "C",
         "parenright",
-        -31
+        -111
       ],
       [
         "Cacute",
         "braceright",
-        -20
+        -75
       ],
       [
         "Cacute",
         "bracketright",
-        -14
+        -69
       ],
       [
         "Cacute",
         "parenright",
-        -31
+        -111
       ],
       [
         "Ccaron",
         "braceright",
-        -20
+        -75
       ],
       [
         "Ccaron",
         "bracketright",
-        -14
+        -69
       ],
       [
         "Ccaron",
         "parenright",
-        -31
+        -111
       ],
       [
         "Ccedilla",
         "braceright",
-        -20
+        -75
       ],
       [
         "Ccedilla",
         "bracketright",
-        -14
+        -69
       ],
       [
         "Ccedilla",
         "parenright",
-        -31
+        -111
       ],
       [
         "Ccircumflex",
         "braceright",
-        -20
+        -75
       ],
       [
         "Ccircumflex",
         "bracketright",
-        -14
+        -69
       ],
       [
         "Ccircumflex",
         "parenright",
-        -31
+        -111
       ],
       [
         "Cdotaccent",
         "braceright",
-        -20
+        -75
       ],
       [
         "Cdotaccent",
         "bracketright",
-        -14
+        -69
       ],
       [
         "Cdotaccent",
         "parenright",
-        -31
+        -111
       ],
       [
         "D",
@@ -28350,7 +28390,7 @@
       [
         "DZcaron",
         "w",
-        -32
+        -227
       ],
       [
         "Dcaron",
@@ -28365,17 +28405,12 @@
       [
         "E",
         "f",
-        -21
-      ],
-      [
-        "E",
-        "w",
-        -26
+        -156
       ],
       [
         "Eacute",
         "f",
-        -21
+        -116
       ],
       [
         "Eacute",
@@ -28385,7 +28420,7 @@
       [
         "Ebreve",
         "f",
-        -21
+        -116
       ],
       [
         "Ebreve",
@@ -28395,7 +28430,7 @@
       [
         "Ecaron",
         "f",
-        -21
+        -116
       ],
       [
         "Ecaron",
@@ -28405,7 +28440,7 @@
       [
         "Ecircumflex",
         "f",
-        -21
+        -116
       ],
       [
         "Ecircumflex",
@@ -28415,7 +28450,7 @@
       [
         "Ecircumflexacute",
         "f",
-        -21
+        -326
       ],
       [
         "Ecircumflexacute",
@@ -28425,7 +28460,7 @@
       [
         "Ecircumflexdotbelow",
         "f",
-        -21
+        -116
       ],
       [
         "Ecircumflexdotbelow",
@@ -28435,7 +28470,7 @@
       [
         "Ecircumflexgrave",
         "f",
-        -21
+        -231
       ],
       [
         "Ecircumflexgrave",
@@ -28445,7 +28480,7 @@
       [
         "Ecircumflexhookabove",
         "f",
-        -21
+        -216
       ],
       [
         "Ecircumflexhookabove",
@@ -28455,7 +28490,7 @@
       [
         "Ecircumflextilde",
         "f",
-        -21
+        -116
       ],
       [
         "Ecircumflextilde",
@@ -28465,7 +28500,7 @@
       [
         "Edblgrave",
         "f",
-        -21
+        -211
       ],
       [
         "Edblgrave",
@@ -28475,7 +28510,7 @@
       [
         "Edieresis",
         "f",
-        -21
+        -116
       ],
       [
         "Edieresis",
@@ -28485,7 +28520,7 @@
       [
         "Edotaccent",
         "f",
-        -21
+        -116
       ],
       [
         "Edotaccent",
@@ -28495,7 +28530,7 @@
       [
         "Edotbelow",
         "f",
-        -21
+        -116
       ],
       [
         "Edotbelow",
@@ -28505,7 +28540,7 @@
       [
         "Egrave",
         "f",
-        -21
+        -116
       ],
       [
         "Egrave",
@@ -28515,7 +28550,7 @@
       [
         "Ehookabove",
         "f",
-        -21
+        -116
       ],
       [
         "Ehookabove",
@@ -28525,7 +28560,7 @@
       [
         "Einvertedbreve",
         "f",
-        -21
+        -116
       ],
       [
         "Einvertedbreve",
@@ -28535,7 +28570,7 @@
       [
         "Emacron",
         "f",
-        -21
+        -116
       ],
       [
         "Emacron",
@@ -28545,7 +28580,7 @@
       [
         "Eogonek",
         "f",
-        -21
+        -186
       ],
       [
         "Eogonek",
@@ -28560,17 +28595,12 @@
       [
         "Etilde",
         "f",
-        -21
+        -116
       ],
       [
         "Etilde",
         "w",
         -26
-      ],
-      [
-        "F",
-        "A",
-        -122
       ],
       [
         "F",
@@ -28694,213 +28724,188 @@
       ],
       [
         "F",
-        "J",
-        66
-      ],
-      [
-        "F",
         "Jcircumflex",
         -314
       ],
       [
         "F",
-        "T",
-        24
-      ],
-      [
-        "F",
         "Tcaron",
-        24
+        -326
       ],
       [
         "F",
         "Tcedilla",
-        24
+        -326
       ],
       [
         "F",
         "Tcommaaccent",
-        24
+        -326
       ],
       [
         "F",
         "V",
-        100
+        -240
       ],
       [
         "F",
         "X",
-        70
-      ],
-      [
-        "F",
-        "a",
-        -40
+        -180
       ],
       [
         "F",
         "aacute",
-        -40
+        -240
       ],
       [
         "F",
         "abreve",
-        -40
+        -240
       ],
       [
         "F",
         "abreveacute",
-        -40
+        -240
       ],
       [
         "F",
         "abrevedotbelow",
-        -40
+        -240
       ],
       [
         "F",
         "abrevegrave",
-        -40
+        -240
       ],
       [
         "F",
         "abrevehookabove",
-        -40
+        -240
       ],
       [
         "F",
         "abrevetilde",
-        -40
+        -240
       ],
       [
         "F",
         "acircumflex",
-        -40
+        -240
       ],
       [
         "F",
         "acircumflexacute",
-        -40
+        -370
       ],
       [
         "F",
         "acircumflexdotbelow",
-        -40
+        -240
       ],
       [
         "F",
         "acircumflexgrave",
-        -40
+        -255
       ],
       [
         "F",
         "acircumflexhookabove",
-        -40
+        -365
       ],
       [
         "F",
         "acircumflextilde",
-        -40
+        -240
       ],
       [
         "F",
         "adblgrave",
-        -40
+        -190
       ],
       [
         "F",
         "adieresis",
-        -40
+        -240
       ],
       [
         "F",
         "adotbelow",
-        -40
+        -240
       ],
       [
         "F",
         "agrave",
-        -40
+        -240
       ],
       [
         "F",
         "ahookabove",
-        -40
+        -240
       ],
       [
         "F",
         "ainvertedbreve",
-        -40
+        -240
       ],
       [
         "F",
         "amacron",
-        -40
+        -240
       ],
       [
         "F",
         "aogonek",
-        -40
+        -240
       ],
       [
         "F",
         "aring",
-        -40
+        -240
       ],
       [
         "F",
         "aringacute",
-        -40
+        -240
       ],
       [
         "F",
         "atilde",
-        -40
+        -240
       ],
       [
         "F",
         "backslash",
-        100
-      ],
-      [
-        "F",
-        "c",
-        -25
+        -20
       ],
       [
         "F",
         "cacute",
-        -25
+        -110
       ],
       [
         "F",
         "ccaron",
-        -25
+        -110
       ],
       [
         "F",
         "ccedilla",
-        -25
+        -110
       ],
       [
         "F",
         "ccircumflex",
-        -25
+        -110
       ],
       [
         "F",
         "cdotaccent",
-        -25
+        -110
       ],
       [
         "F",
         "comma",
-        0
-      ],
-      [
-        "F",
-        "d",
-        -25
+        -200
       ],
       [
         "F",
@@ -28914,28 +28919,23 @@
       ],
       [
         "F",
-        "e",
-        -25
-      ],
-      [
-        "F",
         "eacute",
-        -25
+        -150
       ],
       [
         "F",
         "ebreve",
-        -25
+        -150
       ],
       [
         "F",
         "ecaron",
-        -25
+        -150
       ],
       [
         "F",
         "ecircumflex",
-        -25
+        -150
       ],
       [
         "F",
@@ -28945,12 +28945,12 @@
       [
         "F",
         "ecircumflexdotbelow",
-        -25
+        -150
       ],
       [
         "F",
         "ecircumflexgrave",
-        -25
+        -195
       ],
       [
         "F",
@@ -28960,42 +28960,42 @@
       [
         "F",
         "ecircumflextilde",
-        -25
+        -150
       ],
       [
         "F",
         "edblgrave",
-        -25
+        -150
       ],
       [
         "F",
         "edieresis",
-        -25
+        -150
       ],
       [
         "F",
         "edotaccent",
-        -25
+        -150
       ],
       [
         "F",
         "edotbelow",
-        -25
+        -150
       ],
       [
         "F",
         "egrave",
-        -25
+        -150
       ],
       [
         "F",
         "ehookabove",
-        -25
+        -150
       ],
       [
         "F",
         "einvertedbreve",
-        -25
+        -150
       ],
       [
         "F",
@@ -29005,127 +29005,117 @@
       [
         "F",
         "emacron",
-        -25
+        -150
       ],
       [
         "F",
         "eogonek",
-        -25
+        -150
       ],
       [
         "F",
         "eth",
-        -25
+        -170
       ],
       [
         "F",
         "etilde",
-        -25
-      ],
-      [
-        "F",
-        "g",
-        -25
+        -150
       ],
       [
         "F",
         "gbreve",
-        -25
+        -140
       ],
       [
         "F",
         "gcaron",
-        -25
+        -140
       ],
       [
         "F",
         "gcircumflex",
-        -25
+        -140
       ],
       [
         "F",
         "gcommaaccent",
-        -25
+        -140
       ],
       [
         "F",
         "gdotaccent",
-        -25
+        -140
       ],
       [
         "F",
         "j",
-        -45
-      ],
-      [
-        "F",
-        "o",
-        -25
+        -60
       ],
       [
         "F",
         "oacute",
-        -25
+        -160
       ],
       [
         "F",
         "obreve",
-        -25
+        -160
       ],
       [
         "F",
         "ocircumflex",
-        -25
+        -160
       ],
       [
         "F",
         "ocircumflexacute",
-        -25
+        -285
       ],
       [
         "F",
         "ocircumflexdotbelow",
-        -25
+        -160
       ],
       [
         "F",
         "ocircumflexgrave",
-        -25
+        -170
       ],
       [
         "F",
         "ocircumflexhookabove",
-        -25
+        -280
       ],
       [
         "F",
         "ocircumflextilde",
-        -25
+        -160
       ],
       [
         "F",
         "odblgrave",
-        -25
+        -160
       ],
       [
         "F",
         "odieresis",
-        -25
+        -160
       ],
       [
         "F",
         "odieresismacron",
-        -25
+        -160
       ],
       [
         "F",
         "odotaccentmacron",
-        -25
+        -160
       ],
       [
         "F",
         "odotbelow",
-        -25
+        -160
       ],
       [
         "F",
@@ -29135,112 +29125,132 @@
       [
         "F",
         "ograve",
-        -25
+        -160
       ],
       [
         "F",
         "ohookabove",
-        -25
+        -160
       ],
       [
         "F",
         "ohorn",
-        -25
+        -220
       ],
       [
         "F",
         "ohornacute",
-        -25
+        -220
       ],
       [
         "F",
         "ohorndotbelow",
-        -25
+        -220
       ],
       [
         "F",
         "ohorngrave",
-        -25
+        -220
       ],
       [
         "F",
         "ohornhookabove",
-        -25
+        -220
       ],
       [
         "F",
         "ohorntilde",
-        -25
+        -220
       ],
       [
         "F",
         "ohungarumlaut",
-        -25
+        -170
       ],
       [
         "F",
         "oinvertedbreve",
-        -25
+        -160
       ],
       [
         "F",
         "omacron",
-        -25
+        -160
       ],
       [
         "F",
         "oogonek",
-        -25
+        -160
       ],
       [
         "F",
         "otilde",
-        -25
+        -160
       ],
       [
         "F",
         "otildemacron",
-        -25
+        -160
       ],
       [
         "F",
         "period",
-        0
+        -200
+      ],
+      [
+        "F",
+        "public.kern2.A_UC",
+        -310
+      ],
+      [
+        "F",
+        "public.kern2.CG_UC",
+        -60
+      ],
+      [
+        "F",
+        "public.kern2.J_UC",
+        -60
+      ],
+      [
+        "F",
+        "public.kern2.S_UC",
+        -20
+      ],
+      [
+        "F",
+        "public.kern2.T_UC",
+        -100
       ],
       [
         "F",
         "public.kern2.W_UC",
-        100
+        -190
       ],
       [
         "F",
         "public.kern2.Y_UC",
-        130
+        -110
       ],
       [
         "F",
         "public.kern2.Z_UC",
-        30
+        -115
       ],
       [
         "F",
         "public.kern2.minute",
-        110
+        -30
       ],
       [
         "F",
         "public.kern2.w_LC",
-        -9
-      ],
-      [
-        "F",
-        "q",
-        -25
+        -370
       ],
       [
         "F",
         "question",
-        120
+        -125
       ],
       [
         "F",
@@ -29255,7 +29265,7 @@
       [
         "F",
         "r",
-        -31
+        -81
       ],
       [
         "F",
@@ -29269,173 +29279,148 @@
       ],
       [
         "F",
-        "u",
-        -26
-      ],
-      [
-        "F",
         "uacute",
-        -26
+        -81
       ],
       [
         "F",
         "ubreve",
-        -26
+        -81
       ],
       [
         "F",
         "ucircumflex",
-        -26
+        -81
       ],
       [
         "F",
         "udblgrave",
-        -26
+        -81
       ],
       [
         "F",
         "udieresis",
-        -26
+        -81
       ],
       [
         "F",
         "udotbelow",
-        -26
+        -81
       ],
       [
         "F",
         "ugrave",
-        -26
+        -81
       ],
       [
         "F",
         "uhookabove",
-        -26
+        -81
       ],
       [
         "F",
         "uhorn",
-        -26
+        -291
       ],
       [
         "F",
         "uhornacute",
-        -26
+        -291
       ],
       [
         "F",
         "uhorndotbelow",
-        -26
+        -291
       ],
       [
         "F",
         "uhorngrave",
-        -26
+        -291
       ],
       [
         "F",
         "uhornhookabove",
-        -26
+        -291
       ],
       [
         "F",
         "uhorntilde",
-        -26
+        -291
       ],
       [
         "F",
         "uhungarumlaut",
-        -26
+        -81
       ],
       [
         "F",
         "uinvertedbreve",
-        -26
+        -81
       ],
       [
         "F",
         "umacron",
-        -26
+        -81
       ],
       [
         "F",
         "uogonek",
-        -26
+        -81
       ],
       [
         "F",
         "uring",
-        -26
+        -81
       ],
       [
         "F",
         "utilde",
-        -26
-      ],
-      [
-        "F",
-        "v",
-        -9
-      ],
-      [
-        "F",
-        "y",
-        -9
+        -81
       ],
       [
         "F",
         "yacute",
-        -29
+        -309
       ],
       [
         "F",
         "ycircumflex",
-        -29
+        -309
       ],
       [
         "F",
         "ydieresis",
-        -29
+        -309
       ],
       [
         "F",
         "ydotbelow",
-        -29
+        -309
       ],
       [
         "F",
         "ygrave",
-        -29
+        -309
       ],
       [
         "F",
         "yhookabove",
-        -29
+        -309
       ],
       [
         "F",
         "ymacron",
-        -29
+        -309
       ],
       [
         "F",
         "ytilde",
-        -29
-      ],
-      [
-        "K",
-        "w",
-        -75
+        -309
       ],
       [
         "Kcommaaccent",
         "w",
-        -75
-      ],
-      [
-        "L",
-        "w",
-        -109
+        -470
       ],
       [
         "Lacute",
@@ -29460,12 +29445,12 @@
       [
         "Lslash",
         "ampersand",
-        80
+        -355
       ],
       [
         "Lslash",
         "backslash",
-        -90
+        -550
       ],
       [
         "Lslash",
@@ -29594,83 +29579,93 @@
       ],
       [
         "P",
-        "backslash",
-        -60
+        "V",
+        -200
       ],
       [
         "P",
-        "j",
-        -40
+        "X",
+        -295
+      ],
+      [
+        "P",
+        "backslash",
+        -230
       ],
       [
         "P",
         "public.kern2.A_UC",
-        -140
+        -345
+      ],
+      [
+        "P",
+        "public.kern2.CG_UC",
+        -10
       ],
       [
         "P",
         "public.kern2.J_UC",
-        70
+        -20
       ],
       [
         "P",
         "public.kern2.S_UC",
-        50
+        -30
       ],
       [
         "P",
         "public.kern2.T_UC",
-        30
+        -10
+      ],
+      [
+        "P",
+        "public.kern2.W_UC",
+        -165
+      ],
+      [
+        "P",
+        "public.kern2.Y_UC",
+        -260
+      ],
+      [
+        "P",
+        "public.kern2.Z_UC",
+        -40
       ],
       [
         "P",
         "public.kern2.a_LC",
-        -60
+        -155
       ],
       [
         "P",
         "question",
-        80
+        -20
       ],
       [
         "P",
         "slash",
-        -90
-      ],
-      [
-        "P",
-        "t",
-        17
-      ],
-      [
-        "Q",
-        "T",
-        0
+        -485
       ],
       [
         "Q",
         "Tcaron",
-        -51
+        -61
       ],
       [
         "Q",
         "Tcedilla",
-        -51
+        -61
       ],
       [
         "Q",
         "Tcommaaccent",
-        -51
+        -61
       ],
       [
         "Q",
         "V",
-        -25
-      ],
-      [
-        "Q",
-        "W",
-        0
+        -260
       ],
       [
         "Q",
@@ -29694,133 +29689,133 @@
       ],
       [
         "Q",
+        "X",
+        -330
+      ],
+      [
+        "Q",
         "Y",
-        0
+        -345
       ],
       [
         "Q",
         "Yacute",
-        -42
+        -377
       ],
       [
         "Q",
         "Ycircumflex",
-        -42
+        -377
       ],
       [
         "Q",
         "Ydieresis",
-        -42
+        -377
       ],
       [
         "Q",
         "Ydotbelow",
-        -42
+        -377
       ],
       [
         "Q",
         "Ygrave",
-        -42
+        -377
       ],
       [
         "Q",
         "Yhookabove",
-        -42
+        -377
       ],
       [
         "Q",
         "Ytilde",
-        -42
+        -377
       ],
       [
         "Q",
         "backslash",
-        -110
+        -305
       ],
       [
         "Q",
         "public.kern2.A_UC",
-        -50
-      ],
-      [
-        "Q",
-        "public.kern2.J_UC",
-        80
+        -265
       ],
       [
         "Q",
         "public.kern2.S_UC",
-        80
+        -35
+      ],
+      [
+        "Q",
+        "public.kern2.T_UC",
+        -40
+      ],
+      [
+        "Q",
+        "public.kern2.W_UC",
+        -210
+      ],
+      [
+        "Q",
+        "public.kern2.Z_UC",
+        -70
       ],
       [
         "Q",
         "question",
-        70
-      ],
-      [
-        "R",
-        "T",
-        -35
+        -45
       ],
       [
         "R",
         "Tcaron",
-        -95
+        -125
       ],
       [
         "R",
         "Tcedilla",
-        -95
+        -125
       ],
       [
         "R",
         "Tcommaaccent",
-        -95
-      ],
-      [
-        "R",
-        "V",
-        -23
-      ],
-      [
-        "R",
-        "Y",
-        -57
+        -125
       ],
       [
         "R",
         "Yacute",
-        -57
+        -352
       ],
       [
         "R",
         "Ycircumflex",
-        -57
+        -352
       ],
       [
         "R",
         "Ydieresis",
-        -57
+        -352
       ],
       [
         "R",
         "Ydotbelow",
-        -57
+        -352
       ],
       [
         "R",
         "Ygrave",
-        -57
+        -352
       ],
       [
         "R",
         "Yhookabove",
-        -57
+        -352
       ],
       [
         "R",
         "Ytilde",
-        -57
+        -352
       ],
       [
         "Schwa",
@@ -29840,32 +29835,22 @@
       [
         "T",
         "guillemotleft",
-        -390
+        -580
       ],
       [
         "T",
         "guillemotright",
-        -257
+        -582
       ],
       [
         "T",
         "oslash",
-        -113
-      ],
-      [
-        "T",
-        "r",
-        -89
+        -583
       ],
       [
         "T",
         "space",
         -48
-      ],
-      [
-        "T",
-        "w",
-        -68
       ],
       [
         "Tbar",
@@ -29880,22 +29865,22 @@
       [
         "Tbar",
         "guillemotleft",
-        -390
+        -555
       ],
       [
         "Tbar",
         "guillemotright",
-        -257
+        -537
       ],
       [
         "Tbar",
         "oslash",
-        -113
+        -503
       ],
       [
         "Tbar",
         "r",
-        -89
+        -464
       ],
       [
         "Tbar",
@@ -29920,17 +29905,17 @@
       [
         "Tcaron",
         "guillemotleft",
-        -390
+        -580
       ],
       [
         "Tcaron",
         "guillemotright",
-        -257
+        -582
       ],
       [
         "Tcaron",
         "oslash",
-        -113
+        -583
       ],
       [
         "Tcaron",
@@ -29960,17 +29945,17 @@
       [
         "Tcedilla",
         "guillemotleft",
-        -390
+        -580
       ],
       [
         "Tcedilla",
         "guillemotright",
-        -257
+        -582
       ],
       [
         "Tcedilla",
         "oslash",
-        -113
+        -583
       ],
       [
         "Tcedilla",
@@ -30000,17 +29985,17 @@
       [
         "Tcommaaccent",
         "guillemotleft",
-        -390
+        -580
       ],
       [
         "Tcommaaccent",
         "guillemotright",
-        -257
+        -582
       ],
       [
         "Tcommaaccent",
         "oslash",
-        -113
+        -583
       ],
       [
         "Tcommaaccent",
@@ -30030,17 +30015,17 @@
       [
         "Thorn",
         "V",
-        -25
+        -310
       ],
       [
         "Thorn",
         "X",
-        -80
+        -420
       ],
       [
         "Thorn",
         "backslash",
-        -60
+        -305
       ],
       [
         "Thorn",
@@ -30050,37 +30035,37 @@
       [
         "Thorn",
         "public.kern2.J_UC",
-        80
+        -20
       ],
       [
         "Thorn",
         "public.kern2.S_UC",
-        70
+        -55
       ],
       [
         "Thorn",
         "public.kern2.Z_UC",
-        20
+        -80
       ],
       [
         "Thorn",
         "question",
-        80
+        -45
       ],
       [
         "Thorn",
         "slash",
-        -90
+        -485
       ],
       [
         "V",
         "V",
-        80
+        -120
       ],
       [
         "V",
         "X",
-        50
+        -250
       ],
       [
         "V",
@@ -30090,82 +30075,82 @@
       [
         "V",
         "braceright",
-        23
+        -17
       ],
       [
         "V",
         "bracketright",
-        40
-      ],
-      [
-        "V",
-        "eth",
-        -130
-      ],
-      [
-        "V",
-        "j",
-        -40
-      ],
-      [
-        "V",
-        "parenright",
-        24
-      ],
-      [
-        "V",
-        "public.kern2.A_UC",
-        -100
-      ],
-      [
-        "V",
-        "public.kern2.CG_UC",
-        -25
-      ],
-      [
-        "V",
-        "public.kern2.J_UC",
-        -100
-      ],
-      [
-        "V",
-        "public.kern2.S_UC",
-        30
-      ],
-      [
-        "V",
-        "public.kern2.StraightRight_UC",
         -20
       ],
       [
         "V",
+        "eth",
+        -285
+      ],
+      [
+        "V",
+        "j",
+        -75
+      ],
+      [
+        "V",
+        "parenright",
+        -16
+      ],
+      [
+        "V",
+        "public.kern2.A_UC",
+        -690
+      ],
+      [
+        "V",
+        "public.kern2.CG_UC",
+        -255
+      ],
+      [
+        "V",
+        "public.kern2.J_UC",
+        -370
+      ],
+      [
+        "V",
+        "public.kern2.S_UC",
+        -190
+      ],
+      [
+        "V",
         "public.kern2.T_UC",
-        30
+        -270
+      ],
+      [
+        "V",
+        "public.kern2.U_UC",
+        -100
       ],
       [
         "V",
         "public.kern2.W_UC",
-        80
+        -120
       ],
       [
         "V",
         "public.kern2.Y_UC",
-        120
+        -270
       ],
       [
         "V",
         "public.kern2.Z_UC",
-        90
+        -270
       ],
       [
         "V",
         "public.kern2.a_LC",
-        -180
+        -500
       ],
       [
         "V",
         "public.kern2.alpha",
-        -130
+        -430
       ],
       [
         "V",
@@ -30180,12 +30165,12 @@
       [
         "V",
         "public.kern2.f_LC",
-        -120
+        -270
       ],
       [
         "V",
         "public.kern2.gamma",
-        -50
+        -290
       ],
       [
         "V",
@@ -30195,52 +30180,47 @@
       [
         "V",
         "public.kern2.minute",
-        40
+        -125
       ],
       [
         "V",
         "public.kern2.mnpr_LC",
-        -50
+        -270
       ],
       [
         "V",
         "public.kern2.o_LC",
-        -130
+        -430
       ],
       [
         "V",
         "public.kern2.s_LC",
-        -116
+        -391
       ],
       [
         "V",
         "public.kern2.t_LC",
-        -130
+        -270
       ],
       [
         "V",
         "public.kern2.u_LC",
-        -50
+        -270
       ],
       [
         "V",
         "public.kern2.w_LC",
-        -50
+        -290
       ],
       [
         "V",
         "public.kern2.z_LC",
-        -25
+        -305
       ],
       [
         "V",
         "question",
         70
-      ],
-      [
-        "V",
-        "r",
-        -50
       ],
       [
         "V",
@@ -30250,47 +30230,42 @@
       [
         "V",
         "trademark",
-        90
+        -185
       ],
       [
         "V",
         "x",
-        -50
+        -360
       ],
       [
         "W",
         "braceright",
-        17
+        -18
       ],
       [
         "W",
         "bracketright",
-        44
+        -16
       ],
       [
         "W",
         "parenright",
-        18
-      ],
-      [
-        "W",
-        "r",
-        -25
+        -17
       ],
       [
         "Wacute",
         "braceright",
-        17
+        -18
       ],
       [
         "Wacute",
         "bracketright",
-        14
+        -16
       ],
       [
         "Wacute",
         "parenright",
-        18
+        -17
       ],
       [
         "Wacute",
@@ -30300,17 +30275,17 @@
       [
         "Wcircumflex",
         "braceright",
-        17
+        -18
       ],
       [
         "Wcircumflex",
         "bracketright",
-        14
+        -16
       ],
       [
         "Wcircumflex",
         "parenright",
-        18
+        -17
       ],
       [
         "Wcircumflex",
@@ -30320,17 +30295,17 @@
       [
         "Wdieresis",
         "braceright",
-        17
+        -18
       ],
       [
         "Wdieresis",
         "bracketright",
-        14
+        -16
       ],
       [
         "Wdieresis",
         "parenright",
-        18
+        -17
       ],
       [
         "Wdieresis",
@@ -30340,17 +30315,17 @@
       [
         "Wgrave",
         "braceright",
-        17
+        -18
       ],
       [
         "Wgrave",
         "bracketright",
-        14
+        -16
       ],
       [
         "Wgrave",
         "parenright",
-        18
+        -17
       ],
       [
         "Wgrave",
@@ -30360,67 +30335,77 @@
       [
         "X",
         "V",
-        70
+        -170
       ],
       [
         "X",
         "X",
-        80
+        -70
       ],
       [
         "X",
         "at",
-        50
+        -425
+      ],
+      [
+        "X",
+        "public.kern2.A_UC",
+        -280
       ],
       [
         "X",
         "public.kern2.CG_UC",
-        -25
+        -375
+      ],
+      [
+        "X",
+        "public.kern2.J_UC",
+        -250
       ],
       [
         "X",
         "public.kern2.S_UC",
-        50
-      ],
-      [
-        "X",
-        "public.kern2.StraightRight_UC",
-        -30
+        -235
       ],
       [
         "X",
         "public.kern2.T_UC",
-        20
+        -160
+      ],
+      [
+        "X",
+        "public.kern2.U_UC",
+        -80
       ],
       [
         "X",
         "public.kern2.W_UC",
-        70
+        -190
       ],
       [
         "X",
         "public.kern2.Y_UC",
-        120
+        -280
       ],
       [
         "X",
         "public.kern2.Z_UC",
-        110
+        -20
       ],
       [
         "X",
         "public.kern2.emdash",
-        -90
+        -335
       ],
       [
         "X",
         "public.kern2.minute",
-        40
+        -125
       ],
       [
         "X",
         "public.kern2.parens",
-        30
+        -20
       ],
       [
         "X",
@@ -30430,12 +30415,12 @@
       [
         "X",
         "slash",
-        70
+        -335
       ],
       [
         "X",
         "trademark",
-        90
+        -330
       ],
       [
         "Y",
@@ -30450,32 +30435,27 @@
       [
         "Y",
         "ampersand",
-        -36
+        -506
       ],
       [
         "Y",
         "asterisk",
-        -58
+        -348
       ],
       [
         "Y",
         "braceright",
-        23
+        -17
       ],
       [
         "Y",
         "bracketright",
-        81
+        -19
       ],
       [
         "Y",
         "bullet",
         -53
-      ],
-      [
-        "Y",
-        "f",
-        -26
       ],
       [
         "Y",
@@ -30495,17 +30475,7 @@
       [
         "Y",
         "parenright",
-        24
-      ],
-      [
-        "Y",
-        "r",
-        -50
-      ],
-      [
-        "Y",
-        "t",
-        -26
+        -16
       ],
       [
         "Yacute",
@@ -30520,22 +30490,22 @@
       [
         "Yacute",
         "ampersand",
-        -36
+        -506
       ],
       [
         "Yacute",
         "asterisk",
-        -58
+        -348
       ],
       [
         "Yacute",
         "braceright",
-        23
+        -17
       ],
       [
         "Yacute",
         "bracketright",
-        21
+        -19
       ],
       [
         "Yacute",
@@ -30565,7 +30535,7 @@
       [
         "Yacute",
         "parenright",
-        24
+        -16
       ],
       [
         "Yacute",
@@ -30590,22 +30560,22 @@
       [
         "Ycircumflex",
         "ampersand",
-        -36
+        -506
       ],
       [
         "Ycircumflex",
         "asterisk",
-        -58
+        -348
       ],
       [
         "Ycircumflex",
         "braceright",
-        23
+        -17
       ],
       [
         "Ycircumflex",
         "bracketright",
-        21
+        -19
       ],
       [
         "Ycircumflex",
@@ -30635,7 +30605,7 @@
       [
         "Ycircumflex",
         "parenright",
-        24
+        -16
       ],
       [
         "Ycircumflex",
@@ -30660,22 +30630,22 @@
       [
         "Ydieresis",
         "ampersand",
-        -36
+        -506
       ],
       [
         "Ydieresis",
         "asterisk",
-        -58
+        -348
       ],
       [
         "Ydieresis",
         "braceright",
-        23
+        -17
       ],
       [
         "Ydieresis",
         "bracketright",
-        21
+        -19
       ],
       [
         "Ydieresis",
@@ -30705,7 +30675,7 @@
       [
         "Ydieresis",
         "parenright",
-        24
+        -16
       ],
       [
         "Ydieresis",
@@ -30730,22 +30700,22 @@
       [
         "Ydotbelow",
         "ampersand",
-        -36
+        -506
       ],
       [
         "Ydotbelow",
         "asterisk",
-        -58
+        -348
       ],
       [
         "Ydotbelow",
         "braceright",
-        23
+        -17
       ],
       [
         "Ydotbelow",
         "bracketright",
-        21
+        -19
       ],
       [
         "Ydotbelow",
@@ -30775,7 +30745,7 @@
       [
         "Ydotbelow",
         "parenright",
-        24
+        -16
       ],
       [
         "Ydotbelow",
@@ -30800,22 +30770,22 @@
       [
         "Ygrave",
         "ampersand",
-        -36
+        -506
       ],
       [
         "Ygrave",
         "asterisk",
-        -58
+        -348
       ],
       [
         "Ygrave",
         "braceright",
-        23
+        -17
       ],
       [
         "Ygrave",
         "bracketright",
-        21
+        -19
       ],
       [
         "Ygrave",
@@ -30845,7 +30815,7 @@
       [
         "Ygrave",
         "parenright",
-        24
+        -16
       ],
       [
         "Ygrave",
@@ -30870,22 +30840,22 @@
       [
         "Yhookabove",
         "ampersand",
-        -36
+        -506
       ],
       [
         "Yhookabove",
         "asterisk",
-        -58
+        -348
       ],
       [
         "Yhookabove",
         "braceright",
-        23
+        -17
       ],
       [
         "Yhookabove",
         "bracketright",
-        21
+        -19
       ],
       [
         "Yhookabove",
@@ -30915,7 +30885,7 @@
       [
         "Yhookabove",
         "parenright",
-        24
+        -16
       ],
       [
         "Yhookabove",
@@ -30940,22 +30910,22 @@
       [
         "Ytilde",
         "ampersand",
-        -36
+        -506
       ],
       [
         "Ytilde",
         "asterisk",
-        -58
+        -348
       ],
       [
         "Ytilde",
         "braceright",
-        23
+        -17
       ],
       [
         "Ytilde",
         "bracketright",
-        21
+        -19
       ],
       [
         "Ytilde",
@@ -30985,7 +30955,7 @@
       [
         "Ytilde",
         "parenright",
-        24
+        -16
       ],
       [
         "Ytilde",
@@ -30996,11 +30966,6 @@
         "Ytilde",
         "t",
         -26
-      ],
-      [
-        "Z",
-        "w",
-        -32
       ],
       [
         "Zacute",
@@ -31020,32 +30985,32 @@
       [
         "ampersand",
         "X",
-        90
+        -30
       ],
       [
         "ampersand",
         "public.kern2.A_UC",
-        110
+        -225
       ],
       [
         "ampersand",
         "public.kern2.CG_UC",
-        120
+        -170
       ],
       [
         "ampersand",
         "public.kern2.J_UC",
-        110
+        -40
       ],
       [
         "ampersand",
         "public.kern2.S_UC",
-        110
+        -120
       ],
       [
         "ampersand",
         "public.kern2.Z_UC",
-        140
+        -20
       ],
       [
         "apostrophemod",
@@ -31055,12 +31020,12 @@
       [
         "at",
         "V",
-        -70
+        -325
       ],
       [
         "at",
         "X",
-        -70
+        -330
       ],
       [
         "at",
@@ -31070,22 +31035,22 @@
       [
         "at",
         "public.kern2.CG_UC",
-        40
+        -20
       ],
       [
         "at",
         "public.kern2.J_UC",
-        110
+        -20
       ],
       [
         "at",
         "public.kern2.S_UC",
-        70
+        -35
       ],
       [
         "at",
         "public.kern2.U_UC",
-        40
+        -20
       ],
       [
         "at",
@@ -31095,37 +31060,37 @@
       [
         "at",
         "public.kern2.Y_UC",
-        -120
+        -440
       ],
       [
         "at",
         "public.kern2.Z_UC",
-        30
+        -85
       ],
       [
         "at",
         "public.kern2.f_LC",
-        50
+        -20
       ],
       [
         "at",
         "public.kern2.gamma",
-        40
+        -100
       ],
       [
         "at",
         "public.kern2.t_LC",
-        50
+        -20
       ],
       [
         "at",
         "public.kern2.w_LC",
-        40
+        -160
       ],
       [
         "at",
         "x",
-        30
+        -75
       ],
       [
         "backslash",
@@ -31160,7 +31125,7 @@
       [
         "backslash",
         "public.kern2.U_UC",
-        -130
+        -445
       ],
       [
         "backslash",
@@ -31175,17 +31140,17 @@
       [
         "backslash",
         "public.kern2.Z_UC",
-        50
+        -405
       ],
       [
         "backslash",
         "public.kern2.gamma",
-        -190
+        -610
       ],
       [
         "backslash",
         "public.kern2.t_LC",
-        -70
+        -365
       ],
       [
         "backslash",
@@ -31195,12 +31160,12 @@
       [
         "backslash",
         "public.kern2.z_LC",
-        40
+        -85
       ],
       [
         "backslash",
         "x",
-        90
+        -370
       ],
       [
         "braceleft",
@@ -31351,101 +31316,106 @@
         "bracketleft",
         "Utilde",
         -21
+      ],
+      [
+        "d",
+        "y",
+        -30
       ],
       [
         "e",
         "quoteright",
-        -95
+        -440
       ],
       [
         "eacute",
         "quoteright",
-        -95
+        -405
       ],
       [
         "ebreve",
         "quoteright",
-        -95
+        -335
       ],
       [
         "ecaron",
         "quoteright",
-        -95
+        -295
       ],
       [
         "ecircumflex",
         "quoteright",
-        -95
+        -235
       ],
       [
         "ecircumflexacute",
         "quoteright",
-        -95
+        -275
       ],
       [
         "ecircumflexdotbelow",
         "quoteright",
-        -95
+        -235
       ],
       [
         "ecircumflexgrave",
         "quoteright",
-        -95
+        -280
       ],
       [
         "ecircumflexhookabove",
         "quoteright",
-        -95
+        -140
       ],
       [
         "ecircumflextilde",
         "quoteright",
-        -95
+        -230
       ],
       [
         "edieresis",
         "quoteright",
-        -95
+        -325
       ],
       [
         "edotaccent",
         "quoteright",
-        -95
+        -440
       ],
       [
         "edotbelow",
         "quoteright",
-        -95
+        -440
       ],
       [
         "egrave",
         "quoteright",
-        -95
+        -440
       ],
       [
         "ehookabove",
         "quoteright",
-        -95
+        -440
       ],
       [
         "emacron",
         "quoteright",
-        -95
+        -370
       ],
       [
         "eogonek",
         "quoteright",
-        -95
+        -440
       ],
       [
         "eth",
         "backslash",
-        -160
+        -315
       ],
       [
         "etilde",
         "quoteright",
-        -95
+        -310
       ],
       [
         "exclamdown",
@@ -31455,52 +31425,42 @@
       [
         "f",
         "apostrophemod",
-        19
+        -31
       ],
       [
         "f",
         "braceright",
-        104
+        -16
       ],
       [
         "f",
         "bracketright",
-        104
-      ],
-      [
-        "f",
-        "c",
-        0
+        -21
       ],
       [
         "f",
         "cacute",
-        -29
+        -479
       ],
       [
         "f",
         "ccaron",
-        -29
+        -479
       ],
       [
         "f",
         "ccedilla",
-        -29
+        -479
       ],
       [
         "f",
         "ccircumflex",
-        -29
+        -479
       ],
       [
         "f",
         "cdotaccent",
-        -29
-      ],
-      [
-        "f",
-        "d",
-        0
+        -479
       ],
       [
         "f",
@@ -31514,28 +31474,23 @@
       ],
       [
         "f",
-        "e",
-        0
-      ],
-      [
-        "f",
         "eacute",
-        -29
+        -519
       ],
       [
         "f",
         "ebreve",
-        -29
+        -519
       ],
       [
         "f",
         "ecaron",
-        -29
+        -519
       ],
       [
         "f",
         "ecircumflex",
-        -29
+        -519
       ],
       [
         "f",
@@ -31545,7 +31500,7 @@
       [
         "f",
         "ecircumflexdotbelow",
-        -29
+        -519
       ],
       [
         "f",
@@ -31560,62 +31515,57 @@
       [
         "f",
         "ecircumflextilde",
-        -29
+        -519
       ],
       [
         "f",
         "edblgrave",
-        -29
+        -519
       ],
       [
         "f",
         "edieresis",
-        -29
+        -519
       ],
       [
         "f",
         "edotaccent",
-        -29
+        -519
       ],
       [
         "f",
         "edotbelow",
-        -29
+        -519
       ],
       [
         "f",
         "egrave",
-        -29
+        -519
       ],
       [
         "f",
         "ehookabove",
-        -29
+        -519
       ],
       [
         "f",
         "einvertedbreve",
-        -29
+        -519
       ],
       [
         "f",
         "emacron",
-        -29
+        -519
       ],
       [
         "f",
         "eogonek",
-        -29
+        -519
       ],
       [
         "f",
         "etilde",
-        -29
-      ],
-      [
-        "f",
-        "g",
-        0
+        -519
       ],
       [
         "f",
@@ -31645,7 +31595,7 @@
       [
         "f",
         "minute",
-        19
+        -41
       ],
       [
         "f",
@@ -31680,107 +31630,92 @@
       [
         "f",
         "parenright",
-        104
-      ],
-      [
-        "f",
-        "q",
-        0
+        -16
       ],
       [
         "f",
         "quotedbl",
-        19
+        -51
       ],
       [
         "f",
         "quotedblleft",
-        19
+        -346
       ],
       [
         "f",
         "quotedblright",
-        69
+        -346
       ],
       [
         "f",
         "quoteleft",
-        99
+        -21
       ],
       [
         "f",
         "quoteright",
-        19
+        -61
       ],
       [
         "f",
         "quotesingle",
-        89
+        -21
       ],
       [
         "f",
         "second",
-        19
+        -366
       ],
       [
         "g",
         "backslash",
-        -330
+        -325
       ],
       [
         "germandbls",
         "public.kern2.gamma",
-        -70
+        -360
       ],
       [
         "germandbls",
         "public.kern2.w_LC",
-        -90
+        -295
       ],
       [
         "h",
         "quoteright",
-        -95
+        -330
       ],
       [
         "hcircumflex",
         "quoteright",
-        -95
-      ],
-      [
-        "k",
-        "c",
-        -64
+        -330
       ],
       [
         "k",
         "cacute",
-        -24
+        -339
       ],
       [
         "k",
         "ccaron",
-        -24
+        -339
       ],
       [
         "k",
         "ccedilla",
-        -24
+        -339
       ],
       [
         "k",
         "ccircumflex",
-        -24
+        -339
       ],
       [
         "k",
         "cdotaccent",
-        -24
-      ],
-      [
-        "k",
-        "d",
-        -24
+        -339
       ],
       [
         "k",
@@ -31794,133 +31729,123 @@
       ],
       [
         "k",
-        "e",
-        -24
-      ],
-      [
-        "k",
         "eacute",
-        -24
+        -344
       ],
       [
         "k",
         "ebreve",
-        -24
+        -344
       ],
       [
         "k",
         "ecaron",
-        -24
+        -344
       ],
       [
         "k",
         "ecircumflex",
-        -24
+        -344
       ],
       [
         "k",
         "ecircumflexacute",
-        -24
+        -344
       ],
       [
         "k",
         "ecircumflexdotbelow",
-        -24
+        -344
       ],
       [
         "k",
         "ecircumflexgrave",
-        -24
+        -344
       ],
       [
         "k",
         "ecircumflexhookabove",
-        -24
+        -344
       ],
       [
         "k",
         "ecircumflextilde",
-        -24
+        -344
       ],
       [
         "k",
         "edblgrave",
-        -24
+        -344
       ],
       [
         "k",
         "edieresis",
-        -24
+        -344
       ],
       [
         "k",
         "edotaccent",
-        -24
+        -344
       ],
       [
         "k",
         "edotbelow",
-        -24
+        -344
       ],
       [
         "k",
         "egrave",
-        -24
+        -344
       ],
       [
         "k",
         "ehookabove",
-        -24
+        -344
       ],
       [
         "k",
         "einvertedbreve",
-        -24
+        -344
       ],
       [
         "k",
         "emacron",
-        -24
+        -344
       ],
       [
         "k",
         "eogonek",
-        -24
+        -344
       ],
       [
         "k",
         "etilde",
-        -24
-      ],
-      [
-        "k",
-        "g",
-        -24
+        -344
       ],
       [
         "k",
         "gbreve",
-        -24
+        -154
       ],
       [
         "k",
         "gcaron",
-        -24
+        -154
       ],
       [
         "k",
         "gcircumflex",
-        -24
+        -154
       ],
       [
         "k",
         "gcommaaccent",
-        -24
+        -154
       ],
       [
         "k",
         "gdotaccent",
-        -24
+        -154
       ],
       [
         "k",
@@ -31930,37 +31855,32 @@
       [
         "k",
         "ohorn",
-        -24
+        -354
       ],
       [
         "k",
         "ohornacute",
-        -24
+        -354
       ],
       [
         "k",
         "ohorndotbelow",
-        -24
+        -354
       ],
       [
         "k",
         "ohorngrave",
-        -24
+        -354
       ],
       [
         "k",
         "ohornhookabove",
-        -24
-      ],
-      [
-        "k",
-        "q",
-        -24
+        -354
       ],
       [
         "m",
         "quoteright",
-        -95
+        -325
       ],
       [
         "minute",
@@ -31970,147 +31890,147 @@
       [
         "n",
         "quoteright",
-        -95
+        -325
       ],
       [
         "nacute",
         "quoteright",
-        -95
+        -325
       ],
       [
         "napostrophe",
         "quoteright",
-        -95
+        -90
       ],
       [
         "ncaron",
         "quoteright",
-        -95
+        -290
       ],
       [
         "ncommaaccent",
         "quoteright",
-        -95
+        -325
       ],
       [
         "ntilde",
         "quoteright",
-        -95
+        -305
       ],
       [
         "o",
         "quoteright",
-        -95
+        -460
       ],
       [
         "oacute",
         "quoteright",
-        -95
+        -440
       ],
       [
         "obreve",
         "quoteright",
-        -95
+        -370
       ],
       [
         "ocircumflex",
         "quoteright",
-        -95
+        -270
       ],
       [
         "ocircumflexacute",
         "quoteright",
-        -95
+        -275
       ],
       [
         "ocircumflexdotbelow",
         "quoteright",
-        -95
+        -270
       ],
       [
         "ocircumflexgrave",
         "quoteright",
-        -95
+        -280
       ],
       [
         "ocircumflexhookabove",
         "quoteright",
-        -95
+        -140
       ],
       [
         "ocircumflextilde",
         "quoteright",
-        -95
+        -265
       ],
       [
         "odblgrave",
         "quoteright",
-        -95
+        -125
       ],
       [
         "odieresis",
         "quoteright",
-        -95
+        -360
       ],
       [
         "odieresismacron",
         "quoteright",
-        -95
+        -360
       ],
       [
         "odotaccentmacron",
         "quoteright",
-        -95
+        -460
       ],
       [
         "odotbelow",
         "quoteright",
-        -95
+        -460
       ],
       [
         "ograve",
         "quoteright",
-        -95
+        -460
       ],
       [
         "ohookabove",
         "quoteright",
-        -95
+        -460
       ],
       [
         "ohorntilde",
         "quoteright",
-        -95
+        -90
       ],
       [
         "ohungarumlaut",
         "quoteright",
-        -95
+        -90
       ],
       [
         "oinvertedbreve",
         "quoteright",
-        -95
+        -385
       ],
       [
         "omacron",
         "quoteright",
-        -95
+        -400
       ],
       [
         "oogonek",
         "quoteright",
-        -95
+        -460
       ],
       [
         "otilde",
         "quoteright",
-        -95
+        -345
       ],
       [
         "otildemacron",
         "quoteright",
-        -95
+        -345
       ],
       [
         "parenleft",
@@ -32183,194 +32103,134 @@
         26
       ],
       [
-        "public.kern1.A.smcp",
-        "public.kern2.C.smcp",
-        -17
-      ],
-      [
-        "public.kern1.A.smcp",
-        "public.kern2.T.smcp",
-        -76
-      ],
-      [
-        "public.kern1.A.smcp",
-        "public.kern2.U.smcp",
-        -24
-      ],
-      [
-        "public.kern1.A.smcp",
-        "public.kern2.Upsilon.smcp",
-        -77
-      ],
-      [
-        "public.kern1.A.smcp",
-        "public.kern2.W.smcp",
-        -48
+        "public.kern1.A_UC",
+        "V",
+        -660
       ],
       [
         "public.kern1.A_UC",
-        "V",
-        -100
+        "X",
+        -330
       ],
       [
         "public.kern1.A_UC",
         "at",
-        70
+        -230
       ],
       [
         "public.kern1.A_UC",
         "backslash",
-        -410
+        -750
       ],
       [
         "public.kern1.A_UC",
         "eth",
-        -40
+        -200
       ],
       [
         "public.kern1.A_UC",
-        "public.kern2.C.smcp",
-        -13
+        "public.kern2.A_UC",
+        -190
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.CG_UC",
-        -50
-      ],
-      [
-        "public.kern1.A_UC",
-        "public.kern2.C_UC",
-        -13
+        -265
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.J_UC",
-        20
+        -188
       ],
       [
         "public.kern1.A_UC",
-        "public.kern2.T.smcp",
-        -68
+        "public.kern2.S_UC",
+        -160
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.T_UC",
-        -133
-      ],
-      [
-        "public.kern1.A_UC",
-        "public.kern2.U.smcp",
-        -18
+        -488
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.U_UC",
-        -50
-      ],
-      [
-        "public.kern1.A_UC",
-        "public.kern2.Upsilon",
-        -112
-      ],
-      [
-        "public.kern1.A_UC",
-        "public.kern2.Upsilon.smcp",
-        -71
-      ],
-      [
-        "public.kern1.A_UC",
-        "public.kern2.V_UC",
-        -103
-      ],
-      [
-        "public.kern1.A_UC",
-        "public.kern2.W.smcp",
-        -42
+        -230
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.W_UC",
-        -82
+        -512
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.Y_UC",
-        -100
+        -670
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.Z_UC",
+        -210
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.a_LC",
+        -110
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.alpha",
-        -40
+        -170
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.copyright",
-        -50
+        -260
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.f_LC",
-        -70
+        -220
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.gamma",
-        -79
+        -459
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.minute",
-        -143
+        -498
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.o_LC",
-        -40
+        -180
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.parens",
-        40
+        -20
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.s_LC",
-        20
+        -125
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.u_LC",
-        -13
-      ],
-      [
-        "public.kern1.A_UC",
-        "public.kern2.uni0409",
-        20
-      ],
-      [
-        "public.kern1.A_UC",
-        "public.kern2.uni0427",
-        -65
-      ],
-      [
-        "public.kern1.A_UC",
-        "public.kern2.uni043B",
-        21
-      ],
-      [
-        "public.kern1.A_UC",
-        "public.kern2.uni0447",
-        -134
+        -118
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.z_LC",
-        14
+        -36
       ],
       [
         "public.kern1.A_UC",
         "slash",
-        70
+        -140
       ],
       [
         "public.kern1.A_UC",
@@ -32380,662 +32240,437 @@
       [
         "public.kern1.A_UC",
         "x",
-        70
-      ],
-      [
-        "public.kern1.B_UC",
-        "public.kern2.T_UC",
-        -32
-      ],
-      [
-        "public.kern1.B_UC",
-        "public.kern2.Upsilon",
-        -65
-      ],
-      [
-        "public.kern1.B_UC",
-        "public.kern2.V_UC",
-        -29
-      ],
-      [
-        "public.kern1.B_UC",
-        "public.kern2.uni040E",
-        -15
+        -210
       ],
       [
         "public.kern1.C_UC",
         "V",
-        -25
+        -240
       ],
       [
         "public.kern1.C_UC",
         "X",
-        -25
+        -315
       ],
       [
         "public.kern1.C_UC",
         "at",
-        20
+        -290
       ],
       [
         "public.kern1.C_UC",
         "backslash",
-        -90
+        -280
       ],
       [
         "public.kern1.C_UC",
         "eth",
-        30
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.A_UC",
-        -20
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.S_UC",
-        10
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.T_UC",
-        -10
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.a_LC",
-        -20
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.alpha",
-        30
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.f_LC",
-        30
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.gamma",
-        60
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.minute",
-        30
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.o_LC",
-        30
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.s_LC",
-        40
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.t_LC",
-        30
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.w_LC",
-        40
-      ],
-      [
-        "public.kern1.C_UC",
-        "public.kern2.z_LC",
-        20
-      ],
-      [
-        "public.kern1.C_UC",
-        "question",
-        70
-      ],
-      [
-        "public.kern1.C_UC",
-        "slash",
         -40
       ],
       [
         "public.kern1.C_UC",
-        "x",
-        40
+        "public.kern2.A_UC",
+        -240
       ],
       [
-        "public.kern1.Chi",
-        "public.kern2.C.smcp",
+        "public.kern1.C_UC",
+        "public.kern2.S_UC",
+        -15
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.T_UC",
         -30
       ],
       [
-        "public.kern1.Chi",
-        "public.kern2.C_UC",
-        -30
+        "public.kern1.C_UC",
+        "public.kern2.W_UC",
+        -200
       ],
       [
-        "public.kern1.Chi",
-        "public.kern2.V_UC",
-        17
+        "public.kern1.C_UC",
+        "public.kern2.Y_UC",
+        -320
       ],
       [
-        "public.kern1.Chi",
+        "public.kern1.C_UC",
+        "public.kern2.Z_UC",
+        -60
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.a_LC",
+        -65
+      ],
+      [
+        "public.kern1.C_UC",
         "public.kern2.alpha",
-        -31
+        -20
       ],
       [
-        "public.kern1.Chi",
-        "public.kern2.emdash",
-        -55
-      ],
-      [
-        "public.kern1.Chi",
+        "public.kern1.C_UC",
         "public.kern2.gamma",
-        -37
+        -130
       ],
       [
-        "public.kern1.Chi",
+        "public.kern1.C_UC",
+        "public.kern2.minute",
+        -40
+      ],
+      [
+        "public.kern1.C_UC",
         "public.kern2.o_LC",
-        -25
+        -20
       ],
       [
-        "public.kern1.Chi",
-        "public.kern2.u_LC",
-        -25
+        "public.kern1.C_UC",
+        "public.kern2.s_LC",
+        -15
       ],
       [
-        "public.kern1.Chi",
-        "public.kern2.uni0409",
-        20
+        "public.kern1.C_UC",
+        "public.kern2.t_LC",
+        -10
       ],
       [
-        "public.kern1.Chi",
-        "public.kern2.uni043B",
-        20
+        "public.kern1.C_UC",
+        "public.kern2.w_LC",
+        -100
       ],
       [
-        "public.kern1.Chi",
-        "public.kern2.uni0447",
-        -56
+        "public.kern1.C_UC",
+        "public.kern2.z_LC",
+        -35
       ],
       [
-        "public.kern1.D.smcp",
-        "public.kern2.Chi.smcp",
-        -24
+        "public.kern1.C_UC",
+        "question",
+        -40
       ],
       [
-        "public.kern1.D.smcp",
-        "public.kern2.T.smcp",
-        -21
+        "public.kern1.C_UC",
+        "slash",
+        -335
       ],
       [
-        "public.kern1.D.smcp",
-        "public.kern2.Upsilon.smcp",
-        -26
+        "public.kern1.C_UC",
+        "x",
+        -200
       ],
       [
         "public.kern1.D_UC",
         "V",
-        -25
+        -255
       ],
       [
         "public.kern1.D_UC",
         "X",
+        -375
+      ],
+      [
+        "public.kern1.D_UC",
+        "backslash",
+        -280
+      ],
+      [
+        "public.kern1.D_UC",
+        "eth",
+        -40
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.A_UC",
+        -280
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.J_UC",
+        -10
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.S_UC",
+        -40
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.T_UC",
+        -30
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.U_UC",
+        -5
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.W_UC",
+        -205
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.Y_UC",
+        -345
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.Z_UC",
+        -60
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.a_LC",
+        -100
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.alpha",
         -25
       ],
       [
         "public.kern1.D_UC",
-        "backslash",
-        -110
+        "public.kern2.f_LC",
+        -10
       ],
       [
         "public.kern1.D_UC",
-        "eth",
-        30
+        "public.kern2.gamma",
+        -60
       ],
       [
         "public.kern1.D_UC",
-        "public.kern2.A.smcp",
-        -23
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.A_UC",
-        -50
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.Chi",
-        -26
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.Chi.smcp",
-        -13
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.J_UC",
-        80
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.S_UC",
-        80
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.T_UC",
-        -32
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.Upsilon",
-        -51
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.V_UC",
-        -26
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.Z_UC",
-        30
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.a_LC",
+        "public.kern2.o_LC",
         -30
       ],
       [
         "public.kern1.D_UC",
-        "public.kern2.alpha",
-        30
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.f_LC",
-        30
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.gamma",
-        40
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.o_LC",
-        30
-      ],
-      [
-        "public.kern1.D_UC",
         "public.kern2.s_LC",
-        60
+        -20
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.t_LC",
-        30
-      ],
-      [
-        "public.kern1.D_UC",
-        "public.kern2.uni0409",
-        -37
+        -10
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.w_LC",
-        20
+        -60
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.z_LC",
-        25
+        -25
       ],
       [
         "public.kern1.D_UC",
         "question",
-        70
+        -40
       ],
       [
         "public.kern1.D_UC",
         "slash",
-        -80
+        -505
       ],
       [
         "public.kern1.D_UC",
         "x",
-        30
+        -150
       ],
       [
-        "public.kern1.Dtopbar",
-        "public.kern2.A_UC",
-        21
+        "public.kern1.E_UC",
+        "V",
+        -40
       ],
       [
-        "public.kern1.Dtopbar",
-        "public.kern2.Chi",
-        20
-      ],
-      [
-        "public.kern1.Dtopbar",
-        "public.kern2.T_UC",
-        -34
-      ],
-      [
-        "public.kern1.Dtopbar",
-        "public.kern2.Upsilon",
-        -33
-      ],
-      [
-        "public.kern1.Dtopbar",
-        "public.kern2.uni0409",
-        20
-      ],
-      [
-        "public.kern1.Dtopbar",
-        "public.kern2.uni0427",
-        -33
-      ],
-      [
-        "public.kern1.Dtopbar",
-        "public.kern2.uni043B",
-        20
-      ],
-      [
-        "public.kern1.Dtopbar",
-        "public.kern2.uni0447",
-        -32
+        "public.kern1.E_UC",
+        "X",
+        -60
       ],
       [
         "public.kern1.E_UC",
         "eth",
-        -23
+        -78
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.A_UC",
+        -240
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.CG_UC",
+        -70
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.J_UC",
+        -10
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.T_UC",
-        24
+        -211
       ],
       [
         "public.kern1.E_UC",
-        "public.kern2.Upsilon.smcp",
-        -19
+        "public.kern2.W_UC",
+        -40
       ],
       [
         "public.kern1.E_UC",
-        "public.kern2.W.smcp",
-        -23
+        "public.kern2.Y_UC",
+        -50
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.a_LC",
-        -20
+        -10
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.alpha",
-        -23
+        -10
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.gamma",
-        -31
+        -116
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.o_LC",
-        -23
+        -8
       ],
       [
-        "public.kern1.E_UC",
-        "public.kern2.u_LC",
-        -20
+        "public.kern1.G_UC",
+        "V",
+        -245
+      ],
+      [
+        "public.kern1.G_UC",
+        "X",
+        -185
       ],
       [
         "public.kern1.G_UC",
         "at",
-        110
+        -310
       ],
       [
         "public.kern1.G_UC",
         "backslash",
-        -90
+        -280
       ],
       [
         "public.kern1.G_UC",
         "eth",
-        50
+        -20
       ],
       [
         "public.kern1.G_UC",
         "exclam",
-        140
+        -20
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.A_UC",
-        20
+        -120
       ],
       [
         "public.kern1.G_UC",
-        "public.kern2.CG_UC",
-        15
+        "public.kern2.T_UC",
+        -55
       ],
       [
         "public.kern1.G_UC",
-        "public.kern2.J_UC",
-        100
-      ],
-      [
-        "public.kern1.G_UC",
-        "public.kern2.S_UC",
-        90
+        "public.kern2.W_UC",
+        -200
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.Y_UC",
-        40
-      ],
-      [
-        "public.kern1.G_UC",
-        "public.kern2.Z_UC",
-        100
+        -315
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.a_LC",
-        50
+        -10
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.alpha",
-        50
+        -10
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.f_LC",
-        40
-      ],
-      [
-        "public.kern1.G_UC",
-        "public.kern2.gamma",
-        50
+        -20
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.minute",
-        30
+        -60
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.o_LC",
-        50
+        -10
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.s_LC",
-        70
+        -10
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.t_LC",
-        40
-      ],
-      [
-        "public.kern1.G_UC",
-        "public.kern2.w_LC",
-        30
+        -10
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.z_LC",
-        20
+        -20
       ],
       [
         "public.kern1.G_UC",
         "question",
-        70
+        -60
       ],
       [
         "public.kern1.G_UC",
         "slash",
-        70
+        -215
       ],
       [
         "public.kern1.G_UC",
         "x",
-        30
+        -175
       ],
       [
-        "public.kern1.Gamma",
-        "public.kern2.A_UC",
-        -230
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.C_UC",
-        -80
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.S_UC",
-        -56
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.T_UC",
-        8
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.Upsilon",
-        8
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.V_UC",
-        8
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.W_UC",
-        6
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.a_LC",
-        -252
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.alpha",
-        -223
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.comma",
-        -463
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.emdash",
-        -492
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.eta",
-        -244
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.gamma",
-        -169
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.o_LC",
-        -223
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.s_LC",
-        -258
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.u_LC",
-        -215
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.uni0409",
-        -131
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.uni043B",
-        -286
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.uni0447",
-        -290
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.x_LC",
-        -178
-      ],
-      [
-        "public.kern1.Gamma",
-        "public.kern2.z_LC",
-        -145
+        "public.kern1.JU_UC",
+        "X",
+        -30
       ],
       [
         "public.kern1.JU_UC",
         "ampersand",
-        -70
+        -380
       ],
       [
         "public.kern1.JU_UC",
         "public.kern2.A_UC",
-        -50
+        -230
       ],
       [
         "public.kern1.JU_UC",
         "public.kern2.Z_UC",
-        40
+        -20
       ],
       [
         "public.kern1.JU_UC",
         "public.kern2.a_LC",
-        -30
+        -70
       ],
       [
         "public.kern1.JU_UC",
@@ -33043,129 +32678,114 @@
         -130
       ],
       [
-        "public.kern1.J_UC",
-        "public.kern2.A.smcp",
-        -25
+        "public.kern1.K_UC",
+        "V",
+        -430
       ],
       [
-        "public.kern1.J_UC",
-        "public.kern2.A_UC",
-        -26
-      ],
-      [
-        "public.kern1.K.smcp",
-        "public.kern2.C.smcp",
-        -25
+        "public.kern1.K_UC",
+        "X",
+        -260
       ],
       [
         "public.kern1.K_UC",
         "eth",
-        -31
+        -311
       ],
       [
         "public.kern1.K_UC",
-        "public.kern2.C.smcp",
-        -30
+        "public.kern2.A_UC",
+        -450
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.CG_UC",
-        -50
+        -430
       ],
       [
         "public.kern1.K_UC",
-        "public.kern2.C_UC",
-        -37
+        "public.kern2.J_UC",
+        -275
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.S_UC",
+        -265
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.StraightRight_UC",
+        -30
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.T_UC",
+        -310
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.U_UC",
+        -330
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.W_UC",
+        -380
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.Y_UC",
-        40
+        -480
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.Z_UC",
-        90
+        -160
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.alpha",
-        -31
+        -291
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.emdash",
-        -76
-      ],
-      [
-        "public.kern1.K_UC",
-        "public.kern2.eta",
-        -27
+        -411
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.gamma",
-        -48
+        -528
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.o_LC",
-        -31
+        -306
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.t_LC",
-        -50
+        -440
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.u_LC",
-        -27
-      ],
-      [
-        "public.kern1.K_UC",
-        "public.kern2.uni0447",
-        -110
+        -197
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.z_LC",
-        40
-      ],
-      [
-        "public.kern1.L.smcp",
-        "public.kern2.C.smcp",
-        -20
-      ],
-      [
-        "public.kern1.L.smcp",
-        "public.kern2.T.smcp",
-        -82
-      ],
-      [
-        "public.kern1.L.smcp",
-        "public.kern2.U.smcp",
-        -24
-      ],
-      [
-        "public.kern1.L.smcp",
-        "public.kern2.Upsilon.smcp",
-        -90
-      ],
-      [
-        "public.kern1.L.smcp",
-        "public.kern2.W.smcp",
-        -51
+        -220
       ],
       [
         "public.kern1.L_UC",
         "V",
-        -140
+        -470
       ],
       [
         "public.kern1.L_UC",
         "X",
-        90
+        -400
       ],
       [
         "public.kern1.L_UC",
@@ -33180,132 +32800,57 @@
       [
         "public.kern1.L_UC",
         "backslash",
-        -90
+        -550
       ],
       [
         "public.kern1.L_UC",
         "eth",
-        40
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.A.smcp",
-        23
+        -230
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.A_UC",
-        83
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.C.smcp",
-        -17
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.C_UC",
-        -77
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.J_UC",
-        120
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.S_UC",
-        100
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.T.smcp",
-        -234
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.T_UC",
         -277
       ],
       [
         "public.kern1.L_UC",
-        "public.kern2.U.smcp",
-        -45
+        "public.kern2.CG_UC",
+        -50
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.J_UC",
+        -10
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.T_UC",
+        -557
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.U_UC",
-        6
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.Upsilon",
-        -284
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.Upsilon.smcp",
-        -229
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.V_UC",
-        -208
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.W.smcp",
-        -132
+        -19
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.W_UC",
-        -70
+        -350
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.Y_UC",
-        -140
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.Z_UC",
-        120
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.a_LC",
-        40
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.alpha",
-        40
+        -700
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.gamma",
-        -158
+        -258
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.minute",
         -119
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.o_LC",
-        40
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.s_LC",
-        40
-      ],
-      [
-        "public.kern1.L_UC",
-        "public.kern2.z_LC",
-        40
       ],
       [
         "public.kern1.L_UC",
@@ -33318,114 +32863,119 @@
         130
       ],
       [
-        "public.kern1.P_UC",
-        "public.kern2.A.smcp",
-        -69
-      ],
-      [
-        "public.kern1.P_UC",
-        "public.kern2.A_UC",
-        -164
-      ],
-      [
-        "public.kern1.P_UC",
-        "public.kern2.Chi",
-        -37
-      ],
-      [
-        "public.kern1.P_UC",
-        "public.kern2.J_UC",
-        -238
-      ],
-      [
-        "public.kern1.P_UC",
-        "public.kern2.Z_UC",
-        -31
-      ],
-      [
-        "public.kern1.P_UC",
-        "public.kern2.a_LC",
-        -13
-      ],
-      [
-        "public.kern1.P_UC",
-        "public.kern2.alpha",
-        -15
-      ],
-      [
-        "public.kern1.P_UC",
-        "public.kern2.comma",
-        -385
-      ],
-      [
-        "public.kern1.P_UC",
-        "public.kern2.gamma",
-        18
-      ],
-      [
-        "public.kern1.P_UC",
-        "public.kern2.o_LC",
-        -15
-      ],
-      [
-        "public.kern1.P_UC",
-        "public.kern2.uni0409",
-        -65
-      ],
-      [
-        "public.kern1.P_UC",
-        "public.kern2.uni043B",
-        -46
+        "public.kern1.R_UC",
+        "V",
+        -280
       ],
       [
         "public.kern1.R_UC",
         "X",
-        10
+        -175
       ],
       [
         "public.kern1.R_UC",
         "backslash",
+        -315
+      ],
+      [
+        "public.kern1.R_UC",
+        "eth",
+        -240
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.A_UC",
+        -240
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.CG_UC",
+        -130
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.J_UC",
+        -180
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.S_UC",
+        -130
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.StraightRight_UC",
+        -30
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.T_UC",
+        -110
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.U_UC",
+        -110
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.W_UC",
+        -250
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.Y_UC",
+        -335
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.Z_UC",
         -120
       ],
       [
         "public.kern1.R_UC",
-        "eth",
-        -50
-      ],
-      [
-        "public.kern1.R_UC",
         "public.kern2.a_LC",
-        -20
+        -140
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.alpha",
-        -50
+        -225
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.gamma",
-        -30
+        -160
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.o_LC",
-        -50
+        -230
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.s_LC",
-        -20
+        -160
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.w_LC",
-        -40
+        -160
+      ],
+      [
+        "public.kern1.S_UC",
+        "V",
+        -230
+      ],
+      [
+        "public.kern1.S_UC",
+        "X",
+        -265
       ],
       [
         "public.kern1.S_UC",
         "ampersand",
-        50
+        -135
       ],
       [
         "public.kern1.S_UC",
@@ -33435,67 +32985,67 @@
       [
         "public.kern1.S_UC",
         "backslash",
-        -100
+        -260
       ],
       [
         "public.kern1.S_UC",
         "eth",
-        40
+        -20
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.A_UC",
+        -190
       ],
       [
         "public.kern1.S_UC",
         "public.kern2.CG_UC",
-        110
+        -21
       ],
       [
         "public.kern1.S_UC",
-        "public.kern2.J_UC",
-        100
+        "public.kern2.T_UC",
+        -60
       ],
       [
         "public.kern1.S_UC",
-        "public.kern2.S_UC",
-        70
+        "public.kern2.U_UC",
+        -10
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.W_UC",
+        -200
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.Y_UC",
+        -280
       ],
       [
         "public.kern1.S_UC",
         "public.kern2.Z_UC",
-        100
+        -25
       ],
       [
         "public.kern1.S_UC",
         "public.kern2.a_LC",
-        30
-      ],
-      [
-        "public.kern1.S_UC",
-        "public.kern2.alpha",
-        40
-      ],
-      [
-        "public.kern1.S_UC",
-        "public.kern2.f_LC",
-        20
-      ],
-      [
-        "public.kern1.S_UC",
-        "public.kern2.o_LC",
-        40
+        -35
       ],
       [
         "public.kern1.S_UC",
         "public.kern2.s_LC",
-        40
+        -30
       ],
       [
         "public.kern1.S_UC",
         "public.kern2.t_LC",
-        20
+        -10
       ],
       [
         "public.kern1.S_UC",
         "public.kern2.z_LC",
-        30
+        -35
       ],
       [
         "public.kern1.S_UC",
@@ -33503,184 +33053,119 @@
         60
       ],
       [
-        "public.kern1.T.smcp",
-        "public.kern2.Upsilon.smcp",
-        15
+        "public.kern1.T_UC",
+        "V",
+        -325
       ],
       [
         "public.kern1.T_UC",
-        "V",
-        30
+        "X",
+        -160
       ],
       [
         "public.kern1.T_UC",
         "at",
-        -110
+        -595
       ],
       [
         "public.kern1.T_UC",
         "eth",
-        -118
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.A.smcp",
-        -96
+        -188
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.A_UC",
-        -133
+        -493
       ],
       [
         "public.kern1.T_UC",
-        "public.kern2.C.smcp",
-        -84
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.C_UC",
-        -33
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.Chi.smcp",
-        -23
+        "public.kern2.CG_UC",
+        -40
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.J_UC",
-        -285
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.S.smcp",
-        -81
+        -560
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.S_UC",
-        40
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.T.smcp",
-        -18
+        -25
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.T_UC",
-        19
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.Upsilon",
-        19
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.V_UC",
-        19
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.W.smcp",
-        -18
+        -196
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.W_UC",
-        28
+        -212
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.Y_UC",
-        65
+        -360
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.Z_UC",
-        90
+        -120
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.a_LC",
-        -134
+        -544
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.alpha",
-        -118
+        -553
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.comma",
-        -259
+        -684
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.emdash",
-        -276
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.eta",
-        -129
+        -581
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.gamma",
-        -86
+        -556
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.minute",
-        50
+        -25
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.o_LC",
-        -118
+        -543
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.s_LC",
-        -118
+        -563
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.u_LC",
-        -113
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.uni0409",
-        -63
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.uni043B",
-        -154
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.uni0447",
-        -157
-      ],
-      [
-        "public.kern1.T_UC",
-        "public.kern2.x_LC",
-        -91
+        -513
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.z_LC",
-        -71
+        -521
       ],
       [
         "public.kern1.T_UC",
         "question",
-        110
+        -20
       ],
       [
         "public.kern1.T_UC",
@@ -33693,289 +33178,94 @@
         110
       ],
       [
-        "public.kern1.Upsilon",
-        "public.kern2.A.smcp",
-        -101
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.A_UC",
-        -112
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.C.smcp",
-        -63
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.C_UC",
-        -34
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.Chi",
-        15
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.Chi.smcp",
-        -20
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.J_UC",
-        -114
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.S_UC",
-        -19
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.T.smcp",
-        -15
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.T_UC",
-        20
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.U_UC",
-        -114
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.Upsilon",
-        21
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.V_UC",
-        21
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.W.smcp",
-        -15
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.W_UC",
-        20
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.a_LC",
-        -87
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.alpha",
-        -77
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.comma",
-        -251
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.emdash",
-        -62
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.eta",
-        -48
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.gamma",
-        -24
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.o_LC",
-        -77
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.s_LC",
-        -69
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.u_LC",
-        -46
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.x_LC",
-        -27
-      ],
-      [
-        "public.kern1.Upsilon",
-        "public.kern2.z_LC",
-        -36
-      ],
-      [
-        "public.kern1.V_UC",
-        "public.kern2.A.smcp",
-        -90
-      ],
-      [
-        "public.kern1.V_UC",
-        "public.kern2.A_UC",
-        -89
-      ],
-      [
-        "public.kern1.V_UC",
-        "public.kern2.C.smcp",
-        -46
-      ],
-      [
-        "public.kern1.V_UC",
-        "public.kern2.C_UC",
-        -15
-      ],
-      [
-        "public.kern1.V_UC",
-        "public.kern2.a_LC",
-        -55
-      ],
-      [
-        "public.kern1.V_UC",
-        "public.kern2.alpha",
-        -52
-      ],
-      [
-        "public.kern1.V_UC",
-        "public.kern2.comma",
-        -267
-      ],
-      [
-        "public.kern1.V_UC",
-        "public.kern2.emdash",
-        -44
-      ],
-      [
-        "public.kern1.V_UC",
-        "public.kern2.gamma",
-        -13
-      ],
-      [
-        "public.kern1.V_UC",
-        "public.kern2.o_LC",
-        -55
-      ],
-      [
-        "public.kern1.V_UC",
-        "public.kern2.u_LC",
-        -33
-      ],
-      [
         "public.kern1.W_UC",
         "V",
-        80
+        -190
       ],
       [
         "public.kern1.W_UC",
         "X",
-        60
+        -190
       ],
       [
         "public.kern1.W_UC",
         "at",
-        -80
+        -555
       ],
       [
         "public.kern1.W_UC",
         "eth",
-        -47
-      ],
-      [
-        "public.kern1.W_UC",
-        "public.kern2.A.smcp",
-        -63
+        -282
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.A_UC",
-        -82
+        -527
       ],
       [
         "public.kern1.W_UC",
-        "public.kern2.C.smcp",
-        -30
+        "public.kern2.CG_UC",
+        -210
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.J_UC",
-        -70
+        -285
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.S_UC",
-        30
-      ],
-      [
-        "public.kern1.W_UC",
-        "public.kern2.StraightRight_UC",
-        -20
+        -160
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.T_UC",
-        27
+        -208
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.W_UC",
-        80
+        -190
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.Y_UC",
-        120
+        -200
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.Z_UC",
-        90
+        -220
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.a_LC",
-        -129
+        -419
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.alpha",
-        -47
+        -337
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.comma",
-        -146
+        -556
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.emdash",
-        -71
+        -556
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.minute",
-        40
+        -125
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.o_LC",
-        -47
+        -347
       ],
       [
         "public.kern1.W_UC",
@@ -33985,22 +33275,22 @@
       [
         "public.kern1.W_UC",
         "slash",
-        -140
+        -625
       ],
       [
         "public.kern1.W_UC",
         "trademark",
-        90
+        -20
       ],
       [
         "public.kern1.Y_UC",
         "V",
-        120
+        -165
       ],
       [
         "public.kern1.Y_UC",
         "X",
-        100
+        -250
       ],
       [
         "public.kern1.Y_UC",
@@ -34010,57 +33300,62 @@
       [
         "public.kern1.Y_UC",
         "eth",
-        -120
+        -285
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.A_UC",
-        -100
+        -670
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.CG_UC",
+        -330
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.J_UC",
-        -80
+        -560
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.S_UC",
-        20
-      ],
-      [
-        "public.kern1.Y_UC",
-        "public.kern2.StraightRight_UC",
-        10
+        -250
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.T_UC",
-        65
+        -380
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.U_UC",
+        -20
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.W_UC",
-        110
+        -165
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.Y_UC",
-        160
+        -250
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.Z_UC",
-        90
+        -70
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.a_LC",
-        -170
+        -660
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.alpha",
-        -120
+        -610
       ],
       [
         "public.kern1.Y_UC",
@@ -34075,27 +33370,27 @@
       [
         "public.kern1.Y_UC",
         "public.kern2.minute",
-        60
+        -125
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.mnpr_LC",
-        -50
+        -390
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.o_LC",
-        -120
+        -620
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.s_LC",
-        -110
+        -560
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.z_LC",
-        -25
+        -415
       ],
       [
         "public.kern1.Y_UC",
@@ -34110,22 +33405,22 @@
       [
         "public.kern1.Y_UC",
         "trademark",
-        120
+        -225
       ],
       [
         "public.kern1.Z_UC",
         "V",
-        80
+        -245
       ],
       [
         "public.kern1.Z_UC",
         "X",
-        80
+        -105
       ],
       [
         "public.kern1.Z_UC",
         "ampersand",
-        70
+        -150
       ],
       [
         "public.kern1.Z_UC",
@@ -34134,93 +33429,53 @@
       ],
       [
         "public.kern1.Z_UC",
-        "public.kern2.A.smcp",
-        15
-      ],
-      [
-        "public.kern1.Z_UC",
         "public.kern2.A_UC",
-        15
-      ],
-      [
-        "public.kern1.Z_UC",
-        "public.kern2.C.smcp",
-        -24
+        -360
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.CG_UC",
-        20
-      ],
-      [
-        "public.kern1.Z_UC",
-        "public.kern2.C_UC",
-        -31
+        -45
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.J_UC",
-        100
-      ],
-      [
-        "public.kern1.Z_UC",
-        "public.kern2.S_UC",
-        130
+        -10
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.T_UC",
-        70
+        -30
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.U_UC",
-        40
+        -35
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.W_UC",
-        70
+        -200
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.Y_UC",
-        80
-      ],
-      [
-        "public.kern1.Z_UC",
-        "public.kern2.Z_UC",
-        110
-      ],
-      [
-        "public.kern1.Z_UC",
-        "public.kern2.alpha",
-        -25
+        -340
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.gamma",
-        -32
+        -260
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.minute",
-        70
-      ],
-      [
-        "public.kern1.Z_UC",
-        "public.kern2.o_LC",
-        -25
-      ],
-      [
-        "public.kern1.Z_UC",
-        "public.kern2.u_LC",
-        -23
+        -95
       ],
       [
         "public.kern1.Z_UC",
         "question",
-        40
+        -65
       ],
       [
         "public.kern1.Z_UC",
@@ -34230,102 +33485,182 @@
       [
         "public.kern1.a_LC",
         "backslash",
-        -360
+        -490
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.a_LC",
+        -40
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.alpha",
+        -40
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.f_LC",
+        -40
       ],
       [
         "public.kern1.a_LC",
         "public.kern2.gamma",
-        -18
+        -183
       ],
       [
         "public.kern1.a_LC",
         "public.kern2.minute",
-        -80
+        -495
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.o_LC",
+        -40
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.s_LC",
+        -40
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.t_LC",
+        -40
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.u_LC",
+        -46
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.w_LC",
+        -160
       ],
       [
         "public.kern1.a_LC",
         "question",
-        -60
-      ],
-      [
-        "public.kern1.aemacron",
-        "public.kern2.gamma",
-        -15
-      ],
-      [
-        "public.kern1.aemacron",
-        "public.kern2.minute",
-        -17
+        -485
       ],
       [
         "public.kern1.b_LC",
         "backslash",
-        -360
+        -485
+      ],
+      [
+        "public.kern1.b_LC",
+        "public.kern2.a_LC",
+        -20
+      ],
+      [
+        "public.kern1.b_LC",
+        "public.kern2.f_LC",
+        -10
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.gamma",
-        -33
+        -176
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.minute",
-        -72
+        -552
       ],
       [
         "public.kern1.b_LC",
-        "public.kern2.uni043B",
-        -17
+        "public.kern2.s_LC",
+        -20
+      ],
+      [
+        "public.kern1.b_LC",
+        "public.kern2.t_LC",
+        -10
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.w_LC",
+        -144
+      ],
+      [
+        "public.kern1.b_LC",
+        "public.kern2.z_LC",
         -30
       ],
       [
         "public.kern1.b_LC",
-        "public.kern2.x_LC",
-        -18
-      ],
-      [
-        "public.kern1.b_LC",
         "question",
-        -60
+        -470
       ],
       [
         "public.kern1.b_LC",
         "x",
-        -60
+        -256
+      ],
+      [
+        "public.kern1.b_LC",
+        "y",
+        -208
       ],
       [
         "public.kern1.c_LC",
         "backslash",
-        -360
+        -485
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.a_LC",
+        -10
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.f_LC",
+        -10
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.gamma",
-        -40
+        -185
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.minute",
-        -72
+        -557
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.s_LC",
+        -10
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.t_LC",
+        -10
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.w_LC",
-        -40
+        -155
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.z_LC",
+        -20
       ],
       [
         "public.kern1.c_LC",
         "question",
-        -60
+        -460
       ],
       [
         "public.kern1.c_LC",
         "x",
-        -40
+        -240
+      ],
+      [
+        "public.kern1.c_LC",
+        "y",
+        -220
       ],
       [
         "public.kern1.comma",
@@ -34370,42 +33705,62 @@
       [
         "public.kern1.e_LC",
         "backslash",
-        -360
+        -490
+      ],
+      [
+        "public.kern1.e_LC",
+        "public.kern2.a_LC",
+        -20
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.gamma",
-        -40
+        -185
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.minute",
-        -72
+        -562
+      ],
+      [
+        "public.kern1.e_LC",
+        "public.kern2.s_LC",
+        -20
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.w_LC",
-        -40
+        -160
+      ],
+      [
+        "public.kern1.e_LC",
+        "public.kern2.z_LC",
+        -30
       ],
       [
         "public.kern1.e_LC",
         "question",
-        -60
+        -460
       ],
       [
         "public.kern1.e_LC",
         "x",
-        -40
+        -270
+      ],
+      [
+        "public.kern1.e_LC",
+        "y",
+        -225
       ],
       [
         "public.kern1.emdash",
         "V",
-        -90
+        -300
       ],
       [
         "public.kern1.emdash",
         "X",
-        -90
+        -520
       ],
       [
         "public.kern1.emdash",
@@ -34415,12 +33770,7 @@
       [
         "public.kern1.emdash",
         "public.kern2.Y_UC",
-        -140
-      ],
-      [
-        "public.kern1.eta",
-        "public.kern2.minute",
-        -124
+        -455
       ],
       [
         "public.kern1.f_LC",
@@ -34430,17 +33780,12 @@
       [
         "public.kern1.f_LC",
         "backslash",
-        90
+        -320
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.gamma",
-        50
-      ],
-      [
-        "public.kern1.f_LC",
-        "public.kern2.w_LC",
-        30
+        -280
       ],
       [
         "public.kern1.f_LC",
@@ -34455,7 +33800,7 @@
       [
         "public.kern1.f_LC",
         "x",
-        40
+        -150
       ],
       [
         "public.kern1.gamma",
@@ -34465,42 +33810,37 @@
       [
         "public.kern1.gamma",
         "backslash",
-        -240
+        -310
       ],
       [
         "public.kern1.gamma",
         "eth",
-        -48
+        -523
       ],
       [
         "public.kern1.gamma",
         "public.kern2.a_LC",
-        -108
+        -253
       ],
       [
         "public.kern1.gamma",
         "public.kern2.alpha",
-        -40
+        -185
       ],
       [
         "public.kern1.gamma",
         "public.kern2.comma",
-        -127
+        -522
       ],
       [
         "public.kern1.gamma",
         "public.kern2.minute",
-        30
+        -200
       ],
       [
         "public.kern1.gamma",
         "public.kern2.o_LC",
-        -48
-      ],
-      [
-        "public.kern1.gamma",
-        "public.kern2.uni043B",
-        -49
+        -193
       ],
       [
         "public.kern1.gamma",
@@ -34510,7 +33850,7 @@
       [
         "public.kern1.gamma",
         "slash",
-        -190
+        -580
       ],
       [
         "public.kern1.guillemotright",
@@ -34520,17 +33860,17 @@
       [
         "public.kern1.hmn_LC",
         "backslash",
-        -360
+        -445
       ],
       [
         "public.kern1.hmn_LC",
         "public.kern2.minute",
-        -72
+        -377
       ],
       [
         "public.kern1.hmn_LC",
         "question",
-        -60
+        -465
       ],
       [
         "public.kern1.i_LC",
@@ -34540,22 +33880,22 @@
       [
         "public.kern1.j_LC",
         "backslash",
-        -80
+        -105
       ],
       [
         "public.kern1.k_LC",
         "backslash",
-        -320
+        -450
       ],
       [
         "public.kern1.k_LC",
         "eth",
-        -40
+        -345
       ],
       [
         "public.kern1.k_LC",
         "public.kern2.o_LC",
-        -40
+        -325
       ],
       [
         "public.kern1.minute",
@@ -34604,13 +33944,8 @@
       ],
       [
         "public.kern1.minute",
-        "public.kern2.eta",
-        -24
-      ],
-      [
-        "public.kern1.minute",
         "public.kern2.minute",
-        -127
+        -142
       ],
       [
         "public.kern1.minute",
@@ -34625,12 +33960,12 @@
       [
         "public.kern1.o_LC",
         "backslash",
-        -360
+        -495
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.gamma",
-        -48
+        -198
       ],
       [
         "public.kern1.o_LC",
@@ -34639,28 +33974,18 @@
       ],
       [
         "public.kern1.o_LC",
-        "public.kern2.uni043B",
-        -19
-      ],
-      [
-        "public.kern1.o_LC",
         "public.kern2.w_LC",
-        -48
-      ],
-      [
-        "public.kern1.o_LC",
-        "public.kern2.x_LC",
-        -25
+        -163
       ],
       [
         "public.kern1.o_LC",
         "question",
-        -60
+        -475
       ],
       [
         "public.kern1.o_LC",
         "x",
-        -60
+        -295
       ],
       [
         "public.kern1.parens",
@@ -34695,27 +34020,22 @@
       [
         "public.kern1.r_LC",
         "backslash",
-        -260
+        -305
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.a_LC",
-        -28
+        -103
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.comma",
-        -146
-      ],
-      [
-        "public.kern1.r_LC",
-        "public.kern2.gamma",
-        41
+        -561
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.minute",
-        19
+        -106
       ],
       [
         "public.kern1.r_LC",
@@ -34723,44 +34043,39 @@
         -210
       ],
       [
-        "public.kern1.r_LC",
-        "x",
-        20
-      ],
-      [
         "public.kern1.s_LC",
         "backslash",
-        -360
+        -485
       ],
       [
         "public.kern1.s_LC",
         "public.kern2.gamma",
-        -30
+        -185
       ],
       [
         "public.kern1.s_LC",
         "public.kern2.minute",
-        -72
+        -532
       ],
       [
         "public.kern1.s_LC",
         "public.kern2.o_LC",
-        10
+        -10
       ],
       [
         "public.kern1.s_LC",
         "public.kern2.w_LC",
-        -40
+        -160
       ],
       [
         "public.kern1.s_LC",
         "question",
-        -60
+        -450
       ],
       [
         "public.kern1.s_LC",
         "x",
-        -20
+        -210
       ],
       [
         "public.kern1.t_LC",
@@ -34770,17 +34085,17 @@
       [
         "public.kern1.t_LC",
         "backslash",
-        -190
+        -340
       ],
       [
         "public.kern1.t_LC",
         "public.kern2.gamma",
-        20
+        -140
       ],
       [
         "public.kern1.t_LC",
         "public.kern2.s_LC",
-        30
+        -20
       ],
       [
         "public.kern1.t_LC",
@@ -34790,197 +34105,47 @@
       [
         "public.kern1.u_LC",
         "backslash",
-        -340
-      ],
-      [
-        "public.kern1.uni0409",
-        "public.kern2.Chi",
-        -19
-      ],
-      [
-        "public.kern1.uni0409",
-        "public.kern2.T_UC",
-        -317
-      ],
-      [
-        "public.kern1.uni0409",
-        "public.kern2.Upsilon",
-        -99
-      ],
-      [
-        "public.kern1.uni0409",
-        "public.kern2.V_UC",
-        -67
-      ],
-      [
-        "public.kern1.uni0409",
-        "public.kern2.minute",
-        -76
-      ],
-      [
-        "public.kern1.uni0409",
-        "public.kern2.uni0409",
-        -13
-      ],
-      [
-        "public.kern1.uni0409",
-        "public.kern2.uni040E",
-        -25
-      ],
-      [
-        "public.kern1.uni0409",
-        "public.kern2.uni0427",
-        -30
-      ],
-      [
-        "public.kern1.uni0409",
-        "public.kern2.x_LC",
-        -65
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.A_UC",
-        -108
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.C_UC",
-        -27
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.T_UC",
-        21
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.Upsilon",
-        21
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.a_LC",
-        -132
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.alpha",
-        -80
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.comma",
-        -479
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.emdash",
-        -141
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.eta",
-        -121
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.o_LC",
-        -80
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.s_LC",
-        -55
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.uni0409",
-        -64
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.uni043B",
-        -82
-      ],
-      [
-        "public.kern1.uni040E",
-        "public.kern2.uni0447",
-        -27
-      ],
-      [
-        "public.kern1.uni0433",
-        "public.kern2.alpha",
-        -24
-      ],
-      [
-        "public.kern1.uni0433",
-        "public.kern2.o_LC",
-        -24
-      ],
-      [
-        "public.kern1.uni0433",
-        "public.kern2.uni043B",
-        -48
-      ],
-      [
-        "public.kern1.uni044A",
-        "public.kern2.gamma",
-        -42
-      ],
-      [
-        "public.kern1.uni044A",
-        "public.kern2.minute",
-        -160
-      ],
-      [
-        "public.kern1.uni044A",
-        "public.kern2.uni0447",
-        -46
-      ],
-      [
-        "public.kern1.uni044A",
-        "public.kern2.x_LC",
-        -13
+        -335
       ],
       [
         "public.kern1.w_LC",
         "at",
-        -30
+        -135
       ],
       [
         "public.kern1.w_LC",
         "backslash",
-        -240
+        -310
       ],
       [
         "public.kern1.w_LC",
         "eth",
-        -48
+        -433
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.a_LC",
-        -80
+        -230
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.alpha",
-        -40
+        -150
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.f_LC",
-        10
+        -200
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.minute",
-        30
+        -200
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.o_LC",
-        -48
+        -163
       ],
       [
         "public.kern1.w_LC",
@@ -34990,27 +34155,17 @@
       [
         "public.kern1.w_LC",
         "slash",
-        -190
-      ],
-      [
-        "public.kern1.x_LC",
-        "public.kern2.alpha",
-        -24
-      ],
-      [
-        "public.kern1.x_LC",
-        "public.kern2.o_LC",
-        -24
+        -500
       ],
       [
         "public.kern1.z_LC",
         "backslash",
-        -330
+        -350
       ],
       [
         "public.kern1.z_LC",
         "public.kern2.alpha",
-        -19
+        -30
       ],
       [
         "public.kern1.z_LC",
@@ -35020,17 +34175,17 @@
       [
         "q",
         "backslash",
-        -340
+        -335
       ],
       [
         "questiondown",
         "V",
-        -150
+        -620
       ],
       [
         "questiondown",
         "X",
-        40
+        -380
       ],
       [
         "questiondown",
@@ -35040,17 +34195,17 @@
       [
         "questiondown",
         "public.kern2.CG_UC",
-        -70
+        -520
       ],
       [
         "questiondown",
         "public.kern2.T_UC",
-        -200
+        -460
       ],
       [
         "questiondown",
         "public.kern2.U_UC",
-        -70
+        -275
       ],
       [
         "questiondown",
@@ -35065,12 +34220,12 @@
       [
         "questiondown",
         "public.kern2.Z_UC",
-        70
+        -235
       ],
       [
         "questiondown",
         "public.kern2.gamma",
-        30
+        -170
       ],
       [
         "questiondown",
@@ -35080,7 +34235,7 @@
       [
         "questiondown",
         "x",
-        20
+        -195
       ],
       [
         "quotedbl",
@@ -35115,7 +34270,7 @@
       [
         "quoteright",
         "l",
-        38
+        -17
       ],
       [
         "quoteright",
@@ -35278,29 +34433,14 @@
         13
       ],
       [
-        "r",
-        "f",
-        18
-      ],
-      [
-        "r",
-        "t",
-        59
-      ],
-      [
-        "r",
-        "w",
-        20
-      ],
-      [
         "racute",
         "f",
-        18
+        -17
       ],
       [
         "racute",
         "t",
-        59
+        -16
       ],
       [
         "racute",
@@ -35310,12 +34450,12 @@
       [
         "rcaron",
         "f",
-        18
+        -17
       ],
       [
         "rcaron",
         "t",
-        59
+        -16
       ],
       [
         "rcaron",
@@ -35325,12 +34465,12 @@
       [
         "rcommaaccent",
         "f",
-        18
+        -17
       ],
       [
         "rcommaaccent",
         "t",
-        59
+        -16
       ],
       [
         "rcommaaccent",
@@ -35340,12 +34480,12 @@
       [
         "rdblgrave",
         "f",
-        18
+        -142
       ],
       [
         "rdblgrave",
         "t",
-        59
+        -141
       ],
       [
         "rdblgrave",
@@ -35355,12 +34495,12 @@
       [
         "rinvertedbreve",
         "f",
-        18
+        -17
       ],
       [
         "rinvertedbreve",
         "t",
-        59
+        -16
       ],
       [
         "rinvertedbreve",
@@ -35370,7 +34510,7 @@
       [
         "schwa",
         "apostrophemod",
-        -17
+        -492
       ],
       [
         "schwa",
@@ -35380,32 +34520,32 @@
       [
         "schwa",
         "quotedbl",
-        -17
+        -152
       ],
       [
         "schwa",
         "quotedblleft",
-        -17
+        -292
       ],
       [
         "schwa",
         "quotedblright",
-        -17
+        -457
       ],
       [
         "schwa",
         "quoteleft",
-        -17
+        -292
       ],
       [
         "schwa",
         "quoteright",
-        -17
+        -452
       ],
       [
         "schwa",
         "quotesingle",
-        -17
+        -142
       ],
       [
         "schwa",
@@ -35415,52 +34555,52 @@
       [
         "schwa",
         "v",
-        -15
+        -210
       ],
       [
         "schwa",
         "y",
-        -15
+        -245
       ],
       [
         "schwa",
         "yacute",
-        -15
+        -245
       ],
       [
         "schwa",
         "ycircumflex",
-        -15
+        -245
       ],
       [
         "schwa",
         "ydieresis",
-        -15
+        -245
       ],
       [
         "schwa",
         "ydotbelow",
-        -15
+        -245
       ],
       [
         "schwa",
         "ygrave",
-        -15
+        -245
       ],
       [
         "schwa",
         "yhookabove",
-        -15
+        -245
       ],
       [
         "schwa",
         "ymacron",
-        -15
+        -245
       ],
       [
         "schwa",
         "ytilde",
-        -15
+        -245
       ],
       [
         "second",
@@ -35475,17 +34615,17 @@
       [
         "slash",
         "eth",
-        -260
+        -555
       ],
       [
         "slash",
         "j",
-        -130
+        -550
       ],
       [
         "slash",
         "public.kern2.A_UC",
-        -420
+        -870
       ],
       [
         "slash",
@@ -35515,7 +34655,7 @@
       [
         "slash",
         "public.kern2.a_LC",
-        -460
+        -870
       ],
       [
         "slash",
@@ -35525,7 +34665,7 @@
       [
         "slash",
         "public.kern2.f_LC",
-        -250
+        -625
       ],
       [
         "slash",
@@ -35535,7 +34675,7 @@
       [
         "slash",
         "public.kern2.i_LC",
-        -90
+        -150
       ],
       [
         "slash",
@@ -35604,23 +34744,18 @@
       ],
       [
         "t",
-        "o",
-        0
-      ],
-      [
-        "t",
         "oacute",
-        -24
+        -439
       ],
       [
         "t",
         "obreve",
-        -24
+        -439
       ],
       [
         "t",
         "ocircumflex",
-        -24
+        -439
       ],
       [
         "t",
@@ -35630,12 +34765,12 @@
       [
         "t",
         "ocircumflexdotbelow",
-        -24
+        -439
       ],
       [
         "t",
         "ocircumflexgrave",
-        -24
+        -449
       ],
       [
         "t",
@@ -35645,107 +34780,102 @@
       [
         "t",
         "ocircumflextilde",
-        -24
+        -439
       ],
       [
         "t",
         "odblgrave",
-        -24
+        -439
       ],
       [
         "t",
         "odieresis",
-        -24
+        -439
       ],
       [
         "t",
         "odieresismacron",
-        -24
+        -439
       ],
       [
         "t",
         "odotaccentmacron",
-        -24
+        -439
       ],
       [
         "t",
         "odotbelow",
-        -24
+        -439
       ],
       [
         "t",
         "ograve",
-        -24
+        -439
       ],
       [
         "t",
         "ohookabove",
-        -24
+        -439
       ],
       [
         "t",
         "ohorntilde",
-        -24
+        -499
       ],
       [
         "t",
         "ohungarumlaut",
-        -24
+        -449
       ],
       [
         "t",
         "oinvertedbreve",
-        -24
+        -439
       ],
       [
         "t",
         "omacron",
-        -24
+        -439
       ],
       [
         "t",
         "oogonek",
-        -24
+        -439
       ],
       [
         "t",
         "otilde",
-        -24
+        -439
       ],
       [
         "t",
         "otildemacron",
-        -24
-      ],
-      [
-        "v",
-        "f",
-        25
+        -439
       ],
       [
         "w",
         "comma",
-        -147
+        -432
       ],
       [
         "w",
         "ellipsis",
-        -147
+        -432
       ],
       [
         "w",
         "period",
-        -147
+        -432
       ],
       [
         "w",
         "quotedblbase",
-        -147
+        -432
       ],
       [
         "w",
         "quotesinglbase",
-        -147
+        -432
       ],
       [
         "x",
@@ -35755,37 +34885,37 @@
       [
         "x",
         "backslash",
-        -260
+        -320
       ],
       [
         "x",
         "eth",
-        -60
+        -315
       ],
       [
         "x",
         "public.kern2.a_LC",
-        -20
+        -185
       ],
       [
         "x",
         "public.kern2.alpha",
-        -40
+        -280
       ],
       [
         "x",
         "public.kern2.f_LC",
-        15
+        -145
       ],
       [
         "x",
         "public.kern2.minute",
-        30
+        -205
       ],
       [
         "x",
         "public.kern2.o_LC",
-        -60
+        -280
       ],
       [
         "x",
@@ -35798,49 +34928,1289 @@
         90
       ],
       [
-        "y",
-        "f",
-        25
-      ],
-      [
         "yacute",
         "f",
-        15
+        -20
       ],
       [
         "ycircumflex",
         "f",
-        15
+        -20
       ],
       [
         "ydieresis",
         "f",
-        15
+        -20
       ],
       [
         "ydotbelow",
         "f",
-        15
+        -20
       ],
       [
         "ygrave",
         "f",
-        15
+        -20
       ],
       [
         "yhookabove",
         "f",
-        15
+        -20
       ],
       [
         "ymacron",
         "f",
-        15
+        -20
       ],
       [
         "ytilde",
         "f",
-        15
+        -20
+      ],
+      [
+        "public.kern1.a_LC",
+        "x",
+        -90
+      ],
+      [
+        "public.kern1.a_LC",
+        "y",
+        -213
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.mnpr_LC",
+        -100
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.a_LC",
+        -110
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.f_LC",
+        -90
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.t_LC",
+        -80
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.u_LC",
+        -40
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.w_LC",
+        -200
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.z_LC",
+        -20
+      ],
+      [
+        "g",
+        "x",
+        -20
+      ],
+      [
+        "g",
+        "y",
+        -40
+      ],
+      [
+        "public.kern1.hmn_LC",
+        "public.kern2.gamma",
+        -140
+      ],
+      [
+        "public.kern1.hmn_LC",
+        "public.kern2.w_LC",
+        -115
+      ],
+      [
+        "public.kern1.hmn_LC",
+        "x",
+        -60
+      ],
+      [
+        "public.kern1.hmn_LC",
+        "y",
+        -165
+      ],
+      [
+        "public.kern1.i_LC",
+        "y",
+        -40
+      ],
+      [
+        "public.kern1.j_LC",
+        "x",
+        -10
+      ],
+      [
+        "public.kern1.j_LC",
+        "y",
+        -30
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.a_LC",
+        -185
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.bhk_LC",
+        -100
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.alpha",
+        -320
+      ],
+      [
+        "public.kern1.k_LC",
+        "d",
+        -265
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.f_LC",
+        -230
+      ],
+      [
+        "public.kern1.k_LC",
+        "g",
+        -275
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.i_LC",
+        -100
+      ],
+      [
+        "public.kern1.k_LC",
+        "j",
+        -100
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.s_LC",
+        -235
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.t_LC",
+        -450
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.u_LC",
+        -190
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.gamma",
+        -410
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.w_LC",
+        -340
+      ],
+      [
+        "public.kern1.k_LC",
+        "x",
+        -150
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.z_LC",
+        -150
+      ],
+      [
+        "public.kern1.l_LC",
+        "y",
+        -30
+      ],
+      [
+        "public.kern1.o_LC",
+        "public.kern2.a_LC",
+        -20
+      ],
+      [
+        "public.kern1.o_LC",
+        "public.kern2.s_LC",
+        -25
+      ],
+      [
+        "public.kern1.o_LC",
+        "public.kern2.z_LC",
+        -40
+      ],
+      [
+        "public.kern1.r_LC",
+        "public.kern2.s_LC",
+        -10
+      ],
+      [
+        "public.kern1.r_LC",
+        "public.kern2.gamma",
+        -90
+      ],
+      [
+        "public.kern1.r_LC",
+        "public.kern2.w_LC",
+        -90
+      ],
+      [
+        "public.kern1.r_LC",
+        "x",
+        -160
+      ],
+      [
+        "public.kern1.r_LC",
+        "public.kern2.z_LC",
+        -20
+      ],
+      [
+        "public.kern1.s_LC",
+        "public.kern2.alpha",
+        -13
+      ],
+      [
+        "public.kern1.s_LC",
+        "public.kern2.f_LC",
+        -60
+      ],
+      [
+        "public.kern1.s_LC",
+        "public.kern2.t_LC",
+        -60
+      ],
+      [
+        "public.kern1.s_LC",
+        "y",
+        -215
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.a_LC",
+        -16
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.alpha",
+        -30
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.f_LC",
+        -90
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.o_LC",
+        -25
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.t_LC",
+        -95
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.u_LC",
+        -20
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.w_LC",
+        -110
+      ],
+      [
+        "public.kern1.t_LC",
+        "x",
+        -90
+      ],
+      [
+        "public.kern1.u_LC",
+        "y",
+        -30
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.f_LC",
+        -110
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.bhk_LC",
+        -20
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.mnpr_LC",
+        -10
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.s_LC",
+        -136
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.t_LC",
+        -263
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.u_LC",
+        -120
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.gamma",
+        -210
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.w_LC",
+        -210
+      ],
+      [
+        "public.kern1.gamma",
+        "x",
+        -250
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.z_LC",
+        -250
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.i_LC",
+        -20
+      ],
+      [
+        "public.kern1.w_LC",
+        "j",
+        -20
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.bhk_LC",
+        -20
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.s_LC",
+        -120
+      ],
+      [
+        "x",
+        "d",
+        -250
+      ],
+      [
+        "x",
+        "g",
+        -240
+      ],
+      [
+        "x",
+        "q",
+        -250
+      ],
+      [
+        "x",
+        "public.kern2.s_LC",
+        -200
+      ],
+      [
+        "x",
+        "public.kern2.t_LC",
+        -150
+      ],
+      [
+        "x",
+        "public.kern2.u_LC",
+        -60
+      ],
+      [
+        "x",
+        "public.kern2.gamma",
+        -200
+      ],
+      [
+        "x",
+        "public.kern2.w_LC",
+        -200
+      ],
+      [
+        "x",
+        "x",
+        -80
+      ],
+      [
+        "public.kern1.gamma",
+        "e",
+        -200
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.f_LC",
+        -40
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.o_LC",
+        -30
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.t_LC",
+        -40
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.gamma",
+        -90
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.w_LC",
+        -90
+      ],
+      [
+        "public.kern1.z_LC",
+        "x",
+        -30
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.s_LC",
+        -10
+      ],
+      [
+        "public.kern1.k_LC",
+        "q",
+        -265
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.t_LC",
+        -200
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.w_LC",
+        -220
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.gamma",
+        -220
+      ],
+      [
+        "public.kern1.w_LC",
+        "x",
+        -210
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.z_LC",
+        -200
+      ],
+      [
+        "x",
+        "public.kern2.mnpr_LC",
+        -30
+      ],
+      [
+        "x",
+        "public.kern2.bhk_LC",
+        -30
+      ],
+      [
+        "x",
+        "public.kern2.i_LC",
+        -30
+      ],
+      [
+        "x",
+        "j",
+        -30
+      ],
+      [
+        "x",
+        "public.kern2.z_LC",
+        -40
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.i_LC",
+        -20
+      ],
+      [
+        "public.kern1.gamma",
+        "j",
+        -20
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.bhk_LC",
+        -30
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.i_LC",
+        -30
+      ],
+      [
+        "public.kern1.A_UC",
+        "j",
+        -30
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.mnpr_LC",
+        -30
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.w_LC",
+        -390
+      ],
+      [
+        "B",
+        "public.kern2.bhk_LC",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.i_LC",
+        -10
+      ],
+      [
+        "B",
+        "j",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.mnpr_LC",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.u_LC",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.gamma",
+        -190
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.f_LC",
+        -10
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.u_LC",
+        -10
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.t_LC",
+        -100
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.w_LC",
+        -116
+      ],
+      [
+        "public.kern1.E_UC",
+        "x",
+        -60
+      ],
+      [
+        "F",
+        "public.kern2.a_LC",
+        -180
+      ],
+      [
+        "F",
+        "public.kern2.alpha",
+        -70
+      ],
+      [
+        "F",
+        "public.kern2.f_LC",
+        -70
+      ],
+      [
+        "F",
+        "public.kern2.bhk_LC",
+        -60
+      ],
+      [
+        "F",
+        "public.kern2.i_LC",
+        -60
+      ],
+      [
+        "F",
+        "public.kern2.mnpr_LC",
+        -60
+      ],
+      [
+        "F",
+        "public.kern2.o_LC",
+        -70
+      ],
+      [
+        "F",
+        "public.kern2.s_LC",
+        -80
+      ],
+      [
+        "F",
+        "public.kern2.t_LC",
+        -70
+      ],
+      [
+        "F",
+        "public.kern2.u_LC",
+        -60
+      ],
+      [
+        "F",
+        "public.kern2.gamma",
+        -370
+      ],
+      [
+        "F",
+        "x",
+        -560
+      ],
+      [
+        "F",
+        "public.kern2.z_LC",
+        -190
+      ],
+      [
+        "public.kern1.G_UC",
+        "public.kern2.w_LC",
+        -100
+      ],
+      [
+        "public.kern1.G_UC",
+        "public.kern2.gamma",
+        -100
+      ],
+      [
+        "public.kern1.LeftStraight_UC",
+        "public.kern2.gamma",
+        -20
+      ],
+      [
+        "public.kern1.LeftStraight_UC",
+        "x",
+        -30
+      ],
+      [
+        "public.kern1.LeftStraight_UC",
+        "public.kern2.w_LC",
+        -20
+      ],
+      [
+        "public.kern1.LeftStraight_UC",
+        "y",
+        -30
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.alpha",
+        -10
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.o_LC",
+        -10
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.s_LC",
+        -15
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.gamma",
+        -10
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.w_LC",
+        -10
+      ],
+      [
+        "public.kern1.JU_UC",
+        "x",
+        -40
+      ],
+      [
+        "public.kern1.JU_UC",
+        "y",
+        -50
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.z_LC",
+        -20
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.a_LC",
+        -180
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.bhk_LC",
+        -60
+      ],
+      [
+        "public.kern1.K_UC",
+        "d",
+        -261
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.f_LC",
+        -270
+      ],
+      [
+        "public.kern1.K_UC",
+        "g",
+        -256
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.i_LC",
+        -60
+      ],
+      [
+        "public.kern1.K_UC",
+        "j",
+        -60
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.mnpr_LC",
+        -60
+      ],
+      [
+        "public.kern1.K_UC",
+        "q",
+        -261
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.s_LC",
+        -215
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.w_LC",
+        -420
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.mnpr_LC",
+        -10
+      ],
+      [
+        "public.kern1.K_UC",
+        "x",
+        -350
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.a_LC",
+        -10
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.alpha",
+        -10
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.f_LC",
+        -200
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.o_LC",
+        -10
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.s_LC",
+        -10
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.t_LC",
+        -230
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.w_LC",
+        -200
+      ],
+      [
+        "public.kern1.L_UC",
+        "x",
+        -90
+      ],
+      [
+        "P",
+        "public.kern2.alpha",
+        -70
+      ],
+      [
+        "P",
+        "public.kern2.o_LC",
+        -70
+      ],
+      [
+        "P",
+        "public.kern2.s_LC",
+        -40
+      ],
+      [
+        "P",
+        "public.kern2.gamma",
+        -30
+      ],
+      [
+        "P",
+        "public.kern2.w_LC",
+        -30
+      ],
+      [
+        "P",
+        "x",
+        -70
+      ],
+      [
+        "P",
+        "y",
+        -50
+      ],
+      [
+        "P",
+        "public.kern2.z_LC",
+        -20
+      ],
+      [
+        "Q",
+        "public.kern2.a_LC",
+        -100
+      ],
+      [
+        "Q",
+        "public.kern2.alpha",
+        -30
+      ],
+      [
+        "Q",
+        "public.kern2.o_LC",
+        -30
+      ],
+      [
+        "Q",
+        "public.kern2.s_LC",
+        -20
+      ],
+      [
+        "Q",
+        "public.kern2.t_LC",
+        -10
+      ],
+      [
+        "Q",
+        "public.kern2.gamma",
+        -50
+      ],
+      [
+        "Q",
+        "public.kern2.w_LC",
+        -50
+      ],
+      [
+        "Q",
+        "x",
+        -100
+      ],
+      [
+        "Q",
+        "y",
+        -80
+      ],
+      [
+        "Q",
+        "public.kern2.z_LC",
+        -20
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.bhk_LC",
+        -20
+      ],
+      [
+        "public.kern1.R_UC",
+        "d",
+        -205
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.f_LC",
+        -120
+      ],
+      [
+        "public.kern1.R_UC",
+        "g",
+        -205
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.i_LC",
+        -20
+      ],
+      [
+        "public.kern1.R_UC",
+        "j",
+        -20
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.mnpr_LC",
+        -20
+      ],
+      [
+        "public.kern1.R_UC",
+        "q",
+        -205
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.t_LC",
+        -120
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.u_LC",
+        -110
+      ],
+      [
+        "public.kern1.R_UC",
+        "x",
+        -130
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.z_LC",
+        -40
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.alpha",
+        -10
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.f_LC",
+        -10
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.o_LC",
+        -10
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.gamma",
+        -180
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.w_LC",
+        -150
+      ],
+      [
+        "public.kern1.S_UC",
+        "x",
+        -260
+      ],
+      [
+        "public.kern1.S_UC",
+        "y",
+        -210
+      ],
+      [
+        "public.kern1.T_UC",
+        "public.kern2.f_LC",
+        -210
+      ],
+      [
+        "public.kern1.T_UC",
+        "public.kern2.mnpr_LC",
+        -510
+      ],
+      [
+        "public.kern1.T_UC",
+        "public.kern2.t_LC",
+        -250
+      ],
+      [
+        "public.kern1.T_UC",
+        "public.kern2.w_LC",
+        -556
+      ],
+      [
+        "public.kern1.T_UC",
+        "x",
+        -550
+      ],
+      [
+        "V",
+        "public.kern2.i_LC",
+        -75
+      ],
+      [
+        "V",
+        "public.kern2.bhk_LC",
+        -20
+      ],
+      [
+        "V",
+        "y",
+        -320
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.bhk_LC",
+        -30
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.f_LC",
+        -210
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.i_LC",
+        -60
+      ],
+      [
+        "public.kern1.W_UC",
+        "j",
+        -60
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.mnpr_LC",
+        -220
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.s_LC",
+        -310
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.t_LC",
+        -220
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.u_LC",
+        -220
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.gamma",
+        -310
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.w_LC",
+        -260
+      ],
+      [
+        "public.kern1.W_UC",
+        "x",
+        -330
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.z_LC",
+        -240
+      ],
+      [
+        "X",
+        "public.kern2.a_LC",
+        -160
+      ],
+      [
+        "X",
+        "public.kern2.alpha",
+        -230
+      ],
+      [
+        "X",
+        "c",
+        -260
+      ],
+      [
+        "X",
+        "e",
+        -260
+      ],
+      [
+        "X",
+        "public.kern2.f_LC",
+        -230
+      ],
+      [
+        "X",
+        "public.kern2.mnpr_LC",
+        -20
+      ],
+      [
+        "X",
+        "public.kern2.bhk_LC",
+        -20
+      ],
+      [
+        "X",
+        "j",
+        -20
+      ],
+      [
+        "X",
+        "public.kern2.i_LC",
+        -20
+      ],
+      [
+        "X",
+        "public.kern2.o_LC",
+        -260
+      ],
+      [
+        "X",
+        "public.kern2.s_LC",
+        -185
+      ],
+      [
+        "X",
+        "public.kern2.t_LC",
+        -420
+      ],
+      [
+        "X",
+        "public.kern2.u_LC",
+        -170
+      ],
+      [
+        "X",
+        "public.kern2.gamma",
+        -470
+      ],
+      [
+        "X",
+        "public.kern2.w_LC",
+        -400
+      ],
+      [
+        "X",
+        "x",
+        -250
+      ],
+      [
+        "X",
+        "public.kern2.z_LC",
+        -80
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.bhk_LC",
+        -30
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.f_LC",
+        -410
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.i_LC",
+        -100
+      ],
+      [
+        "public.kern1.Y_UC",
+        "j",
+        -100
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.t_LC",
+        -410
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.u_LC",
+        -390
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.gamma",
+        -430
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.w_LC",
+        -430
+      ],
+      [
+        "public.kern1.Y_UC",
+        "x",
+        -480
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.f_LC",
+        -200
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.w_LC",
+        -210
+      ],
+      [
+        "public.kern1.Z_UC",
+        "x",
+        -100
       ]
     ]
   }

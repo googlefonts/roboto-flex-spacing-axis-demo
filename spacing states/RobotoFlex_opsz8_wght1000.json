@@ -8071,7 +8071,7 @@
         "width": 1361
       },
       "Idblgrave": {
-        "leftMargin": -150,
+        "leftMargin": -150.35,
         "width": 376
       },
       "Idieresis": {
@@ -8499,7 +8499,7 @@
         "width": 1242
       },
       "Rdblgrave": {
-        "leftMargin": 19,
+        "leftMargin": 18.650000000000006,
         "width": 1242
       },
       "Rho": {
@@ -9930,7 +9930,7 @@
         "width": 1117
       },
       "hcircumflex": {
-        "leftMargin": -225,
+        "leftMargin": -224.5,
         "width": 1117
       },
       "hookabovecomb": {
@@ -10002,15 +10002,15 @@
         "width": 1117
       },
       "iacute": {
-        "leftMargin": -73,
+        "leftMargin": -73.44999999999999,
         "width": 365
       },
       "ibreve": {
-        "leftMargin": -223,
+        "leftMargin": -223.4,
         "width": 365
       },
       "icircumflex": {
-        "leftMargin": -237,
+        "leftMargin": -236.5,
         "width": 365
       },
       "icyr": {
@@ -10018,7 +10018,7 @@
         "width": 1130
       },
       "idblgrave": {
-        "leftMargin": -102,
+        "leftMargin": -101.65329113920001,
         "width": 365
       },
       "idieresis": {
@@ -10122,7 +10122,7 @@
         "width": 1117
       },
       "itilde": {
-        "leftMargin": -226,
+        "leftMargin": -226.2,
         "width": 365
       },
       "iukran": {
@@ -10198,7 +10198,7 @@
         "width": 365
       },
       "lacute": {
-        "leftMargin": -61,
+        "leftMargin": -61.44999999999999,
         "width": 365
       },
       "lambda": {
@@ -10721,7 +10721,7 @@
         "width": 659
       },
       "rcaron": {
-        "leftMargin": -58,
+        "leftMargin": -57.5,
         "width": 659
       },
       "rcommaaccent": {
@@ -10729,7 +10729,7 @@
         "width": 659
       },
       "rdblgrave": {
-        "leftMargin": 10,
+        "leftMargin": 10.346708860799993,
         "width": 659
       },
       "registered": {
@@ -10870,6 +10870,9 @@
       },
       "softhyphen": {
         "width": 0
+      },
+      "space": {
+        "width": 500
       },
       "sterling": {
         "leftMargin": 10,
@@ -27859,3717 +27862,3552 @@
       [
         "A",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "A",
         "question",
-        -53.3789873418
-      ],
-      [
-        "A",
-        "t",
-        -245.31873417719999
-      ],
-      [
-        "A",
-        "w",
-        -249.79518987339998
+        -53
       ],
       [
         "Aacute",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Aacute",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Aacute",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Aacute",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Abreve",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Abreve",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Abreve",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Abreve",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Abreveacute",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Abreveacute",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Abreveacute",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Abreveacute",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Abrevedotbelow",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Abrevedotbelow",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Abrevedotbelow",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Abrevedotbelow",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Abrevegrave",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Abrevegrave",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Abrevegrave",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Abrevegrave",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Abrevehookabove",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Abrevehookabove",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Abrevehookabove",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Abrevehookabove",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Abrevetilde",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Abrevetilde",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Abrevetilde",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Abrevetilde",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Acircumflex",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Acircumflex",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Acircumflex",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Acircumflex",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Acircumflexacute",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Acircumflexacute",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Acircumflexacute",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Acircumflexacute",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Acircumflexdotbelow",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Acircumflexdotbelow",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Acircumflexdotbelow",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Acircumflexdotbelow",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Acircumflexgrave",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Acircumflexgrave",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Acircumflexgrave",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Acircumflexgrave",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Acircumflexhookabove",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Acircumflexhookabove",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Acircumflexhookabove",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Acircumflexhookabove",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Acircumflextilde",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Acircumflextilde",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Acircumflextilde",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Acircumflextilde",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Adblgrave",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Adblgrave",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Adblgrave",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Adblgrave",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Adieresis",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Adieresis",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Adieresis",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Adieresis",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Adotbelow",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Adotbelow",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Adotbelow",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Adotbelow",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Agrave",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Agrave",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Agrave",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Agrave",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Ahookabove",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Ahookabove",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Ahookabove",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Ahookabove",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Ainvertedbreve",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Ainvertedbreve",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Ainvertedbreve",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Ainvertedbreve",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Amacron",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Amacron",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Amacron",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Amacron",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Aogonek",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Aogonek",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Aogonek",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Aogonek",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Aring",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Aring",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Aring",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Aring",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Aringacute",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Aringacute",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Aringacute",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Aringacute",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "Atilde",
         "Uhorn",
-        -16.3187341772
+        -16
       ],
       [
         "Atilde",
         "question",
-        -53.3789873418
+        -53
       ],
       [
         "Atilde",
         "t",
-        -15.3187341772
+        -15
       ],
       [
         "Atilde",
         "w",
-        -28.7951898734
+        -29
       ],
       [
         "B",
         "V",
-        -146.2146835443
+        -146
       ],
       [
         "B",
         "public.kern2.T_UC",
-        -65.7415189873
+        -66
       ],
       [
         "B",
         "public.kern2.Y_UC",
-        -180.3253164557
+        -180
       ],
       [
         "B",
         "public.kern2.emdash",
-        -3.1544303797
+        -3
       ],
       [
         "C",
         "braceright",
-        -16.1073417722
+        -16
       ],
       [
         "C",
         "bracketright",
-        -10.1073417722
+        -10
       ],
       [
         "C",
         "parenright",
-        -25.1073417722
+        -25
       ],
       [
         "Cacute",
         "braceright",
-        -16.1073417722
+        -16
       ],
       [
         "Cacute",
         "bracketright",
-        -10.1073417722
+        -10
       ],
       [
         "Cacute",
         "parenright",
-        -25.1073417722
+        -25
       ],
       [
         "Ccaron",
         "braceright",
-        -16.1073417722
+        -16
       ],
       [
         "Ccaron",
         "bracketright",
-        -10.1073417722
+        -10
       ],
       [
         "Ccaron",
         "parenright",
-        -25.1073417722
+        -25
       ],
       [
         "Ccedilla",
         "braceright",
-        -16.1073417722
+        -16
       ],
       [
         "Ccedilla",
         "bracketright",
-        -10.1073417722
+        -10
       ],
       [
         "Ccedilla",
         "parenright",
-        -25.1073417722
+        -25
       ],
       [
         "Ccircumflex",
         "braceright",
-        -16.1073417722
+        -16
       ],
       [
         "Ccircumflex",
         "bracketright",
-        -10.1073417722
+        -10
       ],
       [
         "Ccircumflex",
         "parenright",
-        -25.1073417722
+        -25
       ],
       [
         "Cdotaccent",
         "braceright",
-        -16.1073417722
+        -16
       ],
       [
         "Cdotaccent",
         "bracketright",
-        -10.1073417722
+        -10
       ],
       [
         "Cdotaccent",
         "parenright",
-        -25.1073417722
+        -25
       ],
       [
         "D",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "DZcaron",
         "w",
-        -23.7415189873
+        -24
       ],
       [
         "Dcaron",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Dcroat",
         "AE",
-        -28.7951898734
-      ],
-      [
-        "E",
-        "f",
-        -146.1610126582
-      ],
-      [
-        "E",
-        "w",
-        -169.5301265823
+        -29
       ],
       [
         "Eacute",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Eacute",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Ebreve",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Ebreve",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Ecaron",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Ecaron",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Ecircumflex",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Ecircumflex",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Ecircumflexacute",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Ecircumflexacute",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Ecircumflexdotbelow",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Ecircumflexdotbelow",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Ecircumflexgrave",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Ecircumflexgrave",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Ecircumflexhookabove",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Ecircumflexhookabove",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Ecircumflextilde",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Ecircumflextilde",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Edblgrave",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Edblgrave",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Edieresis",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Edieresis",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Edotaccent",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Edotaccent",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Edotbelow",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Edotbelow",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Egrave",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Egrave",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Ehookabove",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Ehookabove",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Einvertedbreve",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Einvertedbreve",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Emacron",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Emacron",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Eogonek",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Eogonek",
         "w",
-        -19.5301265823
+        -20
       ],
       [
         "Eth",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Etilde",
         "f",
-        -16.1610126582
+        -16
       ],
       [
         "Etilde",
         "w",
-        -19.5301265823
-      ],
-      [
-        "F",
-        "A",
-        -259.1873417722
+        -20
       ],
       [
         "F",
         "Aacute",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Abreve",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Abreveacute",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Abrevedotbelow",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Abrevegrave",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Abrevehookabove",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Abrevetilde",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Acircumflex",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Acircumflexacute",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Acircumflexdotbelow",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Acircumflexgrave",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Acircumflexhookabove",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Acircumflextilde",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Adblgrave",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Adieresis",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Adotbelow",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Agrave",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Ahookabove",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Ainvertedbreve",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Amacron",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Aogonek",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Aring",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Aringacute",
-        -149.1873417722
+        -149
       ],
       [
         "F",
         "Atilde",
-        -149.1873417722
-      ],
-      [
-        "F",
-        "J",
-        -704.9792405063
+        -149
       ],
       [
         "F",
         "Jcircumflex",
-        -244.9792405063
+        -245
       ],
       [
         "F",
         "T",
-        -42.1544303797
+        -42
       ],
       [
         "F",
         "Tcaron",
-        17.8455696203
+        18
       ],
       [
         "F",
         "Tcedilla",
-        17.8455696203
+        18
       ],
       [
         "F",
         "Tcommaaccent",
-        17.8455696203
-      ],
-      [
-        "F",
-        "a",
-        -149.6374683544
+        18
       ],
       [
         "F",
         "aacute",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "abreve",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "abreveacute",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "abrevedotbelow",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "abrevegrave",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "abrevehookabove",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "abrevetilde",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "acircumflex",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "acircumflexacute",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "acircumflexdotbelow",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "acircumflexgrave",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "acircumflexhookabove",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "acircumflextilde",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "adblgrave",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "adieresis",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "adotbelow",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "agrave",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "ahookabove",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "ainvertedbreve",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "amacron",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "aogonek",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "aring",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "aringacute",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "asterisk",
-        -3.1544303797
+        -3
       ],
       [
         "F",
         "at",
-        3.1544303797
+        3
       ],
       [
         "F",
         "atilde",
-        -29.6374683544
+        -30
       ],
       [
         "F",
         "backslash",
-        -17.3493670886
-      ],
-      [
-        "F",
-        "c",
-        -88.6878481013
+        -17
       ],
       [
         "F",
         "cacute",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ccaron",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ccedilla",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ccircumflex",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "cdotaccent",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "comma",
-        -213.9792405063
-      ],
-      [
-        "F",
-        "d",
-        -18.6878481013
+        -214
       ],
       [
         "F",
         "dcaron",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "dzcaron",
-        -18.6878481013
-      ],
-      [
-        "F",
-        "e",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "eacute",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ebreve",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ecaron",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ecircumflex",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ecircumflexacute",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ecircumflexdotbelow",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ecircumflexgrave",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ecircumflexhookabove",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ecircumflextilde",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "edblgrave",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "edieresis",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "edotaccent",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "edotbelow",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "egrave",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ehookabove",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "einvertedbreve",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ellipsis",
-        -213.9792405063
+        -214
       ],
       [
         "F",
         "emacron",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "eogonek",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "etilde",
-        -18.6878481013
-      ],
-      [
-        "F",
-        "g",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "gbreve",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "gcaron",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "gcircumflex",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "gcommaaccent",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "gdotaccent",
-        -18.6878481013
-      ],
-      [
-        "F",
-        "o",
-        -89.6878481013
+        -19
       ],
       [
         "F",
         "oacute",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "obreve",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ocircumflex",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ocircumflexacute",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ocircumflexdotbelow",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ocircumflexgrave",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ocircumflexhookabove",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ocircumflextilde",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "odblgrave",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "odieresis",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "odieresismacron",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "odotaccentmacron",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "odotbelow",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "oe",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ograve",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ohookabove",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ohorn",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ohornacute",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ohorndotbelow",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ohorngrave",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ohornhookabove",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ohorntilde",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "ohungarumlaut",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "oinvertedbreve",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "omacron",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "oogonek",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "otilde",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "otildemacron",
-        -18.6878481013
+        -19
       ],
       [
         "F",
         "period",
-        -213.9792405063
+        -214
       ],
       [
         "F",
         "public.kern2.A_UC",
-        26.8126582278
+        -260
       ],
       [
         "F",
         "public.kern2.J_UC",
-        29.0207594937
+        -710
       ],
       [
         "F",
         "public.kern2.T_UC",
-        -3.1544303797
+        -3
       ],
       [
         "F",
         "public.kern2.alpha",
-        3.3121518987
+        -87
       ],
       [
         "F",
         "public.kern2.colon",
-        6.3088607595
+        6
       ],
       [
         "F",
         "public.kern2.comma",
-        29.0207594937
+        29
       ],
       [
         "F",
         "public.kern2.gamma",
-        3.7853164557
+        -216
       ],
       [
         "F",
         "public.kern2.minute",
-        -9.4632911392
+        -9
       ],
       [
         "F",
         "public.kern2.mnpr_LC",
-        -89.8992405063
+        -90
       ],
       [
         "F",
         "public.kern2.u_LC",
-        3.4698734177
-      ],
-      [
-        "F",
-        "q",
-        -18.6878481013
+        -87
       ],
       [
         "F",
         "quotedblbase",
-        -213.9792405063
+        -214
       ],
       [
         "F",
         "quotesinglbase",
-        -213.9792405063
-      ],
-      [
-        "F",
-        "r",
-        -22.8992405063
+        -214
       ],
       [
         "F",
         "slash",
-        7.8860759494
-      ],
-      [
-        "F",
-        "u",
-        -89.5301265823
+        8
       ],
       [
         "F",
         "uacute",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "ubreve",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "ucircumflex",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "udblgrave",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "udieresis",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "udotbelow",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "ugrave",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "uhookabove",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "uhorn",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "uhornacute",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "uhorndotbelow",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "uhorngrave",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "uhornhookabove",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "uhorntilde",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "uhungarumlaut",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "uinvertedbreve",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "umacron",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "uogonek",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "uring",
-        -19.5301265823
+        -20
       ],
       [
         "F",
         "utilde",
-        -19.5301265823
-      ],
-      [
-        "F",
-        "v",
-        -211.2146835443
-      ],
-      [
-        "F",
-        "y",
-        -21.2146835443
+        -20
       ],
       [
         "F",
         "yacute",
-        -21.2146835443
+        -21
       ],
       [
         "F",
         "ycircumflex",
-        -21.2146835443
+        -21
       ],
       [
         "F",
         "ydieresis",
-        -21.2146835443
+        -21
       ],
       [
         "F",
         "ydotbelow",
-        -21.2146835443
+        -21
       ],
       [
         "F",
         "ygrave",
-        -21.2146835443
+        -21
       ],
       [
         "F",
         "yhookabove",
-        -21.2146835443
+        -21
       ],
       [
         "F",
         "ymacron",
-        -21.2146835443
+        -21
       ],
       [
         "F",
         "ytilde",
-        -21.2146835443
-      ],
-      [
-        "K",
-        "w",
-        -265.0635443038
+        -21
       ],
       [
         "Kcommaaccent",
         "w",
-        -55.0635443038
-      ],
-      [
-        "L",
-        "w",
-        -210.4896202532
+        -55
       ],
       [
         "Lacute",
         "w",
-        -80.4896202532
+        -80
       ],
       [
         "Lcaron",
         "w",
-        -80.4896202532
+        -80
       ],
       [
         "Lcommaaccent",
         "w",
-        -80.4896202532
+        -80
       ],
       [
         "Ldot",
         "w",
-        -80.4896202532
+        -80
       ],
       [
         "Lslash",
         "ampersand",
-        3.1544303797
+        3
       ],
       [
         "Lslash",
         "asterisk",
-        15.7721518987
+        16
       ],
       [
         "Lslash",
         "backslash",
-        17.3493670886
+        17
       ],
       [
         "Lslash",
         "public.kern2.minute",
-        12.617721519
+        13
       ],
       [
         "Lslash",
         "slash",
-        -14.1949367089
+        -14
       ],
       [
         "O",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Oacute",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Obreve",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Ocircumflex",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Ocircumflexacute",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Ocircumflexdotbelow",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Ocircumflexgrave",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Ocircumflexhookabove",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Ocircumflextilde",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Odblgrave",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Odieresis",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Odieresismacron",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Odotaccentmacron",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Odotbelow",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Ograve",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Ohookabove",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Ohungarumlaut",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Oinvertedbreve",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Omacron",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Oogonek",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Otilde",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "Otildemacron",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "P",
         "AE",
-        -85.7010126582
+        -86
       ],
       [
         "P",
         "X",
-        -215.1106329114
+        -215
       ],
       [
         "P",
         "ampersand",
-        3.1544303797
+        3
       ],
       [
         "P",
         "asterisk",
-        -7.8860759494
+        -8
       ],
       [
         "P",
         "at",
-        3.1544303797
+        3
       ],
       [
         "P",
         "backslash",
-        -9.4632911392
+        -9
       ],
       [
         "P",
         "public.kern2.AE_UC",
-        15.2989873418
+        15
       ],
       [
         "P",
         "public.kern2.A_UC",
-        -280.1774683544
+        -280
       ],
       [
         "P",
         "public.kern2.J_UC",
-        -490.1873417722
+        -490
       ],
       [
         "P",
         "public.kern2.Z_UC",
-        -75.8992405063
+        -76
       ],
       [
         "P",
         "public.kern2.a_LC",
-        -78.2650632911
+        -78
       ],
       [
         "P",
         "public.kern2.alpha",
-        -77.9496202532
+        -78
       ],
       [
         "P",
         "public.kern2.comma",
-        43.2156962025
+        43
       ],
       [
         "P",
         "public.kern2.emdash",
-        -3.1544303797
+        -3
       ],
       [
         "P",
         "public.kern2.gamma",
-        -22.365822784800002
+        -22
       ],
       [
         "P",
         "public.kern2.minute",
-        -9.4632911392
+        -9
       ],
       [
         "P",
         "public.kern2.o_LC",
-        -77.9496202532
-      ],
-      [
-        "P",
-        "public.kern2.t_LC",
-        -2.2081012658
+        -78
       ],
       [
         "P",
         "slash",
-        11.0405063291
-      ],
-      [
-        "P",
-        "t",
-        2.7918987342
-      ],
-      [
-        "Q",
-        "T",
-        -138.21797468350002
+        11
       ],
       [
         "Q",
         "Tcaron",
-        -38.2179746835
+        -38
       ],
       [
         "Q",
         "Tcedilla",
-        -38.2179746835
+        -38
       ],
       [
         "Q",
         "Tcommaaccent",
-        -38.2179746835
+        -38
       ],
       [
         "Q",
         "V",
-        -174.5837974684
-      ],
-      [
-        "Q",
-        "W",
-        -117.8455696203
+        -175
       ],
       [
         "Q",
         "Wacute",
-        -17.8455696203
+        -18
       ],
       [
         "Q",
         "Wcircumflex",
-        -17.8455696203
+        -18
       ],
       [
         "Q",
         "Wdieresis",
-        -17.8455696203
+        -18
       ],
       [
         "Q",
         "Wgrave",
-        -17.8455696203
-      ],
-      [
-        "Q",
-        "Y",
-        -230.4797468354
+        -18
       ],
       [
         "Q",
         "Yacute",
-        -30.4797468354
+        -30
       ],
       [
         "Q",
         "Ycircumflex",
-        -30.4797468354
+        -30
       ],
       [
         "Q",
         "Ydieresis",
-        -30.4797468354
+        -30
       ],
       [
         "Q",
         "Ydotbelow",
-        -30.4797468354
+        -30
       ],
       [
         "Q",
         "Ygrave",
-        -30.4797468354
+        -30
       ],
       [
         "Q",
         "Yhookabove",
-        -30.4797468354
+        -30
       ],
       [
         "Q",
         "Ytilde",
-        -30.4797468354
+        -30
       ],
       [
         "Q",
         "public.kern2.T_UC",
-        6.7820253165
+        -130
       ],
       [
         "Q",
         "public.kern2.W_UC",
-        3.1544303797
+        -118
       ],
       [
         "Q",
         "public.kern2.comma",
-        7.8860759494
+        8
       ],
       [
         "Q",
         "public.kern2.emdash",
-        -4.7316455696
-      ],
-      [
-        "R",
-        "T",
-        -100.382278481
+        -5
       ],
       [
         "R",
         "Tcaron",
-        -70.382278481
+        -70
       ],
       [
         "R",
         "Tcedilla",
-        -70.382278481
+        -70
       ],
       [
         "R",
         "Tcommaaccent",
-        -70.382278481
-      ],
-      [
-        "R",
-        "V",
-        -157.0032911392
-      ],
-      [
-        "R",
-        "Y",
-        -202.4293670886
+        -70
       ],
       [
         "R",
         "Yacute",
-        -42.4293670886
+        -42
       ],
       [
         "R",
         "Ycircumflex",
-        -42.4293670886
+        -42
       ],
       [
         "R",
         "Ydieresis",
-        -42.4293670886
+        -42
       ],
       [
         "R",
         "Ydotbelow",
-        -42.4293670886
+        -42
       ],
       [
         "R",
         "Ygrave",
-        -42.4293670886
+        -42
       ],
       [
         "R",
         "Yhookabove",
-        -42.4293670886
+        -42
       ],
       [
         "R",
         "Ytilde",
-        -42.4293670886
+        -42
       ],
       [
         "Schwa",
         "AE",
-        -28.7951898734
+        -29
       ],
       [
         "T",
         "AE",
-        -157.7678481013
+        -158
       ],
       [
         "T",
         "ae",
-        -93.553164557
+        -94
       ],
       [
         "T",
         "guillemotleft",
-        -288.2673417722
+        -288
       ],
       [
         "T",
         "guillemotright",
-        -189.9321518987
+        -190
       ],
       [
         "T",
         "oslash",
-        -75.3417721519
+        -75
       ],
       [
         "T",
         "r",
-        -54.3417721519
+        -54
       ],
       [
         "T",
         "space",
-        -34.6911392405
+        -35
       ],
       [
         "T",
         "w",
-        -440.39215189870004
+        -440
       ],
       [
         "Tbar",
         "AE",
-        -157.7678481013
+        -158
       ],
       [
         "Tbar",
         "ae",
-        -93.553164557
+        -94
       ],
       [
         "Tbar",
         "guillemotleft",
-        -288.2673417722
+        -288
       ],
       [
         "Tbar",
         "guillemotright",
-        -189.9321518987
+        -190
       ],
       [
         "Tbar",
         "oslash",
-        -75.3417721519
+        -75
       ],
       [
         "Tbar",
         "r",
-        -54.3417721519
+        -54
       ],
       [
         "Tbar",
         "space",
-        -34.6911392405
+        -35
       ],
       [
         "Tbar",
         "w",
-        -37.3921518987
+        -37
       ],
       [
         "Tcaron",
         "AE",
-        -157.7678481013
+        -158
       ],
       [
         "Tcaron",
         "ae",
-        -93.553164557
+        -94
       ],
       [
         "Tcaron",
         "guillemotleft",
-        -288.2673417722
+        -288
       ],
       [
         "Tcaron",
         "guillemotright",
-        -189.9321518987
+        -190
       ],
       [
         "Tcaron",
         "oslash",
-        -75.3417721519
+        -75
       ],
       [
         "Tcaron",
         "r",
-        -54.3417721519
+        -54
       ],
       [
         "Tcaron",
         "space",
-        -34.6911392405
+        -35
       ],
       [
         "Tcaron",
         "w",
-        -37.3921518987
+        -37
       ],
       [
         "Tcedilla",
         "AE",
-        -157.7678481013
+        -158
       ],
       [
         "Tcedilla",
         "ae",
-        -93.553164557
+        -94
       ],
       [
         "Tcedilla",
         "guillemotleft",
-        -288.2673417722
+        -288
       ],
       [
         "Tcedilla",
         "guillemotright",
-        -189.9321518987
+        -190
       ],
       [
         "Tcedilla",
         "oslash",
-        -75.3417721519
+        -75
       ],
       [
         "Tcedilla",
         "r",
-        -54.3417721519
+        -54
       ],
       [
         "Tcedilla",
         "space",
-        -34.6911392405
+        -35
       ],
       [
         "Tcedilla",
         "w",
-        -37.3921518987
+        -37
       ],
       [
         "Tcommaaccent",
         "AE",
-        -157.7678481013
+        -158
       ],
       [
         "Tcommaaccent",
         "ae",
-        -93.553164557
+        -94
       ],
       [
         "Tcommaaccent",
         "guillemotleft",
-        -288.2673417722
+        -288
       ],
       [
         "Tcommaaccent",
         "guillemotright",
-        -189.9321518987
+        -190
       ],
       [
         "Tcommaaccent",
         "oslash",
-        -75.3417721519
+        -75
       ],
       [
         "Tcommaaccent",
         "r",
-        -54.3417721519
+        -54
       ],
       [
         "Tcommaaccent",
         "space",
-        -34.6911392405
+        -35
       ],
       [
         "Tcommaaccent",
         "w",
-        -37.3921518987
+        -37
       ],
       [
         "Thorn",
         "asterisk",
-        -6.3088607595
+        -6
       ],
       [
         "Thorn",
         "at",
-        -4.7316455696
+        -5
       ],
       [
         "Thorn",
         "public.kern2.comma",
-        17.3493670886
+        17
       ],
       [
         "Thorn",
         "public.kern2.emdash",
-        -11.0405063291
+        -11
       ],
       [
         "V",
         "ampersand",
-        7.8860759494
+        8
       ],
       [
         "V",
         "asterisk",
-        -3.1544303797
+        -3
       ],
       [
         "V",
         "at",
-        14.1949367089
+        14
       ],
       [
         "V",
         "backslash",
-        -23.6582278481
+        -24
       ],
       [
         "V",
         "braceright",
-        16.8455696203
+        17
       ],
       [
         "V",
         "bracketright",
-        14.8455696203
+        15
       ],
       [
         "V",
         "parenright",
-        17.8455696203
+        18
       ],
       [
         "V",
         "public.kern2.A_UC",
-        -420.1708860759
+        -450
       ],
       [
         "V",
         "public.kern2.CG_UC",
-        -179.9496202532
+        -180
       ],
       [
         "V",
         "public.kern2.J_UC",
-        -330.1708860759
+        -330
       ],
       [
         "V",
         "public.kern2.Y_UC",
-        -10.3088607595
+        -210
       ],
       [
         "V",
         "public.kern2.a_LC",
-        -252.7448101266
+        -253
       ],
       [
         "V",
         "public.kern2.alpha",
-        -253.0602531646
+        -263
       ],
       [
         "V",
         "public.kern2.colon",
-        7.8860759494
+        8
       ],
       [
         "V",
         "public.kern2.comma",
-        31.5443037975
+        32
       ],
       [
         "V",
         "public.kern2.emdash",
-        5.8356962025
+        6
       ],
       [
         "V",
         "public.kern2.gamma",
-        -120.2650632911
+        -120
       ],
       [
         "V",
         "public.kern2.minute",
-        -9.4632911392
+        -9
       ],
       [
         "V",
         "public.kern2.mnpr_LC",
-        -115.2683544304
+        -115
       ],
       [
         "V",
         "public.kern2.o_LC",
-        -259.7448101266
+        -260
       ],
       [
         "V",
         "public.kern2.parens",
-        -3.1544303797
+        -3
       ],
       [
         "V",
         "public.kern2.u_LC",
-        -119.58379746840001
-      ],
-      [
-        "V",
-        "r",
-        -26.2683544304
+        -120
       ],
       [
         "V",
         "slash",
-        14.1949367089
+        14
       ],
       [
         "W",
         "braceright",
-        13.1073417722
+        13
       ],
       [
         "W",
         "bracketright",
-        10.1073417722
+        10
       ],
       [
         "W",
         "parenright",
-        14.1073417722
-      ],
-      [
-        "W",
-        "r",
-        -18.6878481013
+        14
       ],
       [
         "Wacute",
         "braceright",
-        13.1073417722
+        13
       ],
       [
         "Wacute",
         "bracketright",
-        10.1073417722
+        10
       ],
       [
         "Wacute",
         "parenright",
-        14.1073417722
+        14
       ],
       [
         "Wacute",
         "r",
-        -18.6878481013
+        -19
       ],
       [
         "Wcircumflex",
         "braceright",
-        13.1073417722
+        13
       ],
       [
         "Wcircumflex",
         "bracketright",
-        10.1073417722
+        10
       ],
       [
         "Wcircumflex",
         "parenright",
-        14.1073417722
+        14
       ],
       [
         "Wcircumflex",
         "r",
-        -18.6878481013
+        -19
       ],
       [
         "Wdieresis",
         "braceright",
-        13.1073417722
+        13
       ],
       [
         "Wdieresis",
         "bracketright",
-        10.1073417722
+        10
       ],
       [
         "Wdieresis",
         "parenright",
-        14.1073417722
+        14
       ],
       [
         "Wdieresis",
         "r",
-        -18.6878481013
+        -19
       ],
       [
         "Wgrave",
         "braceright",
-        13.1073417722
+        13
       ],
       [
         "Wgrave",
         "bracketright",
-        10.1073417722
+        10
       ],
       [
         "Wgrave",
         "parenright",
-        14.1073417722
+        14
       ],
       [
         "Wgrave",
         "r",
-        -18.6878481013
+        -19
       ],
       [
         "X",
         "V",
-        -30.208101265799996
+        -140
       ],
       [
         "X",
         "ampersand",
-        4.7316455696
+        5
       ],
       [
         "X",
         "asterisk",
-        4.7316455696
+        5
       ],
       [
         "X",
         "backslash",
-        -15.7721518987
+        -16
       ],
       [
         "X",
         "public.kern2.CG_UC",
-        -260.0569620253
+        -260
       ],
       [
         "X",
         "public.kern2.alpha",
-        -215.8992405063
+        -216
       ],
       [
         "X",
         "public.kern2.emdash",
-        7.8860759494
+        8
       ],
       [
         "X",
         "public.kern2.gamma",
-        -220.1106329114
+        -220
       ],
       [
         "X",
         "public.kern2.o_LC",
-        -216.6878481013
+        -217
       ],
       [
         "X",
         "public.kern2.u_LC",
-        -146.6878481013
+        -147
       ],
       [
         "X",
         "slash",
-        -14.1949367089
+        -14
       ],
       [
         "Y",
         "AE",
-        -84.8587341772
+        -85
       ],
       [
         "Y",
         "ae",
-        -40.8686075949
+        -41
       ],
       [
         "Y",
         "ampersand",
-        -15.2278481013
+        -15
       ],
       [
         "Y",
         "asterisk",
-        -47.8455696203
+        -48
       ],
       [
         "Y",
         "braceright",
-        16.8455696203
+        17
       ],
       [
         "Y",
         "bracketright",
-        15.8455696203
+        16
       ],
       [
         "Y",
         "bullet",
-        -39.9025316456
-      ],
-      [
-        "Y",
-        "f",
-        -179.5301265823
+        -40
       ],
       [
         "Y",
         "guillemotleft",
-        -72.066835443
+        -72
       ],
       [
         "Y",
         "guillemotright",
-        -44.9562025316
+        -45
       ],
       [
         "Y",
         "oslash",
-        -43.1303797468
+        -43
       ],
       [
         "Y",
         "parenright",
-        17.8455696203
-      ],
-      [
-        "Y",
-        "r",
-        -23.6506329114
-      ],
-      [
-        "Y",
-        "t",
-        -169.5301265823
+        18
       ],
       [
         "Yacute",
         "AE",
-        -84.8587341772
+        -85
       ],
       [
         "Yacute",
         "ae",
-        -40.8686075949
+        -41
       ],
       [
         "Yacute",
         "ampersand",
-        -26.2683544304
+        -26
       ],
       [
         "Yacute",
         "asterisk",
-        -43.2716455696
+        -43
       ],
       [
         "Yacute",
         "braceright",
-        16.8455696203
+        17
       ],
       [
         "Yacute",
         "bracketright",
-        15.8455696203
+        16
       ],
       [
         "Yacute",
         "bullet",
-        -39.9025316456
+        -40
       ],
       [
         "Yacute",
         "f",
-        -19.5301265823
+        -20
       ],
       [
         "Yacute",
         "guillemotleft",
-        -72.066835443
+        -72
       ],
       [
         "Yacute",
         "guillemotright",
-        -44.9562025316
+        -45
       ],
       [
         "Yacute",
         "oslash",
-        -43.1303797468
+        -43
       ],
       [
         "Yacute",
         "parenright",
-        17.8455696203
+        18
       ],
       [
         "Yacute",
         "r",
-        -23.6506329114
+        -24
       ],
       [
         "Yacute",
         "t",
-        -19.5301265823
+        -20
       ],
       [
         "Ycircumflex",
         "AE",
-        -84.8587341772
+        -85
       ],
       [
         "Ycircumflex",
         "ae",
-        -40.8686075949
+        -41
       ],
       [
         "Ycircumflex",
         "ampersand",
-        -26.2683544304
+        -26
       ],
       [
         "Ycircumflex",
         "asterisk",
-        -43.2716455696
+        -43
       ],
       [
         "Ycircumflex",
         "braceright",
-        16.8455696203
+        17
       ],
       [
         "Ycircumflex",
         "bracketright",
-        15.8455696203
+        16
       ],
       [
         "Ycircumflex",
         "bullet",
-        -39.9025316456
+        -40
       ],
       [
         "Ycircumflex",
         "f",
-        -19.5301265823
+        -20
       ],
       [
         "Ycircumflex",
         "guillemotleft",
-        -72.066835443
+        -72
       ],
       [
         "Ycircumflex",
         "guillemotright",
-        -44.9562025316
+        -45
       ],
       [
         "Ycircumflex",
         "oslash",
-        -43.1303797468
+        -43
       ],
       [
         "Ycircumflex",
         "parenright",
-        17.8455696203
+        18
       ],
       [
         "Ycircumflex",
         "r",
-        -23.6506329114
+        -24
       ],
       [
         "Ycircumflex",
         "t",
-        -19.5301265823
+        -20
       ],
       [
         "Ydieresis",
         "AE",
-        -84.8587341772
+        -85
       ],
       [
         "Ydieresis",
         "ae",
-        -40.8686075949
+        -41
       ],
       [
         "Ydieresis",
         "ampersand",
-        -26.2683544304
+        -26
       ],
       [
         "Ydieresis",
         "asterisk",
-        -43.2716455696
+        -43
       ],
       [
         "Ydieresis",
         "braceright",
-        16.8455696203
+        17
       ],
       [
         "Ydieresis",
         "bracketright",
-        15.8455696203
+        16
       ],
       [
         "Ydieresis",
         "bullet",
-        -39.9025316456
+        -40
       ],
       [
         "Ydieresis",
         "f",
-        -19.5301265823
+        -20
       ],
       [
         "Ydieresis",
         "guillemotleft",
-        -72.066835443
+        -72
       ],
       [
         "Ydieresis",
         "guillemotright",
-        -44.9562025316
+        -45
       ],
       [
         "Ydieresis",
         "oslash",
-        -43.1303797468
+        -43
       ],
       [
         "Ydieresis",
         "parenright",
-        17.8455696203
+        18
       ],
       [
         "Ydieresis",
         "r",
-        -23.6506329114
+        -24
       ],
       [
         "Ydieresis",
         "t",
-        -19.5301265823
+        -20
       ],
       [
         "Ydotbelow",
         "AE",
-        -84.8587341772
+        -85
       ],
       [
         "Ydotbelow",
         "ae",
-        -40.8686075949
+        -41
       ],
       [
         "Ydotbelow",
         "ampersand",
-        -26.2683544304
+        -26
       ],
       [
         "Ydotbelow",
         "asterisk",
-        -43.2716455696
+        -43
       ],
       [
         "Ydotbelow",
         "braceright",
-        16.8455696203
+        17
       ],
       [
         "Ydotbelow",
         "bracketright",
-        15.8455696203
+        16
       ],
       [
         "Ydotbelow",
         "bullet",
-        -39.9025316456
+        -40
       ],
       [
         "Ydotbelow",
         "f",
-        -19.5301265823
+        -20
       ],
       [
         "Ydotbelow",
         "guillemotleft",
-        -72.066835443
+        -72
       ],
       [
         "Ydotbelow",
         "guillemotright",
-        -44.9562025316
+        -45
       ],
       [
         "Ydotbelow",
         "oslash",
-        -43.1303797468
+        -43
       ],
       [
         "Ydotbelow",
         "parenright",
-        17.8455696203
+        18
       ],
       [
         "Ydotbelow",
         "r",
-        -23.6506329114
+        -24
       ],
       [
         "Ydotbelow",
         "t",
-        -19.5301265823
+        -20
       ],
       [
         "Ygrave",
         "AE",
-        -84.8587341772
+        -85
       ],
       [
         "Ygrave",
         "ae",
-        -40.8686075949
+        -41
       ],
       [
         "Ygrave",
         "ampersand",
-        -26.2683544304
+        -26
       ],
       [
         "Ygrave",
         "asterisk",
-        -43.2716455696
+        -43
       ],
       [
         "Ygrave",
         "braceright",
-        16.8455696203
+        17
       ],
       [
         "Ygrave",
         "bracketright",
-        15.8455696203
+        16
       ],
       [
         "Ygrave",
         "bullet",
-        -39.9025316456
+        -40
       ],
       [
         "Ygrave",
         "f",
-        -19.5301265823
+        -20
       ],
       [
         "Ygrave",
         "guillemotleft",
-        -72.066835443
+        -72
       ],
       [
         "Ygrave",
         "guillemotright",
-        -44.9562025316
+        -45
       ],
       [
         "Ygrave",
         "oslash",
-        -43.1303797468
+        -43
       ],
       [
         "Ygrave",
         "parenright",
-        17.8455696203
+        18
       ],
       [
         "Ygrave",
         "r",
-        -23.6506329114
+        -24
       ],
       [
         "Ygrave",
         "t",
-        -19.5301265823
+        -20
       ],
       [
         "Yhookabove",
         "AE",
-        -84.8587341772
+        -85
       ],
       [
         "Yhookabove",
         "ae",
-        -40.8686075949
+        -41
       ],
       [
         "Yhookabove",
         "ampersand",
-        -26.2683544304
+        -26
       ],
       [
         "Yhookabove",
         "asterisk",
-        -43.2716455696
+        -43
       ],
       [
         "Yhookabove",
         "braceright",
-        16.8455696203
+        17
       ],
       [
         "Yhookabove",
         "bracketright",
-        15.8455696203
+        16
       ],
       [
         "Yhookabove",
         "bullet",
-        -39.9025316456
+        -40
       ],
       [
         "Yhookabove",
         "f",
-        -19.5301265823
+        -20
       ],
       [
         "Yhookabove",
         "guillemotleft",
-        -72.066835443
+        -72
       ],
       [
         "Yhookabove",
         "guillemotright",
-        -44.9562025316
+        -45
       ],
       [
         "Yhookabove",
         "oslash",
-        -43.1303797468
+        -43
       ],
       [
         "Yhookabove",
         "parenright",
-        17.8455696203
+        18
       ],
       [
         "Yhookabove",
         "r",
-        -23.6506329114
+        -24
       ],
       [
         "Yhookabove",
         "t",
-        -19.5301265823
+        -20
       ],
       [
         "Ytilde",
         "AE",
-        -84.8587341772
+        -85
       ],
       [
         "Ytilde",
         "ae",
-        -40.8686075949
+        -41
       ],
       [
         "Ytilde",
         "ampersand",
-        -26.2683544304
+        -26
       ],
       [
         "Ytilde",
         "asterisk",
-        -43.2716455696
+        -43
       ],
       [
         "Ytilde",
         "braceright",
-        16.8455696203
+        17
       ],
       [
         "Ytilde",
         "bracketright",
-        15.8455696203
+        16
       ],
       [
         "Ytilde",
         "bullet",
-        -39.9025316456
+        -40
       ],
       [
         "Ytilde",
         "f",
-        -19.5301265823
+        -20
       ],
       [
         "Ytilde",
         "guillemotleft",
-        -72.066835443
+        -72
       ],
       [
         "Ytilde",
         "guillemotright",
-        -44.9562025316
+        -45
       ],
       [
         "Ytilde",
         "oslash",
-        -43.1303797468
+        -43
       ],
       [
         "Ytilde",
         "parenright",
-        17.8455696203
+        18
       ],
       [
         "Ytilde",
         "r",
-        -23.6506329114
+        -24
       ],
       [
         "Ytilde",
         "t",
-        -19.5301265823
-      ],
-      [
-        "Z",
-        "w",
-        -109.7415189873
+        -20
       ],
       [
         "Zacute",
         "w",
-        -23.7415189873
+        -24
       ],
       [
         "Zcaron",
         "w",
-        -23.7415189873
+        -24
       ],
       [
         "Zdotaccent",
         "w",
-        -23.7415189873
+        -24
       ],
       [
         "ampersand",
         "Eth",
-        -6.3088607595
+        -6
       ],
       [
         "ampersand",
         "Lslash",
-        -6.3088607595
+        -6
       ],
       [
         "ampersand",
         "V",
-        14.1949367089
+        14
       ],
       [
         "ampersand",
         "X",
-        -3.1544303797
+        -3
       ],
       [
         "ampersand",
         "lslash",
-        -6.3088607595
+        -6
       ],
       [
         "ampersand",
         "public.kern2.A_UC",
-        -7.8860759494
+        -8
       ],
       [
         "ampersand",
         "public.kern2.J_UC",
-        -7.8860759494
+        -8
       ],
       [
         "ampersand",
         "public.kern2.T_UC",
-        20.5037974684
+        21
       ],
       [
         "ampersand",
         "public.kern2.U_UC",
-        3.1544303797
+        3
       ],
       [
         "ampersand",
         "public.kern2.W_UC",
-        12.617721519
+        13
       ],
       [
         "ampersand",
         "public.kern2.Y_UC",
-        23.6582278481
+        24
       ],
       [
         "ampersand",
         "public.kern2.f_LC",
-        3.1544303797
+        3
       ],
       [
         "ampersand",
         "public.kern2.gamma",
-        4.7316455696
+        5
       ],
       [
         "ampersand",
         "public.kern2.w_LC",
-        4.7316455696
+        5
       ],
       [
         "apostrophemod",
         "w",
-        1.5367088608
+        2
       ],
       [
         "asterisk",
         "V",
-        -3.1544303797
+        -3
       ],
       [
         "asterisk",
         "X",
-        4.7316455696
+        5
       ],
       [
         "asterisk",
         "eth",
-        4.7316455696
+        5
       ],
       [
         "asterisk",
         "public.kern2.A_UC",
-        15.7721518987
+        16
       ],
       [
         "asterisk",
         "public.kern2.J_UC",
-        15.7721518987
+        16
       ],
       [
         "asterisk",
         "public.kern2.Y_UC",
-        3.1544303797
+        3
       ],
       [
         "asterisk",
         "public.kern2.a_LC",
-        4.7316455696
+        5
       ],
       [
         "asterisk",
         "public.kern2.alpha",
-        3.1544303797
+        3
       ],
       [
         "asterisk",
         "public.kern2.f_LC",
-        -9.4632911392
+        -9
       ],
       [
         "asterisk",
         "public.kern2.gamma",
-        -12.617721519
+        -13
       ],
       [
         "asterisk",
         "public.kern2.o_LC",
-        3.1544303797
+        3
       ],
       [
         "asterisk",
         "public.kern2.s_LC",
-        1.5772151899
+        2
       ],
       [
         "asterisk",
         "public.kern2.t_LC",
-        -11.0405063291
+        -11
       ],
       [
         "asterisk",
         "public.kern2.w_LC",
-        -9.4632911392
+        -9
       ],
       [
         "asterisk",
         "public.kern2.z_LC",
-        -4.7316455696
+        -5
       ],
       [
         "asterisk",
         "x",
-        -4.7316455696
+        -5
       ],
       [
         "at",
         "Eth",
-        -4.7316455696
+        -5
       ],
       [
         "at",
         "Lslash",
-        -3.1544303797
+        -3
       ],
       [
         "at",
         "V",
-        7.8860759494
+        8
       ],
       [
         "at",
         "X",
-        7.8860759494
+        8
       ],
       [
         "at",
         "lslash",
-        -3.1544303797
+        -3
       ],
       [
         "at",
         "public.kern2.J_UC",
-        -6.3088607595
+        -6
       ],
       [
         "at",
         "public.kern2.T_UC",
-        11.0405063291
+        11
       ],
       [
         "at",
         "public.kern2.W_UC",
-        3.1544303797
+        3
       ],
       [
         "at",
         "public.kern2.Y_UC",
-        17.3493670886
+        17
       ],
       [
         "backslash",
         "V",
-        14.1949367089
+        14
       ],
       [
         "backslash",
         "X",
-        -14.1949367089
+        -14
       ],
       [
         "backslash",
         "public.kern2.A_UC",
-        -18.9265822785
+        -19
       ],
       [
         "backslash",
         "public.kern2.CG_UC",
-        6.3088607595
+        6
       ],
       [
         "backslash",
         "public.kern2.J_UC",
-        -11.0405063291
+        -11
       ],
       [
         "backslash",
         "public.kern2.T_UC",
-        20.5037974684
+        21
       ],
       [
         "backslash",
         "public.kern2.U_UC",
-        4.7316455696
+        5
       ],
       [
         "backslash",
         "public.kern2.W_UC",
-        3.1544303797
+        3
       ],
       [
         "backslash",
         "public.kern2.Y_UC",
-        17.3493670886
+        17
       ],
       [
         "backslash",
         "public.kern2.Z_UC",
-        -12.617721519
+        -13
       ],
       [
         "backslash",
         "public.kern2.o_LC",
-        3.1544303797
+        3
       ],
       [
         "backslash",
         "public.kern2.z_LC",
-        -14.1949367089
+        -14
       ],
       [
         "backslash",
         "thorn",
-        -9.4632911392
+        -9
       ],
       [
         "backslash",
         "x",
-        -15.7721518987
+        -16
       ],
       [
         "braceleft",
         "J",
-        -17.8455696203
+        -18
       ],
       [
         "braceleft",
         "Jcircumflex",
-        -17.8455696203
+        -18
       ],
       [
         "braceleft",
         "U",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Uacute",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Ubreve",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Ucircumflex",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Udieresis",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Udotbelow",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Ugrave",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Uhookabove",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Uhungarumlaut",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Umacron",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Uogonek",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Uring",
-        -18.1610126582
+        -18
       ],
       [
         "braceleft",
         "Utilde",
-        -18.1610126582
+        -18
       ],
       [
         "bracketleft",
         "J",
-        -15.8455696203
+        -16
       ],
       [
         "bracketleft",
         "Jcircumflex",
-        -15.8455696203
+        -16
       ],
       [
         "bracketleft",
         "U",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Uacute",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Ubreve",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Ucircumflex",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Udieresis",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Udotbelow",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Ugrave",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Uhookabove",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Uhungarumlaut",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Umacron",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Uogonek",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Uring",
-        -16.1610126582
+        -16
       ],
       [
         "bracketleft",
         "Utilde",
-        -16.1610126582
+        -16
       ],
       [
         "e",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "eacute",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ebreve",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ecaron",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ecircumflex",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ecircumflexacute",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ecircumflexdotbelow",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ecircumflexgrave",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ecircumflexhookabove",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ecircumflextilde",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "edieresis",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "edotaccent",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "edotbelow",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "egrave",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ehookabove",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ellipsis",
@@ -31579,662 +31417,637 @@
       [
         "emacron",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "eogonek",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "eth",
         "public.kern2.comma",
-        4.7316455696
+        5
       ],
       [
         "eth",
         "public.kern2.emdash",
-        -7.8860759494
+        -8
       ],
       [
         "etilde",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "f",
         "apostrophemod",
-        -9.1817721519
+        -9
       ],
       [
         "f",
         "braceright",
-        -5.235443038
+        -5
       ],
       [
         "f",
         "bracketright",
-        -6.235443038
+        -6
       ],
       [
         "f",
         "c",
-        -91.2146835443
+        -91
       ],
       [
         "f",
         "cacute",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ccaron",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ccedilla",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ccircumflex",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "cdotaccent",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "d",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "dcaron",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "dzcaron",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "e",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "eacute",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ebreve",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ecaron",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ecircumflex",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ecircumflexacute",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ecircumflexdotbelow",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ecircumflexgrave",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ecircumflexhookabove",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ecircumflextilde",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "edblgrave",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "edieresis",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "edotaccent",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "edotbelow",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "egrave",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ehookabove",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "einvertedbreve",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "emacron",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "eogonek",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "etilde",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "g",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "gbreve",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "gcaron",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "gcircumflex",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "gcommaaccent",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "gdotaccent",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "minute",
-        -9.1817721519
+        -9
       ],
       [
         "f",
         "oe",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ohorn",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ohornacute",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ohorndotbelow",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ohorngrave",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "ohornhookabove",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "parenright",
-        -4.235443038
+        -4
       ],
       [
         "f",
         "q",
-        -21.2146835443
+        -21
       ],
       [
         "f",
         "quotedbl",
-        -9.1817721519
+        -9
       ],
       [
         "f",
         "quotedblleft",
-        -9.1817721519
+        -9
       ],
       [
         "f",
         "quotedblright",
-        -9.1817721519
+        -9
       ],
       [
         "f",
         "quoteleft",
-        -9.1817721519
+        -9
       ],
       [
         "f",
         "quoteright",
-        -9.1817721519
+        -9
       ],
       [
         "f",
         "quotesingle",
-        -9.1817721519
+        -9
       ],
       [
         "f",
         "second",
-        -9.1817721519
+        -9
       ],
       [
         "g",
         "backslash",
-        14.1949367089
+        14
       ],
       [
         "h",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "hcircumflex",
         "quoteright",
-        -70.382278481
-      ],
-      [
-        "k",
-        "c",
-        -237.8455696203
+        -70
       ],
       [
         "k",
         "cacute",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ccaron",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ccedilla",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ccircumflex",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "cdotaccent",
-        -17.8455696203
-      ],
-      [
-        "k",
-        "d",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "dcaron",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "dzcaron",
-        -17.8455696203
-      ],
-      [
-        "k",
-        "e",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "eacute",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ebreve",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ecaron",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ecircumflex",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ecircumflexacute",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ecircumflexdotbelow",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ecircumflexgrave",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ecircumflexhookabove",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ecircumflextilde",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "edblgrave",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "edieresis",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "edotaccent",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "edotbelow",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "egrave",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ehookabove",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "einvertedbreve",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "emacron",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "eogonek",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "etilde",
-        -17.8455696203
-      ],
-      [
-        "k",
-        "g",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "gbreve",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "gcaron",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "gcircumflex",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "gcommaaccent",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "gdotaccent",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "oe",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ohorn",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ohornacute",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ohorndotbelow",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ohorngrave",
-        -17.8455696203
+        -18
       ],
       [
         "k",
         "ohornhookabove",
-        -17.8455696203
-      ],
-      [
-        "k",
-        "q",
-        -17.8455696203
+        -18
       ],
       [
         "lslash",
         "ampersand",
-        4.7316455696
+        5
       ],
       [
         "lslash",
         "asterisk",
-        -1.5772151899
+        -2
       ],
       [
         "lslash",
         "at",
-        3.1544303797
+        3
       ],
       [
         "lslash",
         "public.kern2.minute",
-        -6.3088607595
+        -6
       ],
       [
         "m",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "minute",
         "w",
-        1.5367088608
+        2
       ],
       [
         "n",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "nacute",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "napostrophe",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ncaron",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ncommaaccent",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "ntilde",
         "quoteright",
-        -70.382278481
+        -70
       ],
       [
         "o",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "oacute",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "obreve",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "ocircumflex",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "ocircumflexacute",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "ocircumflexdotbelow",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "ocircumflexgrave",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "ocircumflexhookabove",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "ocircumflextilde",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "odblgrave",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "odieresis",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "odieresismacron",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "odotaccentmacron",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "odotbelow",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "ograve",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "ohookabove",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "ohorntilde",
@@ -32244,102 +32057,102 @@
       [
         "ohungarumlaut",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "oinvertedbreve",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "omacron",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "oogonek",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "otilde",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "otildemacron",
         "quoteright",
-        -74.1675949367
+        -74
       ],
       [
         "parenleft",
         "V",
-        17.8455696203
+        18
       ],
       [
         "parenleft",
         "W",
-        16.1610126582
+        16
       ],
       [
         "parenleft",
         "Wacute",
-        16.1610126582
+        16
       ],
       [
         "parenleft",
         "Wcircumflex",
-        16.1610126582
+        16
       ],
       [
         "parenleft",
         "Wdieresis",
-        16.1610126582
+        16
       ],
       [
         "parenleft",
         "Wgrave",
-        16.1610126582
+        16
       ],
       [
         "parenleft",
         "Y",
-        19.5301265823
+        20
       ],
       [
         "parenleft",
         "Yacute",
-        19.5301265823
+        20
       ],
       [
         "parenleft",
         "Ycircumflex",
-        19.5301265823
+        20
       ],
       [
         "parenleft",
         "Ydieresis",
-        19.5301265823
+        20
       ],
       [
         "parenleft",
         "Ydotbelow",
-        19.5301265823
+        20
       ],
       [
         "parenleft",
         "Ygrave",
-        19.5301265823
+        20
       ],
       [
         "parenleft",
         "Yhookabove",
-        19.5301265823
+        20
       ],
       [
         "parenleft",
         "Ytilde",
-        19.5301265823
+        20
       ],
       [
         "period",
@@ -32374,22 +32187,22 @@
       [
         "public.kern1.A_UC",
         "V",
-        -420.2782278481
+        -420
       ],
       [
         "public.kern1.A_UC",
         "asterisk",
-        15.7721518987
+        16
       ],
       [
         "public.kern1.A_UC",
         "at",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.A_UC",
         "backslash",
-        9.4632911392
+        9
       ],
       [
         "public.kern1.A_UC",
@@ -32399,7 +32212,7 @@
       [
         "public.kern1.A_UC",
         "public.kern2.CG_UC",
-        -170.2650632911
+        -170
       ],
       [
         "public.kern1.A_UC",
@@ -32409,7 +32222,7 @@
       [
         "public.kern1.A_UC",
         "public.kern2.J_UC",
-        -124.1949367089
+        -124
       ],
       [
         "public.kern1.A_UC",
@@ -32419,7 +32232,7 @@
       [
         "public.kern1.A_UC",
         "public.kern2.T_UC",
-        -379.6539240506
+        -380
       ],
       [
         "public.kern1.A_UC",
@@ -32429,7 +32242,7 @@
       [
         "public.kern1.A_UC",
         "public.kern2.U_UC",
-        -15.3187341772
+        -145
       ],
       [
         "public.kern1.A_UC",
@@ -32454,47 +32267,47 @@
       [
         "public.kern1.A_UC",
         "public.kern2.W_UC",
-        -280.1172151899
+        -280
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.Y_UC",
-        -415.1741772152
+        -415
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.colon",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.comma",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.gamma",
-        -330.11392405059996
+        -330
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.minute",
-        -108.2278481013
+        -108
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.o_LC",
-        -140.10734177220002
+        -140
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.t_LC",
-        2.6812658228
+        -245
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.u_LC",
-        -109.2650632911
+        -109
       ],
       [
         "public.kern1.A_UC",
@@ -32519,22 +32332,22 @@
       [
         "public.kern1.A_UC",
         "public.kern2.w_LC",
-        5.2048101266
+        -255
       ],
       [
         "public.kern1.A_UC",
         "public.kern2.z_LC",
-        -9.8926582278
+        -80
       ],
       [
         "public.kern1.A_UC",
         "question",
-        9.6210126582
+        10
       ],
       [
         "public.kern1.A_UC",
         "slash",
-        -18.9265822785
+        -19
       ],
       [
         "public.kern1.B_UC",
@@ -32559,47 +32372,47 @@
       [
         "public.kern1.C_UC",
         "V",
-        -140.42278481009998
+        -140
       ],
       [
         "public.kern1.C_UC",
         "asterisk",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.C_UC",
         "backslash",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.J_UC",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.T_UC",
-        -81.5772151899
+        -82
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.W_UC",
-        -90.4227848101
+        -90
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.emdash",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.minute",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.C_UC",
         "public.kern2.parens",
-        1.8926582278
+        2
       ],
       [
         "public.kern1.Chi",
@@ -32674,12 +32487,12 @@
       [
         "public.kern1.D_UC",
         "V",
-        -186.5301265823
+        -187
       ],
       [
         "public.kern1.D_UC",
         "X",
-        -276.5301265823
+        -267
       ],
       [
         "public.kern1.D_UC",
@@ -32689,12 +32502,12 @@
       [
         "public.kern1.D_UC",
         "public.kern2.AE_UC",
-        5.2048101266
+        5
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.A_UC",
-        -179.6878481013
+        -180
       ],
       [
         "public.kern1.D_UC",
@@ -32709,7 +32522,7 @@
       [
         "public.kern1.D_UC",
         "public.kern2.T_UC",
-        -173.7415189873
+        -140
       ],
       [
         "public.kern1.D_UC",
@@ -32724,27 +32537,27 @@
       [
         "public.kern1.D_UC",
         "public.kern2.Y_UC",
-        -248.1708860759
+        -248
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.Z_UC",
-        -140.3724050633
+        -140
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.colon",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.comma",
-        -93.382278481
+        -93
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.emdash",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.D_UC",
@@ -32754,7 +32567,7 @@
       [
         "public.kern1.D_UC",
         "slash",
-        6.3088607595
+        6
       ],
       [
         "public.kern1.Dtopbar",
@@ -32799,17 +32612,17 @@
       [
         "public.kern1.E_UC",
         "at",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.E_UC",
         "backslash",
-        -15.7721518987
+        -16
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.T_UC",
-        -42.1544303797
+        -42
       ],
       [
         "public.kern1.E_UC",
@@ -32824,57 +32637,57 @@
       [
         "public.kern1.E_UC",
         "public.kern2.alpha",
-        -77.0032911392
+        -77
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.emdash",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.f_LC",
-        2.8389873418
+        -147
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.gamma",
-        -212.8992405063
+        -213
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.minute",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.o_LC",
-        -97.0032911392
+        -97
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.u_LC",
-        -35.3187341772
+        -35
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.w_LC",
-        3.4698734177
+        -170
       ],
       [
         "public.kern1.E_UC",
         "slash",
-        -12.617721519
+        -13
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.emdash",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.G_UC",
         "slash",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.Gamma",
@@ -32984,42 +32797,42 @@
       [
         "public.kern1.JU_UC",
         "ampersand",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.JU_UC",
         "at",
-        1.5772151899
+        2
       ],
       [
         "public.kern1.JU_UC",
         "backslash",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.JU_UC",
         "public.kern2.A_UC",
-        -126.5301265823
+        -127
       ],
       [
         "public.kern1.JU_UC",
         "public.kern2.colon",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.JU_UC",
         "public.kern2.comma",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.JU_UC",
         "public.kern2.emdash",
-        -1.5772151899
+        -2
       ],
       [
         "public.kern1.JU_UC",
         "slash",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.J_UC",
@@ -33039,7 +32852,7 @@
       [
         "public.kern1.K_UC",
         "backslash",
-        -18.9265822785
+        -19
       ],
       [
         "public.kern1.K_UC",
@@ -33049,7 +32862,7 @@
       [
         "public.kern1.K_UC",
         "public.kern2.CG_UC",
-        -295.1106329114
+        -295
       ],
       [
         "public.kern1.K_UC",
@@ -33059,17 +32872,17 @@
       [
         "public.kern1.K_UC",
         "public.kern2.alpha",
-        -232.89924050629998
+        -233
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.comma",
-        -12.617721519
+        -13
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.emdash",
-        -55.9058227848
+        -56
       ],
       [
         "public.kern1.K_UC",
@@ -33079,27 +32892,27 @@
       [
         "public.kern1.K_UC",
         "public.kern2.gamma",
-        -344.6911392405
+        -345
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.minute",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.mnpr_LC",
-        -26.3724050633
+        -26
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.o_LC",
-        -243.7415189873
+        -244
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.u_LC",
-        -170.3724050633
+        -170
       ],
       [
         "public.kern1.K_UC",
@@ -33108,13 +32921,8 @@
       ],
       [
         "public.kern1.K_UC",
-        "public.kern2.w_LC",
-        9.9364556962
-      ],
-      [
-        "public.kern1.K_UC",
         "slash",
-        -22.0810126582
+        -22
       ],
       [
         "public.kern1.L.smcp",
@@ -33144,27 +32952,27 @@
       [
         "public.kern1.L_UC",
         "V",
-        -418.7075949367
+        -419
       ],
       [
         "public.kern1.L_UC",
         "ampersand",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.L_UC",
         "asterisk",
-        18.9265822785
+        19
       ],
       [
         "public.kern1.L_UC",
         "at",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.L_UC",
         "backslash",
-        15.7721518987
+        16
       ],
       [
         "public.kern1.L_UC",
@@ -33174,7 +32982,7 @@
       [
         "public.kern1.L_UC",
         "public.kern2.A_UC",
-        -99.9967088608
+        -100
       ],
       [
         "public.kern1.L_UC",
@@ -33184,7 +32992,7 @@
       [
         "public.kern1.L_UC",
         "public.kern2.CG_UC",
-        -139.74810126580002
+        -140
       ],
       [
         "public.kern1.L_UC",
@@ -33199,7 +33007,7 @@
       [
         "public.kern1.L_UC",
         "public.kern2.T_UC",
-        -452.1303797468
+        -452
       ],
       [
         "public.kern1.L_UC",
@@ -33209,7 +33017,7 @@
       [
         "public.kern1.L_UC",
         "public.kern2.U_UC",
-        -87.4830379747
+        -87
       ],
       [
         "public.kern1.L_UC",
@@ -33234,62 +33042,52 @@
       [
         "public.kern1.L_UC",
         "public.kern2.W_UC",
-        -260.1774683544
+        -260
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.Y_UC",
-        -480.19063291140003
+        -480
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.comma",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.gamma",
-        -337.0230379747
+        -337
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.minute",
-        -315.5093670886
+        -316
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.u_LC",
-        -29.0602531646
+        -29
       ],
       [
         "public.kern1.L_UC",
         "public.kern2.w_LC",
-        14.5103797468
+        -215
       ],
       [
         "public.kern1.L_UC",
         "slash",
-        -11.0405063291
+        -11
       ],
       [
         "public.kern1.LeftStraight_UC",
         "X",
-        -2.6812658228
+        -3
       ],
       [
         "public.kern1.LeftStraight_UC",
         "public.kern2.A_UC",
-        -2.8389873417999993
-      ],
-      [
-        "public.kern1.LeftStraight_UC",
-        "public.kern2.T_UC",
-        4.5739240506
-      ],
-      [
-        "public.kern1.LeftStraight_UC",
-        "public.kern2.Y_UC",
-        4.4162025316
+        -3
       ],
       [
         "public.kern1.P_UC",
@@ -33354,42 +33152,42 @@
       [
         "public.kern1.R_UC",
         "V",
-        2.9967088608
+        -157
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.T_UC",
-        12.617721519
+        -100
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.Y_UC",
-        7.5706329114
+        -202
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.comma",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.emdash",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.R_UC",
         "slash",
-        -12.617721519
+        -13
       ],
       [
         "public.kern1.S_UC",
         "backslash",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.S_UC",
         "public.kern2.emdash",
-        -1.5772151899
+        -2
       ],
       [
         "public.kern1.T.smcp",
@@ -33399,22 +33197,22 @@
       [
         "public.kern1.T_UC",
         "V",
-        -99.52354430380001
+        -100
       ],
       [
         "public.kern1.T_UC",
         "ampersand",
-        9.4632911392
+        9
       ],
       [
         "public.kern1.T_UC",
         "at",
-        11.0405063291
+        11
       ],
       [
         "public.kern1.T_UC",
         "backslash",
-        -25.235443038
+        -25
       ],
       [
         "public.kern1.T_UC",
@@ -33424,12 +33222,12 @@
       [
         "public.kern1.T_UC",
         "public.kern2.AE_UC",
-        28.2321518987
+        28
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.A_UC",
-        -69.54
+        -390
       ],
       [
         "public.kern1.T_UC",
@@ -33439,7 +33237,7 @@
       [
         "public.kern1.T_UC",
         "public.kern2.CG_UC",
-        -135.5837974684
+        -136
       ],
       [
         "public.kern1.T_UC",
@@ -33454,7 +33252,7 @@
       [
         "public.kern1.T_UC",
         "public.kern2.J_UC",
-        -443.76455696200003
+        -444
       ],
       [
         "public.kern1.T_UC",
@@ -33464,7 +33262,7 @@
       [
         "public.kern1.T_UC",
         "public.kern2.S_UC",
-        -64.47645569619999
+        -64
       ],
       [
         "public.kern1.T_UC",
@@ -33474,7 +33272,7 @@
       [
         "public.kern1.T_UC",
         "public.kern2.T_UC",
-        -35.5235443038
+        -36
       ],
       [
         "public.kern1.T_UC",
@@ -33494,37 +33292,37 @@
       [
         "public.kern1.T_UC",
         "public.kern2.W_UC",
-        -70.3658227848
+        -70
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.Y_UC",
-        -149.5235443038
+        -150
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.a_LC",
-        -419.553164557
+        -420
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.alpha",
-        -430.3417721519
+        -430
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.colon",
-        17.3493670886
+        17
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.comma",
-        -197.6101265823
+        -198
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.emdash",
-        -211.0329113924
+        -211
       ],
       [
         "public.kern1.T_UC",
@@ -33534,42 +33332,42 @@
       [
         "public.kern1.T_UC",
         "public.kern2.gamma",
-        -439.75797468350004
+        -440
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.guillemotleft",
-        51.7326582278
+        52
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.guillemotright",
-        34.0678481013
+        34
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.minute",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.mnpr_LC",
-        -340.3417721519
+        -340
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.o_LC",
-        -430.3417721519
+        -430
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.s_LC",
-        -430.2410126582
+        -430
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.u_LC",
-        -399.7075949367
+        -400
       ],
       [
         "public.kern1.T_UC",
@@ -33589,7 +33387,7 @@
       [
         "public.kern1.T_UC",
         "public.kern2.w_LC",
-        21.6078481013
+        22
       ],
       [
         "public.kern1.T_UC",
@@ -33599,22 +33397,22 @@
       [
         "public.kern1.T_UC",
         "public.kern2.z_LC",
-        -409.5367088608
+        -410
       ],
       [
         "public.kern1.T_UC",
         "slash",
-        20.5037974684
+        21
       ],
       [
         "public.kern1.T_UC",
         "space",
-        6.3088607595
+        6
       ],
       [
         "public.kern1.T_UC",
         "x",
-        -439.855443038
+        -440
       ],
       [
         "public.kern1.Upsilon",
@@ -33804,17 +33602,17 @@
       [
         "public.kern1.W_UC",
         "ampersand",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.W_UC",
         "at",
-        9.4632911392
+        9
       ],
       [
         "public.kern1.W_UC",
         "backslash",
-        -15.7721518987
+        -16
       ],
       [
         "public.kern1.W_UC",
@@ -33824,7 +33622,7 @@
       [
         "public.kern1.W_UC",
         "public.kern2.A_UC",
-        -280.2179746835
+        -310
       ],
       [
         "public.kern1.W_UC",
@@ -33834,252 +33632,252 @@
       [
         "public.kern1.W_UC",
         "public.kern2.T_UC",
-        -70.2081012658
+        -70
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.a_LC",
-        -188.7951898734
+        -189
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.alpha",
-        -167.1106329114
+        -167
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.colon",
-        6.3088607595
+        6
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.comma",
-        -108.6002531646
+        -109
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.emdash",
-        -54.1139240506
+        -54
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.minute",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.mnpr_LC",
-        -76.6878481013
+        -77
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.o_LC",
-        -167.1106329114
+        -167
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.parens",
-        -1.8926582278
+        -2
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.u_LC",
-        -77.0032911392
+        -77
       ],
       [
         "public.kern1.W_UC",
         "slash",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.Y_UC",
         "V",
-        -10.3088607595
+        -120
       ],
       [
         "public.kern1.Y_UC",
         "X",
-        -70.0503797468
+        -170
       ],
       [
         "public.kern1.Y_UC",
         "ampersand",
-        15.7721518987
+        16
       ],
       [
         "public.kern1.Y_UC",
         "asterisk",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.Y_UC",
         "at",
-        22.0810126582
+        22
       ],
       [
         "public.kern1.Y_UC",
         "backslash",
-        -23.6582278481
+        -24
       ],
       [
         "public.kern1.Y_UC",
         "eth",
-        14.1949367089
+        14
       ],
       [
         "public.kern1.Y_UC",
         "germandbls",
-        9.4632911392
+        9
       ],
       [
         "public.kern1.Y_UC",
         "lslash",
-        6.3088607595
+        6
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.AE_UC",
-        15.1412658228
+        15
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.A_UC",
-        -415.1741772152
+        -415
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.CG_UC",
-        -230.1708860759
+        -230
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.J_UC",
-        -465.395443038
+        -465
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.S_UC",
-        -177.4764556962
+        -177
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.T_UC",
-        -149.68126582280001
+        -150
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.W_UC",
-        -32.6812658228
+        -123
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.Y_UC",
-        -39.8389873418
+        -170
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.a_LC",
-        -345.8686075949
+        -346
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.alpha",
-        -357.13037974680003
+        -357
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.colon",
-        12.617721519
+        13
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.comma",
-        33.2792405063
+        33
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.emdash",
-        14.1949367089
+        14
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.f_LC",
-        3.4698734177
+        -167
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.gamma",
-        -170.5367088608
+        -171
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.guillemotleft",
-        12.933164557
+        13
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.guillemotright",
-        8.0437974684
+        8
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.minute",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.mnpr_LC",
-        -172.6506329114
+        -173
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.o_LC",
-        -357.13037974680003
+        -357
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.parens",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.s_LC",
-        -299.8116455696
+        -300
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.t_LC",
-        3.4698734177
+        -167
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.u_LC",
-        -164.3855696203
+        -164
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.w_LC",
-        -168.9594936709
+        -169
       ],
       [
         "public.kern1.Y_UC",
         "public.kern2.z_LC",
-        -178.9594936709
+        -179
       ],
       [
         "public.kern1.Y_UC",
         "slash",
-        17.3493670886
+        17
       ],
       [
         "public.kern1.Y_UC",
         "x",
-        -206.90911392409998
+        -207
       ],
       [
         "public.kern1.Z_UC",
         "backslash",
-        -12.617721519
+        -13
       ],
       [
         "public.kern1.Z_UC",
@@ -34089,7 +33887,7 @@
       [
         "public.kern1.Z_UC",
         "public.kern2.A_UC",
-        -99.05037974679999
+        -99
       ],
       [
         "public.kern1.Z_UC",
@@ -34099,7 +33897,7 @@
       [
         "public.kern1.Z_UC",
         "public.kern2.CG_UC",
-        -135.8992405063
+        -136
       ],
       [
         "public.kern1.Z_UC",
@@ -34109,57 +33907,57 @@
       [
         "public.kern1.Z_UC",
         "public.kern2.alpha",
-        -88.6878481013
+        -89
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.comma",
-        -12.617721519
+        -13
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.gamma",
-        -109.7415189873
+        -110
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.minute",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.o_LC",
-        -88.6878481013
+        -89
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.u_LC",
-        -37.0032911392
+        -37
       ],
       [
         "public.kern1.Z_UC",
         "public.kern2.w_LC",
-        4.2584810127
+        -116
       ],
       [
         "public.kern1.Z_UC",
         "slash",
-        -12.617721519
+        -13
       ],
       [
         "public.kern1.a_LC",
         "backslash",
-        22.0810126582
+        22
       ],
       [
         "public.kern1.a_LC",
         "public.kern2.gamma",
-        -143.6341772152
+        -144
       ],
       [
         "public.kern1.a_LC",
         "public.kern2.minute",
-        -60.4830379747
+        -60
       ],
       [
         "public.kern1.aemacron",
@@ -34174,37 +33972,37 @@
       [
         "public.kern1.b_LC",
         "asterisk",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.b_LC",
         "backslash",
-        14.1949367089
+        14
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.colon",
-        -96.8455696203
+        -97
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.comma",
-        -86.8455696203
+        -87
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.emdash",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.gamma",
-        -160.2650632911
+        -160
       ],
       [
         "public.kern1.b_LC",
         "public.kern2.minute",
-        -25.4260759494
+        -25
       ],
       [
         "public.kern1.b_LC",
@@ -34219,392 +34017,392 @@
       [
         "public.kern1.b_LC",
         "public.kern2.z_LC",
-        -83.6341772152
+        -84
       ],
       [
         "public.kern1.b_LC",
         "x",
-        -217.6341772152
+        -218
       ],
       [
         "public.kern1.c_LC",
         "V",
-        9.4632911392
+        9
       ],
       [
         "public.kern1.c_LC",
         "at",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.c_LC",
         "backslash",
-        9.4632911392
+        9
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.A_UC",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.J_UC",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.T_UC",
-        28.3898734177
+        28
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.U_UC",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.W_UC",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.emdash",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.f_LC",
-        -48.6746835443
+        -49
       ],
       [
         "public.kern1.c_LC",
         "public.kern2.minute",
-        -9.2650632911
+        -9
       ],
       [
         "public.kern1.c_LC",
         "slash",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.colon",
         "V",
-        7.8860759494
+        8
       ],
       [
         "public.kern1.colon",
         "public.kern2.A_UC",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.colon",
         "public.kern2.CG_UC",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.colon",
         "public.kern2.T_UC",
-        17.3493670886
+        17
       ],
       [
         "public.kern1.colon",
         "public.kern2.U_UC",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.colon",
         "public.kern2.W_UC",
-        6.3088607595
+        6
       ],
       [
         "public.kern1.colon",
         "public.kern2.Y_UC",
-        12.617721519
+        13
       ],
       [
         "public.kern1.colon",
         "public.kern2.alpha",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.colon",
         "public.kern2.o_LC",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.comma",
         "V",
-        31.5443037975
+        32
       ],
       [
         "public.kern1.comma",
         "eth",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.comma",
         "j",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.comma",
         "public.kern2.A_UC",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.comma",
         "public.kern2.CG_UC",
-        12.617721519
+        13
       ],
       [
         "public.kern1.comma",
         "public.kern2.J_UC",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.comma",
         "public.kern2.T_UC",
-        28.3898734177
+        28
       ],
       [
         "public.kern1.comma",
         "public.kern2.U_UC",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.comma",
         "public.kern2.W_UC",
-        19.3997468354
+        19
       ],
       [
         "public.kern1.comma",
         "public.kern2.Y_UC",
-        33.2792405063
+        33
       ],
       [
         "public.kern1.comma",
         "public.kern2.Z_UC",
-        -11.0405063291
+        -11
       ],
       [
         "public.kern1.comma",
         "public.kern2.alpha",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.comma",
         "public.kern2.f_LC",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.comma",
         "public.kern2.gamma",
-        17.3493670886
+        17
       ],
       [
         "public.kern1.comma",
         "public.kern2.minute",
-        -149.1873417722
+        -149
       ],
       [
         "public.kern1.comma",
         "public.kern2.o_LC",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.comma",
         "public.kern2.t_LC",
-        7.8860759494
+        8
       ],
       [
         "public.kern1.comma",
         "public.kern2.u_LC",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.comma",
         "public.kern2.w_LC",
-        19.5574683544
+        20
       ],
       [
         "public.kern1.comma",
         "x",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.e_LC",
         "V",
-        9.4632911392
+        9
       ],
       [
         "public.kern1.e_LC",
         "ampersand",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.e_LC",
         "at",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.e_LC",
         "backslash",
-        11.0405063291
+        11
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.A_UC",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.CG_UC",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.J_UC",
-        -11.0405063291
+        -11
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.T_UC",
-        23.6582278481
+        24
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.U_UC",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.W_UC",
-        6.3088607595
+        6
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.Y_UC",
-        19.7151898734
+        20
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.Z_UC",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.comma",
-        -54.731645569600005
+        -55
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.emdash",
-        0.38227848100000017
+        0
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.gamma",
-        -154.9496202532
+        -155
       ],
       [
         "public.kern1.e_LC",
         "public.kern2.minute",
-        2.2081012658
+        2
       ],
       [
         "public.kern1.e_LC",
         "slash",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.emdash",
         "Eth",
-        -14.1949367089
+        -14
       ],
       [
         "public.kern1.emdash",
         "Lslash",
-        -14.1949367089
+        -14
       ],
       [
         "public.kern1.emdash",
         "V",
-        5.8356962025
+        6
       ],
       [
         "public.kern1.emdash",
         "X",
-        7.8860759494
+        8
       ],
       [
         "public.kern1.emdash",
         "eth",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.emdash",
         "lslash",
-        -11.0405063291
+        -11
       ],
       [
         "public.kern1.emdash",
         "public.kern2.CG_UC",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.emdash",
         "public.kern2.T_UC",
-        29.9670886076
+        30
       ],
       [
         "public.kern1.emdash",
         "public.kern2.U_UC",
-        -1.5772151899
+        -2
       ],
       [
         "public.kern1.emdash",
         "public.kern2.W_UC",
-        7.8860759494
+        8
       ],
       [
         "public.kern1.emdash",
         "public.kern2.Y_UC",
-        14.1949367089
+        14
       ],
       [
         "public.kern1.emdash",
         "public.kern2.a_LC",
-        1.5772151899
+        2
       ],
       [
         "public.kern1.emdash",
         "public.kern2.alpha",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.emdash",
         "public.kern2.gamma",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.emdash",
         "public.kern2.o_LC",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.emdash",
         "public.kern2.t_LC",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.emdash",
         "public.kern2.w_LC",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.emdash",
         "x",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.eta",
@@ -34614,127 +34412,127 @@
       [
         "public.kern1.f_LC",
         "ampersand",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.f_LC",
         "asterisk",
-        -15.7721518987
+        -16
       ],
       [
         "public.kern1.f_LC",
         "backslash",
-        -37.853164557
+        -38
       ],
       [
         "public.kern1.f_LC",
         "j",
-        -0.19493670890000203
+        0
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.alpha",
-        3.7853164557
+        4
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.bhk_LC",
-        -9.617721519
+        -10
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.comma",
-        -199.6911392405
+        -200
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.f_LC",
-        -38.6746835443
+        -39
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.gamma",
-        -118.9265822785
+        -119
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.i_LC",
-        -0.19493670890000203
+        0
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.minute",
-        -26.1817721519
+        -26
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.parens",
-        -25.235443038
+        -25
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.t_LC",
-        -30.251898734199997
+        -30
       ],
       [
         "public.kern1.f_LC",
         "public.kern2.w_LC",
-        -24.983544303800002
+        -80
       ],
       [
         "public.kern1.gamma",
         "ampersand",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.gamma",
         "asterisk",
-        -12.617721519
+        -13
       ],
       [
         "public.kern1.gamma",
         "at",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.gamma",
         "backslash",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.gamma",
         "public.kern2.a_LC",
-        -163.6341772152
+        -164
       ],
       [
         "public.kern1.gamma",
         "public.kern2.alpha",
-        -169.9496202532
+        -170
       ],
       [
         "public.kern1.gamma",
         "public.kern2.comma",
-        -369.6506329114
+        -370
       ],
       [
         "public.kern1.gamma",
         "public.kern2.emdash",
-        -153.1544303797
+        -153
       ],
       [
         "public.kern1.gamma",
         "public.kern2.f_LC",
-        -2.0503797468
+        -112
       ],
       [
         "public.kern1.gamma",
         "public.kern2.minute",
-        6.5367088608
+        7
       ],
       [
         "public.kern1.gamma",
         "public.kern2.o_LC",
-        -163.6341772152
+        -164
       ],
       [
         "public.kern1.gamma",
@@ -34744,107 +34542,107 @@
       [
         "public.kern1.hmn_LC",
         "asterisk",
-        1.5772151899
+        2
       ],
       [
         "public.kern1.hmn_LC",
         "backslash",
-        22.0810126582
+        22
       ],
       [
         "public.kern1.hmn_LC",
         "public.kern2.minute",
-        8.5169620253
+        9
       ],
       [
         "public.kern1.k_LC",
         "ampersand",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.k_LC",
         "asterisk",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.k_LC",
         "public.kern2.alpha",
-        3.1544303797
+        -237
       ],
       [
         "public.kern1.k_LC",
         "public.kern2.colon",
-        -69.88607594940001
+        -70
       ],
       [
         "public.kern1.k_LC",
         "public.kern2.comma",
-        -69.617721519
+        -70
       ],
       [
         "public.kern1.k_LC",
         "public.kern2.emdash",
-        -340.5367088608
+        -341
       ],
       [
         "public.kern1.k_LC",
         "slash",
-        -18.9265822785
+        -19
       ],
       [
         "public.kern1.minute",
         "Eth",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.minute",
         "V",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.minute",
         "eth",
-        6.3088607595
+        6
       ],
       [
         "public.kern1.minute",
         "lslash",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.minute",
         "public.kern2.A_UC",
-        -108.2278481013
+        -108
       ],
       [
         "public.kern1.minute",
         "public.kern2.T_UC",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.minute",
         "public.kern2.W_UC",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.minute",
         "public.kern2.Y_UC",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.minute",
         "public.kern2.Z_UC",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.minute",
         "public.kern2.a_LC",
-        -44.1139240506
+        -44
       ],
       [
         "public.kern1.minute",
         "public.kern2.alpha",
-        -51.6944303797
+        -52
       ],
       [
         "public.kern1.minute",
@@ -34854,87 +34652,87 @@
       [
         "public.kern1.minute",
         "public.kern2.f_LC",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.minute",
         "public.kern2.gamma",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.minute",
         "public.kern2.minute",
-        -94.1237974684
+        -94
       ],
       [
         "public.kern1.minute",
         "public.kern2.mnpr_LC",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.minute",
         "public.kern2.o_LC",
-        -54.1675949367
+        -54
       ],
       [
         "public.kern1.minute",
         "public.kern2.s_LC",
-        -78.2683544304
+        -78
       ],
       [
         "public.kern1.minute",
         "public.kern2.t_LC",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.minute",
         "public.kern2.w_LC",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.minute",
         "public.kern2.z_LC",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.minute",
         "x",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.o_LC",
         "asterisk",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.o_LC",
         "backslash",
-        18.9265822785
+        19
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.colon",
-        -96.8455696203
+        -97
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.comma",
-        -86.8455696203
+        -87
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.emdash",
-        -6.3088607595
+        -6
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.gamma",
-        -163.6341772152
+        -164
       ],
       [
         "public.kern1.o_LC",
         "public.kern2.minute",
-        -60.1675949367
+        -60
       ],
       [
         "public.kern1.o_LC",
@@ -34949,167 +34747,167 @@
       [
         "public.kern1.o_LC",
         "public.kern2.z_LC",
-        -84.47645569619999
+        -84
       ],
       [
         "public.kern1.o_LC",
         "slash",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.o_LC",
         "x",
-        -239.6878481013
+        -240
       ],
       [
         "public.kern1.parens",
         "V",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.parens",
         "j",
-        -28.3898734177
+        -28
       ],
       [
         "public.kern1.parens",
         "public.kern2.J_UC",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.parens",
         "public.kern2.U_UC",
-        2.8389873418
+        3
       ],
       [
         "public.kern1.parens",
         "public.kern2.W_UC",
-        -2.8389873418
+        -3
       ],
       [
         "public.kern1.parens",
         "public.kern2.Y_UC",
-        -3.4698734177
+        -3
       ],
       [
         "public.kern1.parens",
         "public.kern2.gamma",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.r_LC",
         "ampersand",
-        7.8860759494
+        8
       ],
       [
         "public.kern1.r_LC",
         "asterisk",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.r_LC",
         "at",
-        3.1544303797
+        3
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.a_LC",
-        -64.69113924050001
+        -65
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.alpha",
-        -77.0032911392
+        -77
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.comma",
-        -278.6002531646
+        -279
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.f_LC",
-        -4.7316455696
+        -5
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.gamma",
-        -9.8389873418
+        -10
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.minute",
-        6.5903797468
+        7
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.o_LC",
-        -67.8455696203
+        -68
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.t_LC",
-        -7.8860759494
+        -8
       ],
       [
         "public.kern1.r_LC",
         "public.kern2.w_LC",
-        -2.6812658228
+        -3
       ],
       [
         "public.kern1.r_LC",
         "slash",
-        9.4632911392
+        9
       ],
       [
         "public.kern1.s_LC",
         "asterisk",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.s_LC",
         "backslash",
-        20.5037974684
+        21
       ],
       [
         "public.kern1.s_LC",
         "public.kern2.minute",
-        -53.6911392405
+        -54
       ],
       [
         "public.kern1.t_LC",
         "asterisk",
-        -1.5772151899
+        -2
       ],
       [
         "public.kern1.t_LC",
         "public.kern2.comma",
-        -4.731645569600001
+        -5
       ],
       [
         "public.kern1.t_LC",
         "public.kern2.minute",
-        -3.1544303797
+        -3
       ],
       [
         "public.kern1.t_LC",
         "public.kern2.o_LC",
-        3.1544303797
+        -90
       ],
       [
         "public.kern1.t_LC",
         "slash",
-        -14.1949367089
+        -14
       ],
       [
         "public.kern1.u_LC",
         "backslash",
-        15.7721518987
+        16
       ],
       [
         "public.kern1.u_LC",
         "public.kern2.T_UC",
-        21.2924050633
+        21
       ],
       [
         "public.kern1.uni0409",
@@ -35264,27 +35062,27 @@
       [
         "public.kern1.w_LC",
         "ampersand",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.w_LC",
         "asterisk",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.comma",
-        19.5574683544
+        20
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.emdash",
-        -83.1544303797
+        -83
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.minute",
-        -9.4632911392
+        -9
       ],
       [
         "public.kern1.x_LC",
@@ -35299,812 +35097,797 @@
       [
         "public.kern1.z_LC",
         "ampersand",
-        4.7316455696
+        5
       ],
       [
         "public.kern1.z_LC",
         "backslash",
-        6.3088607595
+        6
       ],
       [
         "public.kern1.z_LC",
         "public.kern2.alpha",
-        -74.47645569619999
+        -74
       ],
       [
         "public.kern1.z_LC",
         "public.kern2.o_LC",
-        -84.47645569619999
+        -84
       ],
       [
         "public.kern1.z_LC",
         "slash",
-        -9.4632911392
+        -9
       ],
       [
         "q",
         "backslash",
-        15.7721518987
+        16
       ],
       [
         "q",
         "j",
-        0.38227848100000017
+        0
       ],
       [
         "quotedbl",
         "w",
-        1.5367088608
+        2
       ],
       [
         "quotedblleft",
         "w",
-        1.5367088608
+        2
       ],
       [
         "quotedblright",
         "w",
-        1.5367088608
+        2
       ],
       [
         "quoteleft",
         "w",
-        1.5367088608
+        2
       ],
       [
         "quoteright",
         "h",
-        27.9529113924
+        28
       ],
       [
         "quoteright",
         "k",
-        27.9529113924
+        28
       ],
       [
         "quoteright",
         "l",
-        27.9529113924
+        28
       ],
       [
         "quoteright",
         "lj",
-        27.9529113924
+        28
       ],
       [
         "quoteright",
         "o",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "oacute",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "obreve",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "ocircumflex",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "ocircumflexacute",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "ocircumflexdotbelow",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "ocircumflexgrave",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "ocircumflexhookabove",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "ocircumflextilde",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "odblgrave",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "odieresis",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "odieresismacron",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "odotaccentmacron",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "odotbelow",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "ograve",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "ohookabove",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "ohorntilde",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "ohungarumlaut",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "oinvertedbreve",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "omacron",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "oogonek",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "otilde",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "otildemacron",
-        -112.8116455696
+        -113
       ],
       [
         "quoteright",
         "public.kern2.s_LC",
-        -65.3351898734
+        -65
       ],
       [
         "quoteright",
         "s",
-        -98.3351898734
+        -98
       ],
       [
         "quoteright",
         "sacute",
-        -98.3351898734
+        -98
       ],
       [
         "quoteright",
         "scaron",
-        -98.3351898734
+        -98
       ],
       [
         "quoteright",
         "scedilla",
-        -98.3351898734
+        -98
       ],
       [
         "quoteright",
         "scircumflex",
-        -98.3351898734
+        -98
       ],
       [
         "quoteright",
         "scommaaccent",
-        -98.3351898734
+        -98
       ],
       [
         "quoteright",
         "w",
-        1.5367088608
+        2
       ],
       [
         "quotesingle",
         "w",
-        1.5367088608
+        2
       ],
       [
         "r",
         "f",
-        0.2683544304000005
+        0
       ],
       [
         "r",
         "t",
-        0.11392405059999788
+        0
       ],
       [
         "r",
         "w",
-        -9.6812658228
+        -10
       ],
       [
         "racute",
         "f",
-        11.2683544304
+        11
       ],
       [
         "racute",
         "t",
-        44.1139240506
+        44
       ],
       [
         "racute",
         "w",
-        15.3187341772
+        15
       ],
       [
         "rcaron",
         "f",
-        11.2683544304
+        11
       ],
       [
         "rcaron",
         "t",
-        44.1139240506
+        44
       ],
       [
         "rcaron",
         "w",
-        15.3187341772
+        15
       ],
       [
         "rcommaaccent",
         "f",
-        11.2683544304
+        11
       ],
       [
         "rcommaaccent",
         "t",
-        44.1139240506
+        44
       ],
       [
         "rcommaaccent",
         "w",
-        15.3187341772
+        15
       ],
       [
         "rdblgrave",
         "f",
-        11.2683544304
+        11
       ],
       [
         "rdblgrave",
         "t",
-        44.1139240506
+        44
       ],
       [
         "rdblgrave",
         "w",
-        15.3187341772
+        15
       ],
       [
         "rinvertedbreve",
         "f",
-        11.2683544304
+        11
       ],
       [
         "rinvertedbreve",
         "t",
-        44.1139240506
+        44
       ],
       [
         "rinvertedbreve",
         "w",
-        15.3187341772
+        15
       ],
       [
         "schwa",
         "apostrophemod",
-        -12.7918987342
+        -13
       ],
       [
         "schwa",
         "minute",
-        -12.7918987342
+        -13
       ],
       [
         "schwa",
         "public.kern2.minute",
-        -138.7918987342
+        -139
       ],
       [
         "schwa",
         "quotedbl",
-        -12.7918987342
+        -13
       ],
       [
         "schwa",
         "quotedblleft",
-        -12.7918987342
+        -13
       ],
       [
         "schwa",
         "quotedblright",
-        -12.7918987342
+        -13
       ],
       [
         "schwa",
         "quoteleft",
-        -12.7918987342
+        -13
       ],
       [
         "schwa",
         "quoteright",
-        -12.7918987342
+        -13
       ],
       [
         "schwa",
         "quotesingle",
-        -12.7918987342
+        -13
       ],
       [
         "schwa",
         "second",
-        -12.7918987342
+        -13
       ],
       [
         "schwa",
         "v",
-        -10.6341772152
+        -11
       ],
       [
         "schwa",
         "y",
-        -10.6341772152
+        -11
       ],
       [
         "schwa",
         "yacute",
-        -10.6341772152
+        -11
       ],
       [
         "schwa",
         "ycircumflex",
-        -10.6341772152
+        -11
       ],
       [
         "schwa",
         "ydieresis",
-        -10.6341772152
+        -11
       ],
       [
         "schwa",
         "ydotbelow",
-        -10.6341772152
+        -11
       ],
       [
         "schwa",
         "ygrave",
-        -10.6341772152
+        -11
       ],
       [
         "schwa",
         "yhookabove",
-        -10.6341772152
+        -11
       ],
       [
         "schwa",
         "ymacron",
-        -10.6341772152
+        -11
       ],
       [
         "schwa",
         "ytilde",
-        -10.6341772152
+        -11
       ],
       [
         "second",
         "w",
-        1.5367088608
+        2
       ],
       [
         "slash",
         "Eth",
-        -4.7316455696
+        -5
       ],
       [
         "slash",
         "V",
-        -23.6582278481
+        -24
       ],
       [
         "slash",
         "X",
-        -15.7721518987
+        -16
       ],
       [
         "slash",
         "eth",
-        4.7316455696
+        5
       ],
       [
         "slash",
         "public.kern2.A_UC",
-        9.4632911392
+        9
       ],
       [
         "slash",
         "public.kern2.J_UC",
-        11.0405063291
+        11
       ],
       [
         "slash",
         "public.kern2.S_UC",
-        -1.5772151899
+        -2
       ],
       [
         "slash",
         "public.kern2.T_UC",
-        -22.0810126582
+        -22
       ],
       [
         "slash",
         "public.kern2.U_UC",
-        -6.3088607595
+        -6
       ],
       [
         "slash",
         "public.kern2.W_UC",
-        -15.7721518987
+        -16
       ],
       [
         "slash",
         "public.kern2.Y_UC",
-        -23.6582278481
+        -24
       ],
       [
         "slash",
         "public.kern2.Z_UC",
-        -14.1949367089
+        -14
       ],
       [
         "slash",
         "public.kern2.a_LC",
-        22.0810126582
+        22
       ],
       [
         "slash",
         "public.kern2.alpha",
-        20.5037974684
+        21
       ],
       [
         "slash",
         "public.kern2.f_LC",
-        -3.1544303797
+        -3
       ],
       [
         "slash",
         "public.kern2.gamma",
-        -3.1544303797
+        -3
       ],
       [
         "slash",
         "public.kern2.mnpr_LC",
-        17.3493670886
+        17
       ],
       [
         "slash",
         "public.kern2.o_LC",
-        20.5037974684
+        21
       ],
       [
         "slash",
         "public.kern2.s_LC",
-        18.9265822785
+        19
       ],
       [
         "slash",
         "public.kern2.t_LC",
-        -7.8860759494
+        -8
       ],
       [
         "slash",
         "public.kern2.u_LC",
-        17.3493670886
+        17
       ],
       [
         "slash",
         "public.kern2.z_LC",
-        3.1544303797
+        3
       ],
       [
         "slash",
         "slash",
-        -196.6703797468
+        -197
       ],
       [
         "slash",
         "x",
-        1.5772151899
+        2
       ],
       [
         "space",
         "T",
-        -34.6911392405
+        -35
       ],
       [
         "space",
         "Tcaron",
-        -34.6911392405
+        -35
       ],
       [
         "space",
         "Tcedilla",
-        -34.6911392405
+        -35
       ],
       [
         "space",
         "Tcommaaccent",
-        -34.6911392405
+        -35
       ],
       [
         "space",
         "public.kern2.T_UC",
-        6.3088607595
-      ],
-      [
-        "t",
-        "o",
-        -97.8455696203
+        6
       ],
       [
         "t",
         "oacute",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "obreve",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "ocircumflex",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "ocircumflexacute",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "ocircumflexdotbelow",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "ocircumflexgrave",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "ocircumflexhookabove",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "ocircumflextilde",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "odblgrave",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "odieresis",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "odieresismacron",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "odotaccentmacron",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "odotbelow",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "ograve",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "ohookabove",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "ohorntilde",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "ohungarumlaut",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "oinvertedbreve",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "omacron",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "oogonek",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "otilde",
-        -17.8455696203
+        -18
       ],
       [
         "t",
         "otildemacron",
-        -17.8455696203
-      ],
-      [
-        "v",
-        "f",
-        -30.05037974679999
+        -18
       ],
       [
         "w",
         "comma",
-        -270.4425316456
+        -270
       ],
       [
         "w",
         "ellipsis",
-        -109.4425316456
+        -109
       ],
       [
         "w",
         "period",
-        -109.4425316456
+        -109
       ],
       [
         "w",
         "quotedblbase",
-        -109.4425316456
+        -109
       ],
       [
         "w",
         "quotesinglbase",
-        -109.4425316456
+        -109
       ],
       [
         "x",
         "ampersand",
-        3.1544303797
+        3
       ],
       [
         "x",
         "asterisk",
-        -4.7316455696
+        -5
       ],
       [
         "x",
         "backslash",
-        1.5772151899
+        2
       ],
       [
         "x",
         "public.kern2.alpha",
-        -226.8455696203
+        -227
       ],
       [
         "x",
         "public.kern2.comma",
-        -74.7316455696
+        -75
       ],
       [
         "x",
         "public.kern2.emdash",
-        -245.2683544304
+        -245
       ],
       [
         "x",
         "public.kern2.minute",
-        -24.7316455696
+        -25
       ],
       [
         "x",
         "public.kern2.o_LC",
-        -229.8455696203
+        -230
       ],
       [
         "x",
         "slash",
-        -15.7721518987
-      ],
-      [
-        "y",
-        "f",
-        10.9496202532
+        -16
       ],
       [
         "yacute",
         "f",
-        10.9496202532
+        11
       ],
       [
         "ycircumflex",
         "f",
-        10.9496202532
+        11
       ],
       [
         "ydieresis",
         "f",
-        10.9496202532
+        11
       ],
       [
         "ydotbelow",
         "f",
-        10.9496202532
+        11
       ],
       [
         "ygrave",
         "f",
-        10.9496202532
+        11
       ],
       [
         "yhookabove",
         "f",
-        10.9496202532
+        11
       ],
       [
         "ymacron",
         "f",
-        10.9496202532
+        11
       ],
       [
         "ytilde",
         "f",
-        10.9496202532
+        11
       ],
       [
         "public.kern1.a_LC",
@@ -36334,17 +36117,17 @@
       [
         "public.kern1.w_LC",
         "public.kern2.f_LC",
-        -30
+        -100
       ],
       [
         "public.kern1.f_LC",
         "x",
-        -80
+        -190
       ],
       [
         "x",
         "public.kern2.f_LC",
-        -60
+        -110
       ],
       [
         "public.kern1.f_LC",
@@ -36379,7 +36162,7 @@
       [
         "public.kern1.hmn_LC",
         "x",
-        -10
+        -50
       ],
       [
         "public.kern1.k_LC",
@@ -36392,11 +36175,6 @@
         -20
       ],
       [
-        "public.kern1.gamma",
-        "j",
-        -20
-      ],
-      [
         "public.kern1.j_LC",
         "public.kern2.w_LC",
         -20
@@ -36404,11 +36182,6 @@
       [
         "public.kern1.j_LC",
         "public.kern2.gamma",
-        -20
-      ],
-      [
-        "public.kern1.w_LC",
-        "j",
         -20
       ],
       [
@@ -36439,32 +36212,32 @@
       [
         "public.kern1.k_LC",
         "public.kern2.t_LC",
-        -100
+        -280
       ],
       [
         "public.kern1.k_LC",
         "public.kern2.u_LC",
-        -90
-      ],
-      [
-        "public.kern1.k_LC",
-        "public.kern2.gamma",
         -150
       ],
       [
         "public.kern1.k_LC",
+        "public.kern2.gamma",
+        -250
+      ],
+      [
+        "public.kern1.k_LC",
         "public.kern2.w_LC",
-        -140
+        -210
       ],
       [
         "public.kern1.k_LC",
         "x",
-        -50
+        -100
       ],
       [
         "public.kern1.k_LC",
         "public.kern2.z_LC",
-        -20
+        -100
       ],
       [
         "public.kern1.o_LC",
@@ -36564,22 +36337,22 @@
       [
         "public.kern1.t_LC",
         "public.kern2.gamma",
-        -30
+        -120
       ],
       [
         "public.kern1.gamma",
         "public.kern2.t_LC",
-        -30
+        -120
       ],
       [
         "public.kern1.t_LC",
         "public.kern2.w_LC",
-        -20
+        -80
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.t_LC",
-        -20
+        -90
       ],
       [
         "public.kern1.t_LC",
@@ -36589,52 +36362,52 @@
       [
         "x",
         "public.kern2.t_LC",
-        -40
+        -180
       ],
       [
         "public.kern1.z_LC",
         "public.kern2.t_LC",
-        -20
+        -30
       ],
       [
         "x",
         "public.kern2.u_LC",
-        -20
+        -90
       ],
       [
         "public.kern1.z_LC",
         "public.kern2.u_LC",
-        -20
+        -30
       ],
       [
         "public.kern1.gamma",
         "public.kern2.gamma",
-        -30
+        -120
       ],
       [
         "public.kern1.gamma",
         "public.kern2.w_LC",
-        -30
+        -100
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.gamma",
-        -30
+        -90
       ],
       [
         "public.kern1.gamma",
         "x",
-        -60
+        -180
       ],
       [
         "x",
         "public.kern2.gamma",
-        -60
+        -150
       ],
       [
         "public.kern1.gamma",
         "public.kern2.z_LC",
-        -20
+        -130
       ],
       [
         "public.kern1.z_LC",
@@ -36644,22 +36417,22 @@
       [
         "public.kern1.w_LC",
         "public.kern2.w_LC",
-        -30
+        -80
       ],
       [
         "public.kern1.w_LC",
         "x",
-        -70
+        -160
       ],
       [
         "x",
         "public.kern2.w_LC",
-        -60
+        -140
       ],
       [
         "public.kern1.w_LC",
         "public.kern2.z_LC",
-        -20
+        -110
       ],
       [
         "public.kern1.z_LC",
@@ -36669,7 +36442,7 @@
       [
         "x",
         "x",
-        -50
+        -60
       ],
       [
         "public.kern1.A_UC",
@@ -36694,7 +36467,7 @@
       [
         "public.kern1.A_UC",
         "x",
-        -50
+        -160
       ],
       [
         "B",
@@ -36749,7 +36522,7 @@
       [
         "public.kern1.C_UC",
         "public.kern2.a_LC",
-        -10
+        -20
       ],
       [
         "public.kern1.C_UC",
@@ -36829,7 +36602,7 @@
       [
         "public.kern1.E_UC",
         "x",
-        -10
+        -180
       ],
       [
         "F",
@@ -36864,17 +36637,17 @@
       [
         "public.kern1.G_UC",
         "public.kern2.gamma",
-        -20
+        -100
       ],
       [
         "public.kern1.G_UC",
         "public.kern2.w_LC",
-        -20
+        -70
       ],
       [
         "public.kern1.G_UC",
         "x",
-        -41
+        -111
       ],
       [
         "public.kern1.JU_UC",
@@ -36924,12 +36697,12 @@
       [
         "public.kern1.K_UC",
         "x",
-        -90
+        -260
       ],
       [
         "public.kern1.K_UC",
         "public.kern2.z_LC",
-        -10
+        -110
       ],
       [
         "public.kern1.L_UC",
@@ -36964,7 +36737,7 @@
       [
         "public.kern1.L_UC",
         "x",
-        -30
+        -200
       ],
       [
         "P",
@@ -36999,7 +36772,7 @@
       [
         "Q",
         "public.kern2.s_LC",
-        -10
+        -20
       ],
       [
         "Q",
@@ -37009,12 +36782,12 @@
       [
         "Q",
         "public.kern2.gamma",
-        -60
+        -70
       ],
       [
         "Q",
         "public.kern2.w_LC",
-        -50
+        -60
       ],
       [
         "Q",
@@ -37119,17 +36892,17 @@
       [
         "public.kern1.S_UC",
         "public.kern2.gamma",
-        -30
+        -160
       ],
       [
         "public.kern1.S_UC",
         "public.kern2.w_LC",
-        -30
+        -120
       ],
       [
         "public.kern1.S_UC",
         "x",
-        -70
+        -170
       ],
       [
         "public.kern1.S_UC",
@@ -37264,12 +37037,12 @@
       [
         "X",
         "x",
-        -60
+        -120
       ],
       [
         "X",
         "public.kern2.z_LC",
-        -10
+        -70
       ],
       [
         "public.kern1.Z_UC",
@@ -37319,7 +37092,7 @@
       [
         "public.kern1.K_UC",
         "public.kern2.A_UC",
-        -50
+        -190
       ],
       [
         "Q",
@@ -37329,17 +37102,17 @@
       [
         "public.kern1.R_UC",
         "public.kern2.A_UC",
-        -60
+        -130
       ],
       [
         "public.kern1.A_UC",
         "X",
-        -60
+        -190
       ],
       [
         "X",
         "public.kern2.A_UC",
-        -60
+        -180
       ],
       [
         "B",
@@ -37394,12 +37167,12 @@
       [
         "public.kern1.R_UC",
         "public.kern2.CG_UC",
-        -40
+        -50
       ],
       [
         "P",
         "public.kern2.CG_UC",
-        -10
+        -20
       ],
       [
         "public.kern1.C_UC",
@@ -37414,7 +37187,7 @@
       [
         "public.kern1.W_UC",
         "public.kern2.CG_UC",
-        -120
+        -130
       ],
       [
         "public.kern1.C_UC",
@@ -37464,12 +37237,12 @@
       [
         "public.kern1.E_UC",
         "V",
-        -30
+        -130
       ],
       [
         "public.kern1.E_UC",
         "public.kern2.W_UC",
-        -30
+        -100
       ],
       [
         "public.kern1.E_UC",
@@ -37479,7 +37252,7 @@
       [
         "public.kern1.E_UC",
         "public.kern2.Y_UC",
-        -50
+        -150
       ],
       [
         "F",
@@ -37499,12 +37272,12 @@
       [
         "F",
         "X",
-        -60
+        -200
       ],
       [
         "F",
         "public.kern2.Y_UC",
-        -40
+        -170
       ],
       [
         "F",
@@ -37704,12 +37477,12 @@
       [
         "public.kern1.R_UC",
         "X",
-        -50
+        -150
       ],
       [
         "public.kern1.R_UC",
         "public.kern2.Z_UC",
-        -20
+        -70
       ],
       [
         "public.kern1.S_UC",
@@ -37804,12 +37577,12 @@
       [
         "V",
         "X",
-        -30
+        -180
       ],
       [
         "V",
         "public.kern2.Z_UC",
-        -20
+        -140
       ],
       [
         "public.kern1.Z_UC",
@@ -37819,27 +37592,27 @@
       [
         "public.kern1.W_UC",
         "public.kern2.W_UC",
-        -30
+        -120
       ],
       [
         "public.kern1.W_UC",
         "X",
-        -60
+        -130
       ],
       [
         "X",
         "public.kern2.W_UC",
-        -60
+        -130
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.Y_UC",
-        -30
+        -100
       ],
       [
         "public.kern1.W_UC",
         "public.kern2.Z_UC",
-        -20
+        -100
       ],
       [
         "public.kern1.Z_UC",
@@ -37854,12 +37627,12 @@
       [
         "X",
         "public.kern2.Y_UC",
-        -70
+        -170
       ],
       [
         "X",
         "public.kern2.Z_UC",
-        -20
+        -40
       ],
       [
         "public.kern1.Z_UC",
@@ -37869,7 +37642,7 @@
       [
         "public.kern1.Y_UC",
         "public.kern2.Z_UC",
-        -20
+        -160
       ],
       [
         "public.kern1.Z_UC",
@@ -38190,6 +37963,131 @@
         "public.kern1.z_LC",
         "public.kern2.minute",
         -10
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.S_UC",
+        -120
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.Z_UC",
+        -100
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.S_UC",
+        -10
+      ],
+      [
+        "Q",
+        "public.kern2.Y_UC",
+        -240
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.A_UC",
+        -120
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.J_UC",
+        -10
+      ],
+      [
+        "V",
+        "public.kern2.U_UC",
+        -20
+      ],
+      [
+        "V",
+        "V",
+        -130
+      ],
+      [
+        "V",
+        "public.kern2.W_UC",
+        -110
+      ],
+      [
+        "public.kern1.W_UC",
+        "V",
+        -100
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.z_LC",
+        -10
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.u_LC",
+        -50
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.u_LC",
+        -20
+      ],
+      [
+        "x",
+        "public.kern2.z_LC",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.alpha",
+        -10
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.z_LC",
+        -10
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.alpha",
+        -10
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.o_LC",
+        -10
+      ],
+      [
+        "F",
+        "public.kern2.a_LC",
+        -150
+      ],
+      [
+        "F",
+        "public.kern2.o_LC",
+        -90
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.w_LC",
+        -280
+      ],
+      [
+        "Q",
+        "public.kern2.alpha",
+        -10
+      ],
+      [
+        "Q",
+        "public.kern2.o_LC",
+        -10
+      ],
+      [
+        "Q",
+        "public.kern2.u_LC",
+        -5
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.a_LC",
+        -20
       ]
     ]
   }

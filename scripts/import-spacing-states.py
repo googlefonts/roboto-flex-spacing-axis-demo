@@ -30,7 +30,7 @@ for jsonFile in jsonFiles:
 
 # collect related ufo sources
 drawingsFolder    = '1A-drawings'
-sourcesSubFolders = ['Mains', 'Duovars']
+sourcesSubFolders = ['Mains', 'Duovars', 'Trivars']
 sources = {}
 for subFolder in sourcesSubFolders:
     subFolderPath = os.path.join(sourcesFolder, drawingsFolder, subFolder)

@@ -23023,16 +23023,6 @@
         -270
       ],
       [
-        "A",
-        "t",
-        -245
-      ],
-      [
-        "A",
-        "w",
-        -295
-      ],
-      [
         "Aacute",
         "Uhorn",
         -136
@@ -23623,16 +23613,6 @@
         -530
       ],
       [
-        "E",
-        "f",
-        -171
-      ],
-      [
-        "E",
-        "w",
-        -520
-      ],
-      [
         "Eacute",
         "f",
         -171
@@ -23829,11 +23809,6 @@
       ],
       [
         "F",
-        "A",
-        -533
-      ],
-      [
-        "F",
         "Aacute",
         -533
       ],
@@ -23954,11 +23929,6 @@
       ],
       [
         "F",
-        "J",
-        -648
-      ],
-      [
-        "F",
         "Jcircumflex",
         -648
       ],
@@ -23981,11 +23951,6 @@
         "F",
         "Tcommaaccent",
         -227
-      ],
-      [
-        "F",
-        "a",
-        -161
       ],
       [
         "F",
@@ -24109,11 +24074,6 @@
       ],
       [
         "F",
-        "c",
-        -109
-      ],
-      [
-        "F",
         "cacute",
         -109
       ],
@@ -24144,11 +24104,6 @@
       ],
       [
         "F",
-        "d",
-        -109
-      ],
-      [
-        "F",
         "dcaron",
         -459
       ],
@@ -24156,11 +24111,6 @@
         "F",
         "dzcaron",
         -519
-      ],
-      [
-        "F",
-        "e",
-        -109
       ],
       [
         "F",
@@ -24264,11 +24214,6 @@
       ],
       [
         "F",
-        "g",
-        -109
-      ],
-      [
-        "F",
         "gbreve",
         -109
       ],
@@ -24291,11 +24236,6 @@
         "F",
         "gdotaccent",
         -109
-      ],
-      [
-        "F",
-        "o",
-        -119
       ],
       [
         "F",
@@ -24444,11 +24384,6 @@
       ],
       [
         "F",
-        "q",
-        -109
-      ],
-      [
-        "F",
         "quotedblbase",
         -711
       ],
@@ -24456,16 +24391,6 @@
         "F",
         "quotesinglbase",
         -711
-      ],
-      [
-        "F",
-        "r",
-        -103
-      ],
-      [
-        "F",
-        "u",
-        -105
       ],
       [
         "F",
@@ -24569,16 +24494,6 @@
       ],
       [
         "F",
-        "v",
-        -202
-      ],
-      [
-        "F",
-        "y",
-        -202
-      ],
-      [
-        "F",
         "yacute",
         -202
       ],
@@ -24618,19 +24533,9 @@
         -202
       ],
       [
-        "K",
-        "w",
-        -412
-      ],
-      [
         "Kcommaaccent",
         "w",
         -412
-      ],
-      [
-        "L",
-        "w",
-        -583
       ],
       [
         "Lacute",
@@ -24768,16 +24673,6 @@
         -588
       ],
       [
-        "P",
-        "t",
-        -17
-      ],
-      [
-        "Q",
-        "T",
-        -164
-      ],
-      [
         "Q",
         "Tcaron",
         -164
@@ -24800,7 +24695,7 @@
       [
         "Q",
         "W",
-        -483
+        -123
       ],
       [
         "Q",
@@ -24825,7 +24720,7 @@
       [
         "Q",
         "Y",
-        -232
+        -202
       ],
       [
         "Q",
@@ -24864,11 +24759,6 @@
       ],
       [
         "R",
-        "T",
-        -162
-      ],
-      [
-        "R",
         "Tcaron",
         -162
       ],
@@ -24881,16 +24771,6 @@
         "R",
         "Tcommaaccent",
         -162
-      ],
-      [
-        "R",
-        "V",
-        -192
-      ],
-      [
-        "R",
-        "Y",
-        -233
       ],
       [
         "R",
@@ -24959,18 +24839,8 @@
       ],
       [
         "T",
-        "r",
-        -438
-      ],
-      [
-        "T",
         "space",
         -536
-      ],
-      [
-        "T",
-        "w",
-        -441
       ],
       [
         "Tbar",
@@ -25148,11 +25018,6 @@
         -17
       ],
       [
-        "V",
-        "r",
-        -322
-      ],
-      [
         "W",
         "braceright",
         -17
@@ -25166,11 +25031,6 @@
         "W",
         "parenright",
         -16
-      ],
-      [
-        "W",
-        "r",
-        -274
       ],
       [
         "Wacute",
@@ -25289,11 +25149,6 @@
       ],
       [
         "Y",
-        "f",
-        -255
-      ],
-      [
-        "Y",
         "guillemotleft",
         -459
       ],
@@ -25313,16 +25168,6 @@
         -17
       ],
       [
-        "Y",
-        "r",
-        -391
-      ],
-      [
-        "Y",
-        "t",
-        -390
-      ],
-      [
         "Yacute",
         "AE",
         -587
@@ -25811,11 +25656,6 @@
         "Ytilde",
         "t",
         -390
-      ],
-      [
-        "Z",
-        "w",
-        -444
       ],
       [
         "Zacute",
@@ -26094,11 +25934,6 @@
       ],
       [
         "f",
-        "c",
-        -262
-      ],
-      [
-        "f",
         "cacute",
         -262
       ],
@@ -26124,11 +25959,6 @@
       ],
       [
         "f",
-        "d",
-        -287
-      ],
-      [
-        "f",
         "dcaron",
         -522
       ],
@@ -26136,11 +25966,6 @@
         "f",
         "dzcaron",
         -522
-      ],
-      [
-        "f",
-        "e",
-        -272
       ],
       [
         "f",
@@ -26239,11 +26064,6 @@
       ],
       [
         "f",
-        "g",
-        -287
-      ],
-      [
-        "f",
         "gbreve",
         -287
       ],
@@ -26309,11 +26129,6 @@
       ],
       [
         "f",
-        "q",
-        -287
-      ],
-      [
-        "f",
         "quotedbl",
         19
       ],
@@ -26359,11 +26174,6 @@
       ],
       [
         "k",
-        "c",
-        -218
-      ],
-      [
-        "k",
         "cacute",
         -218
       ],
@@ -26389,11 +26199,6 @@
       ],
       [
         "k",
-        "d",
-        -218
-      ],
-      [
-        "k",
         "dcaron",
         -453
       ],
@@ -26401,11 +26206,6 @@
         "k",
         "dzcaron",
         -518
-      ],
-      [
-        "k",
-        "e",
-        -223
       ],
       [
         "k",
@@ -26504,11 +26304,6 @@
       ],
       [
         "k",
-        "g",
-        -218
-      ],
-      [
-        "k",
         "gbreve",
         -218
       ],
@@ -26561,11 +26356,6 @@
         "k",
         "ohornhookabove",
         -223
-      ],
-      [
-        "k",
-        "q",
-        -218
       ],
       [
         "m",
@@ -26830,7 +26620,7 @@
       [
         "public.kern1.A_UC",
         "public.kern2.z_LC",
-        -10
+        -80
       ],
       [
         "public.kern1.C_UC",
@@ -26845,12 +26635,12 @@
       [
         "public.kern1.D_UC",
         "public.kern2.T_UC",
-        -194
+        -154
       ],
       [
         "public.kern1.D_UC",
         "public.kern2.Z_UC",
-        -176
+        -151
       ],
       [
         "public.kern1.D_UC",
@@ -26870,7 +26660,7 @@
       [
         "public.kern1.E_UC",
         "public.kern2.gamma",
-        -138
+        -188
       ],
       [
         "public.kern1.E_UC",
@@ -26880,7 +26670,7 @@
       [
         "public.kern1.E_UC",
         "public.kern2.u_LC",
-        -30
+        -40
       ],
       [
         "public.kern1.K_UC",
@@ -26895,7 +26685,7 @@
       [
         "public.kern1.K_UC",
         "public.kern2.gamma",
-        -181
+        -331
       ],
       [
         "public.kern1.K_UC",
@@ -26960,7 +26750,7 @@
       [
         "public.kern1.T_UC",
         "public.kern2.T_UC",
-        -16
+        -56
       ],
       [
         "public.kern1.T_UC",
@@ -26970,12 +26760,12 @@
       [
         "public.kern1.T_UC",
         "public.kern2.a_LC",
-        -412
+        -372
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.alpha",
-        -419
+        -389
       ],
       [
         "public.kern1.T_UC",
@@ -26990,22 +26780,22 @@
       [
         "public.kern1.T_UC",
         "public.kern2.gamma",
-        -130
+        -410
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.o_LC",
-        -419
+        -379
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.s_LC",
-        -420
+        -400
       ],
       [
         "public.kern1.T_UC",
         "public.kern2.u_LC",
-        -411
+        -340
       ],
       [
         "public.kern1.T_UC",
@@ -27020,7 +26810,7 @@
       [
         "public.kern1.W_UC",
         "public.kern2.T_UC",
-        -7
+        -77
       ],
       [
         "public.kern1.W_UC",
@@ -27065,7 +26855,7 @@
       [
         "public.kern1.Z_UC",
         "public.kern2.gamma",
-        -154
+        -164
       ],
       [
         "public.kern1.Z_UC",
@@ -27403,21 +27193,6 @@
         -490
       ],
       [
-        "r",
-        "f",
-        -76
-      ],
-      [
-        "r",
-        "t",
-        -95
-      ],
-      [
-        "r",
-        "w",
-        -485
-      ],
-      [
         "racute",
         "f",
         -76
@@ -27619,11 +27394,6 @@
       ],
       [
         "t",
-        "o",
-        -413
-      ],
-      [
-        "t",
         "oacute",
         -413
       ],
@@ -27733,11 +27503,6 @@
         -413
       ],
       [
-        "v",
-        "f",
-        -18
-      ],
-      [
         "w",
         "comma",
         -322
@@ -27761,11 +27526,6 @@
         "w",
         "quotesinglbase",
         -332
-      ],
-      [
-        "y",
-        "f",
-        -18
       ],
       [
         "yacute",
@@ -27835,7 +27595,2307 @@
       [
         "public.kern1.T_UC",
         "public.kern2.mnpr_LC",
-        -400
+        -360
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.A_UC",
+        -100
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.CG_UC",
+        -170
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.J_UC",
+        -110
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.S_UC",
+        -105
+      ],
+      [
+        "public.kern1.A_UC",
+        "V",
+        -433
+      ],
+      [
+        "public.kern1.A_UC",
+        "X",
+        -160
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.Y_UC",
+        -440
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.Z_UC",
+        -90
+      ],
+      [
+        "B",
+        "public.kern2.A_UC",
+        -110
+      ],
+      [
+        "B",
+        "public.kern2.CG_UC",
+        -25
+      ],
+      [
+        "B",
+        "public.kern2.T_UC",
+        -110
+      ],
+      [
+        "B",
+        "V",
+        -160
+      ],
+      [
+        "B",
+        "public.kern2.W_UC",
+        -130
+      ],
+      [
+        "B",
+        "X",
+        -170
+      ],
+      [
+        "B",
+        "public.kern2.Y_UC",
+        -195
+      ],
+      [
+        "B",
+        "public.kern2.Z_UC",
+        -90
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.A_UC",
+        -130
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.CG_UC",
+        -20
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.J_UC",
+        -10
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.S_UC",
+        -5
+      ],
+      [
+        "public.kern1.C_UC",
+        "V",
+        -125
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.W_UC",
+        -95
+      ],
+      [
+        "public.kern1.C_UC",
+        "X",
+        -185
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.Y_UC",
+        -170
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.Z_UC",
+        -100
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.J_UC",
+        -40
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.S_UC",
+        -40
+      ],
+      [
+        "public.kern1.D_UC",
+        "V",
+        -160
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.W_UC",
+        -120
+      ],
+      [
+        "public.kern1.D_UC",
+        "X",
+        -230
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.Y_UC",
+        -215
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.A_UC",
+        -130
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.CG_UC",
+        -100
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.J_UC",
+        -60
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.S_UC",
+        -70
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.U_UC",
+        -10
+      ],
+      [
+        "public.kern1.E_UC",
+        "V",
+        -110
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.W_UC",
+        -90
+      ],
+      [
+        "public.kern1.E_UC",
+        "X",
+        -40
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.Y_UC",
+        -130
+      ],
+      [
+        "F",
+        "public.kern2.A_UC",
+        -280
+      ],
+      [
+        "F",
+        "public.kern2.CG_UC",
+        -80
+      ],
+      [
+        "F",
+        "public.kern2.J_UC",
+        -620
+      ],
+      [
+        "F",
+        "public.kern2.S_UC",
+        -80
+      ],
+      [
+        "F",
+        "V",
+        -140
+      ],
+      [
+        "F",
+        "public.kern2.W_UC",
+        -110
+      ],
+      [
+        "F",
+        "X",
+        -180
+      ],
+      [
+        "F",
+        "public.kern2.Y_UC",
+        -150
+      ],
+      [
+        "F",
+        "public.kern2.Z_UC",
+        -70
+      ],
+      [
+        "public.kern1.G_UC",
+        "public.kern2.A_UC",
+        -40
+      ],
+      [
+        "public.kern1.G_UC",
+        "public.kern2.T_UC",
+        -90
+      ],
+      [
+        "public.kern1.G_UC",
+        "V",
+        -120
+      ],
+      [
+        "public.kern1.G_UC",
+        "public.kern2.W_UC",
+        -85
+      ],
+      [
+        "public.kern1.G_UC",
+        "X",
+        -80
+      ],
+      [
+        "public.kern1.G_UC",
+        "public.kern2.Y_UC",
+        -160
+      ],
+      [
+        "public.kern1.JU_UC",
+        "X",
+        -30
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.Z_UC",
+        -10
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.A_UC",
+        -160
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.CG_UC",
+        -250
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.J_UC",
+        -170
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.S_UC",
+        -170
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.T_UC",
+        -200
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.U_UC",
+        -110
+      ],
+      [
+        "public.kern1.K_UC",
+        "V",
+        -200
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.W_UC",
+        -200
+      ],
+      [
+        "public.kern1.K_UC",
+        "X",
+        -160
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.Y_UC",
+        -230
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.Z_UC",
+        -60
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.CG_UC",
+        -160
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.J_UC",
+        -60
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.S_UC",
+        -60
+      ],
+      [
+        "public.kern1.L_UC",
+        "V",
+        -390
+      ],
+      [
+        "public.kern1.L_UC",
+        "X",
+        -190
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.Y_UC",
+        -440
+      ],
+      [
+        "P",
+        "public.kern2.A_UC",
+        -290
+      ],
+      [
+        "P",
+        "public.kern2.CG_UC",
+        -10
+      ],
+      [
+        "P",
+        "public.kern2.J_UC",
+        -650
+      ],
+      [
+        "P",
+        "public.kern2.S_UC",
+        -20
+      ],
+      [
+        "P",
+        "public.kern2.T_UC",
+        -90
+      ],
+      [
+        "P",
+        "V",
+        -110
+      ],
+      [
+        "P",
+        "public.kern2.W_UC",
+        -90
+      ],
+      [
+        "P",
+        "X",
+        -200
+      ],
+      [
+        "P",
+        "public.kern2.Y_UC",
+        -160
+      ],
+      [
+        "P",
+        "public.kern2.Z_UC",
+        -100
+      ],
+      [
+        "Q",
+        "public.kern2.A_UC",
+        -160
+      ],
+      [
+        "Q",
+        "public.kern2.J_UC",
+        -40
+      ],
+      [
+        "Q",
+        "public.kern2.S_UC",
+        -40
+      ],
+      [
+        "Q",
+        "public.kern2.T_UC",
+        -160
+      ],
+      [
+        "Q",
+        "X",
+        -230
+      ],
+      [
+        "Q",
+        "public.kern2.Z_UC",
+        -150
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.A_UC",
+        -110
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.CG_UC",
+        -85
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.J_UC",
+        -140
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.S_UC",
+        -95
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.T_UC",
+        -150
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.U_UC",
+        -60
+      ],
+      [
+        "public.kern1.R_UC",
+        "V",
+        -170
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.W_UC",
+        -146
+      ],
+      [
+        "public.kern1.R_UC",
+        "X",
+        -140
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.Y_UC",
+        -220
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.Z_UC",
+        -90
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.A_UC",
+        -100
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.CG_UC",
+        -30
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.T_UC",
+        -90
+      ],
+      [
+        "public.kern1.S_UC",
+        "V",
+        -120
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.W_UC",
+        -95
+      ],
+      [
+        "public.kern1.S_UC",
+        "X",
+        -150
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.Y_UC",
+        -165
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.Z_UC",
+        -60
+      ],
+      [
+        "public.kern1.T_UC",
+        "public.kern2.CG_UC",
+        -150
+      ],
+      [
+        "public.kern1.T_UC",
+        "V",
+        -90
+      ],
+      [
+        "public.kern1.T_UC",
+        "X",
+        -170
+      ],
+      [
+        "public.kern1.T_UC",
+        "public.kern2.Y_UC",
+        -120
+      ],
+      [
+        "public.kern1.T_UC",
+        "public.kern2.Z_UC",
+        -90
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.A_UC",
+        -120
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.S_UC",
+        -5
+      ],
+      [
+        "V",
+        "public.kern2.A_UC",
+        -440
+      ],
+      [
+        "V",
+        "public.kern2.CG_UC",
+        -160
+      ],
+      [
+        "V",
+        "public.kern2.J_UC",
+        -320
+      ],
+      [
+        "V",
+        "public.kern2.S_UC",
+        -120
+      ],
+      [
+        "V",
+        "public.kern2.T_UC",
+        -80
+      ],
+      [
+        "V",
+        "public.kern2.U_UC",
+        -20
+      ],
+      [
+        "V",
+        "V",
+        -70
+      ],
+      [
+        "V",
+        "public.kern2.W_UC",
+        -70
+      ],
+      [
+        "V",
+        "X",
+        -130
+      ],
+      [
+        "V",
+        "public.kern2.Y_UC",
+        -130
+      ],
+      [
+        "V",
+        "public.kern2.Z_UC",
+        -110
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.CG_UC",
+        -120
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.J_UC",
+        -220
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.S_UC",
+        -90
+      ],
+      [
+        "public.kern1.W_UC",
+        "V",
+        -70
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.W_UC",
+        -70
+      ],
+      [
+        "public.kern1.W_UC",
+        "X",
+        -100
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.Y_UC",
+        -100
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.Z_UC",
+        -90
+      ],
+      [
+        "X",
+        "public.kern2.A_UC",
+        -100
+      ],
+      [
+        "X",
+        "public.kern2.CG_UC",
+        -230
+      ],
+      [
+        "X",
+        "public.kern2.J_UC",
+        -150
+      ],
+      [
+        "X",
+        "public.kern2.S_UC",
+        -150
+      ],
+      [
+        "X",
+        "public.kern2.T_UC",
+        -160
+      ],
+      [
+        "X",
+        "public.kern2.U_UC",
+        -60
+      ],
+      [
+        "X",
+        "V",
+        -130
+      ],
+      [
+        "X",
+        "public.kern2.W_UC",
+        -130
+      ],
+      [
+        "X",
+        "X",
+        -50
+      ],
+      [
+        "X",
+        "public.kern2.Y_UC",
+        -130
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.A_UC",
+        -410
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.CG_UC",
+        -210
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.J_UC",
+        -440
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.S_UC",
+        -160
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.T_UC",
+        -130
+      ],
+      [
+        "public.kern1.Y_UC",
+        "V",
+        -100
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.W_UC",
+        -100
+      ],
+      [
+        "public.kern1.Y_UC",
+        "X",
+        -130
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.Y_UC",
+        -130
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.Z_UC",
+        -140
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.CG_UC",
+        -160
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.J_UC",
+        -70
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.S_UC",
+        -80
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.T_UC",
+        -30
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.U_UC",
+        -30
+      ],
+      [
+        "public.kern1.Z_UC",
+        "V",
+        -40
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.W_UC",
+        -40
+      ],
+      [
+        "public.kern1.Z_UC",
+        "X",
+        -20
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.Y_UC",
+        -40
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.a_LC",
+        -35
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.alpha",
+        -35
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.f_LC",
+        -70
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.o_LC",
+        -35
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.s_LC",
+        -35
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.t_LC",
+        -70
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.u_LC",
+        -35
+      ],
+      [
+        "public.kern1.a_LC",
+        "public.kern2.w_LC",
+        -100
+      ],
+      [
+        "public.kern1.a_LC",
+        "x",
+        -60
+      ],
+      [
+        "public.kern1.b_LC",
+        "public.kern2.a_LC",
+        -15
+      ],
+      [
+        "public.kern1.b_LC",
+        "public.kern2.f_LC",
+        -100
+      ],
+      [
+        "public.kern1.b_LC",
+        "public.kern2.s_LC",
+        -30
+      ],
+      [
+        "public.kern1.b_LC",
+        "public.kern2.t_LC",
+        -100
+      ],
+      [
+        "public.kern1.b_LC",
+        "public.kern2.w_LC",
+        -110
+      ],
+      [
+        "public.kern1.b_LC",
+        "x",
+        -181
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.alpha",
+        -10
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.f_LC",
+        -50
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.o_LC",
+        -20
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.t_LC",
+        -50
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.gamma",
+        -90
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.w_LC",
+        -80
+      ],
+      [
+        "public.kern1.c_LC",
+        "x",
+        -145
+      ],
+      [
+        "public.kern1.c_LC",
+        "public.kern2.z_LC",
+        -50
+      ],
+      [
+        "public.kern1.e_LC",
+        "public.kern2.a_LC",
+        -30
+      ],
+      [
+        "public.kern1.e_LC",
+        "public.kern2.f_LC",
+        -90
+      ],
+      [
+        "public.kern1.e_LC",
+        "public.kern2.s_LC",
+        -40
+      ],
+      [
+        "public.kern1.e_LC",
+        "public.kern2.t_LC",
+        -90
+      ],
+      [
+        "public.kern1.e_LC",
+        "public.kern2.gamma",
+        -120
+      ],
+      [
+        "public.kern1.e_LC",
+        "public.kern2.w_LC",
+        -100
+      ],
+      [
+        "public.kern1.e_LC",
+        "x",
+        -110
+      ],
+      [
+        "public.kern1.e_LC",
+        "public.kern2.z_LC",
+        -30
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.a_LC",
+        -90
+      ],
+      [
+        "public.kern1.hmn_LC",
+        "public.kern2.f_LC",
+        -40
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.alpha",
+        -100
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.f_LC",
+        -100
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.o_LC",
+        -100
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.s_LC",
+        -50
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.t_LC",
+        -70
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.gamma",
+        -80
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.w_LC",
+        -70
+      ],
+      [
+        "public.kern1.f_LC",
+        "x",
+        -140
+      ],
+      [
+        "public.kern1.f_LC",
+        "public.kern2.z_LC",
+        -50
+      ],
+      [
+        "public.kern1.hmn_LC",
+        "public.kern2.t_LC",
+        -30
+      ],
+      [
+        "public.kern1.hmn_LC",
+        "public.kern2.gamma",
+        -90
+      ],
+      [
+        "public.kern1.hmn_LC",
+        "public.kern2.w_LC",
+        -70
+      ],
+      [
+        "public.kern1.hmn_LC",
+        "x",
+        -10
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.a_LC",
+        -130
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.alpha",
+        -200
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.f_LC",
+        -150
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.o_LC",
+        -200
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.s_LC",
+        -130
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.t_LC",
+        -220
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.u_LC",
+        -120
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.gamma",
+        -220
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.w_LC",
+        -220
+      ],
+      [
+        "public.kern1.k_LC",
+        "x",
+        -120
+      ],
+      [
+        "public.kern1.k_LC",
+        "public.kern2.z_LC",
+        -80
+      ],
+      [
+        "public.kern1.o_LC",
+        "public.kern2.a_LC",
+        -20
+      ],
+      [
+        "public.kern1.o_LC",
+        "public.kern2.f_LC",
+        -110
+      ],
+      [
+        "public.kern1.o_LC",
+        "public.kern2.s_LC",
+        -30
+      ],
+      [
+        "public.kern1.o_LC",
+        "public.kern2.t_LC",
+        -110
+      ],
+      [
+        "public.kern1.o_LC",
+        "public.kern2.w_LC",
+        -110
+      ],
+      [
+        "public.kern1.o_LC",
+        "x",
+        -190
+      ],
+      [
+        "public.kern1.r_LC",
+        "public.kern2.s_LC",
+        -60
+      ],
+      [
+        "public.kern1.r_LC",
+        "public.kern2.w_LC",
+        -10
+      ],
+      [
+        "public.kern1.r_LC",
+        "x",
+        -40
+      ],
+      [
+        "public.kern1.s_LC",
+        "public.kern2.alpha",
+        -20
+      ],
+      [
+        "public.kern1.s_LC",
+        "public.kern2.f_LC",
+        -40
+      ],
+      [
+        "public.kern1.s_LC",
+        "public.kern2.o_LC",
+        -25
+      ],
+      [
+        "public.kern1.s_LC",
+        "public.kern2.t_LC",
+        -40
+      ],
+      [
+        "public.kern1.s_LC",
+        "public.kern2.gamma",
+        -90
+      ],
+      [
+        "public.kern1.s_LC",
+        "public.kern2.w_LC",
+        -70
+      ],
+      [
+        "public.kern1.s_LC",
+        "x",
+        -120
+      ],
+      [
+        "public.kern1.s_LC",
+        "public.kern2.z_LC",
+        -30
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.a_LC",
+        -50
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.alpha",
+        -100
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.f_LC",
+        -60
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.o_LC",
+        -100
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.s_LC",
+        -40
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.t_LC",
+        -70
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.gamma",
+        -80
+      ],
+      [
+        "public.kern1.t_LC",
+        "public.kern2.w_LC",
+        -80
+      ],
+      [
+        "public.kern1.t_LC",
+        "x",
+        -20
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.f_LC",
+        -80
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.s_LC",
+        -100
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.t_LC",
+        -100
+      ],
+      [
+        "public.kern1.gamma",
+        "x",
+        -110
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.z_LC",
+        -90
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.a_LC",
+        -120
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.alpha",
+        -110
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.f_LC",
+        -80
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.o_LC",
+        -110
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.s_LC",
+        -80
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.t_LC",
+        -70
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.gamma",
+        -50
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.w_LC",
+        -50
+      ],
+      [
+        "public.kern1.w_LC",
+        "x",
+        -70
+      ],
+      [
+        "public.kern1.w_LC",
+        "public.kern2.z_LC",
+        -70
+      ],
+      [
+        "x",
+        "public.kern2.a_LC",
+        -120
+      ],
+      [
+        "x",
+        "public.kern2.alpha",
+        -190
+      ],
+      [
+        "x",
+        "public.kern2.f_LC",
+        -140
+      ],
+      [
+        "x",
+        "public.kern2.o_LC",
+        -190
+      ],
+      [
+        "x",
+        "public.kern2.s_LC",
+        -130
+      ],
+      [
+        "x",
+        "public.kern2.t_LC",
+        -160
+      ],
+      [
+        "x",
+        "public.kern2.u_LC",
+        -40
+      ],
+      [
+        "x",
+        "public.kern2.gamma",
+        -100
+      ],
+      [
+        "x",
+        "public.kern2.w_LC",
+        -90
+      ],
+      [
+        "x",
+        "x",
+        -60
+      ],
+      [
+        "x",
+        "public.kern2.z_LC",
+        -20
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.gamma",
+        -60
+      ],
+      [
+        "public.kern1.gamma",
+        "public.kern2.w_LC",
+        -60
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.a_LC",
+        -30
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.f_LC",
+        -20
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.s_LC",
+        -40
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.t_LC",
+        -20
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.u_LC",
+        -24
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.gamma",
+        -30
+      ],
+      [
+        "public.kern1.z_LC",
+        "public.kern2.w_LC",
+        -30
+      ],
+      [
+        "public.kern1.z_LC",
+        "x",
+        -40
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.a_LC",
+        -80
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.alpha",
+        -120
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.f_LC",
+        -160
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.s_LC",
+        -80
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.t_LC",
+        -230
+      ],
+      [
+        "public.kern1.A_UC",
+        "public.kern2.w_LC",
+        -270
+      ],
+      [
+        "public.kern1.A_UC",
+        "x",
+        -140
+      ],
+      [
+        "B",
+        "public.kern2.a_LC",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.alpha",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.f_LC",
+        -60
+      ],
+      [
+        "B",
+        "public.kern2.o_LC",
+        -5
+      ],
+      [
+        "B",
+        "public.kern2.s_LC",
+        -10
+      ],
+      [
+        "B",
+        "public.kern2.t_LC",
+        -60
+      ],
+      [
+        "B",
+        "public.kern2.gamma",
+        -70
+      ],
+      [
+        "B",
+        "public.kern2.w_LC",
+        -70
+      ],
+      [
+        "B",
+        "x",
+        -100
+      ],
+      [
+        "B",
+        "public.kern2.z_LC",
+        -70
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.a_LC",
+        -10
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.alpha",
+        -10
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.f_LC",
+        -10
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.s_LC",
+        -20
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.gamma",
+        -20
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.w_LC",
+        -20
+      ],
+      [
+        "public.kern1.C_UC",
+        "x",
+        -40
+      ],
+      [
+        "public.kern1.C_UC",
+        "public.kern2.z_LC",
+        -10
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.a_LC",
+        -45
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.f_LC",
+        -20
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.s_LC",
+        -25
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.t_LC",
+        -20
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.gamma",
+        -50
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.w_LC",
+        -40
+      ],
+      [
+        "public.kern1.D_UC",
+        "x",
+        -80
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.z_LC",
+        -20
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.a_LC",
+        -40
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.f_LC",
+        -150
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.s_LC",
+        -40
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.t_LC",
+        -180
+      ],
+      [
+        "public.kern1.E_UC",
+        "public.kern2.w_LC",
+        -180
+      ],
+      [
+        "public.kern1.E_UC",
+        "x",
+        -180
+      ],
+      [
+        "F",
+        "public.kern2.a_LC",
+        -170
+      ],
+      [
+        "F",
+        "public.kern2.alpha",
+        -100
+      ],
+      [
+        "F",
+        "public.kern2.f_LC",
+        -170
+      ],
+      [
+        "F",
+        "public.kern2.mnpr_LC",
+        -80
+      ],
+      [
+        "F",
+        "public.kern2.o_LC",
+        -90
+      ],
+      [
+        "F",
+        "public.kern2.s_LC",
+        -110
+      ],
+      [
+        "F",
+        "public.kern2.t_LC",
+        -170
+      ],
+      [
+        "F",
+        "public.kern2.u_LC",
+        -80
+      ],
+      [
+        "F",
+        "public.kern2.gamma",
+        -190
+      ],
+      [
+        "F",
+        "public.kern2.w_LC",
+        -170
+      ],
+      [
+        "F",
+        "x",
+        -280
+      ],
+      [
+        "F",
+        "public.kern2.z_LC",
+        -210
+      ],
+      [
+        "public.kern1.G_UC",
+        "public.kern2.gamma",
+        -80
+      ],
+      [
+        "public.kern1.G_UC",
+        "public.kern2.w_LC",
+        -60
+      ],
+      [
+        "public.kern1.G_UC",
+        "x",
+        -80
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.s_LC",
+        -20
+      ],
+      [
+        "public.kern1.JU_UC",
+        "x",
+        -20
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.z_LC",
+        -10
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.a_LC",
+        -130
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.f_LC",
+        -170
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.s_LC",
+        -130
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.t_LC",
+        -260
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.w_LC",
+        -270
+      ],
+      [
+        "public.kern1.K_UC",
+        "x",
+        -140
+      ],
+      [
+        "public.kern1.K_UC",
+        "public.kern2.z_LC",
+        -120
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.a_LC",
+        -40
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.alpha",
+        -100
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.f_LC",
+        -150
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.o_LC",
+        -110
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.s_LC",
+        -40
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.t_LC",
+        -190
+      ],
+      [
+        "public.kern1.L_UC",
+        "public.kern2.w_LC",
+        -230
+      ],
+      [
+        "public.kern1.L_UC",
+        "x",
+        -170
+      ],
+      [
+        "public.kern1.D_UC",
+        "public.kern2.o_LC",
+        -5
+      ],
+      [
+        "P",
+        "public.kern2.a_LC",
+        -85
+      ],
+      [
+        "P",
+        "public.kern2.alpha",
+        -80
+      ],
+      [
+        "P",
+        "public.kern2.o_LC",
+        -80
+      ],
+      [
+        "P",
+        "public.kern2.s_LC",
+        -45
+      ],
+      [
+        "P",
+        "public.kern2.gamma",
+        -20
+      ],
+      [
+        "P",
+        "public.kern2.w_LC",
+        -20
+      ],
+      [
+        "P",
+        "x",
+        -60
+      ],
+      [
+        "P",
+        "public.kern2.z_LC",
+        -10
+      ],
+      [
+        "Q",
+        "public.kern2.a_LC",
+        -45
+      ],
+      [
+        "Q",
+        "public.kern2.f_LC",
+        -20
+      ],
+      [
+        "Q",
+        "public.kern2.s_LC",
+        -25
+      ],
+      [
+        "Q",
+        "public.kern2.t_LC",
+        -10
+      ],
+      [
+        "Q",
+        "public.kern2.gamma",
+        -50
+      ],
+      [
+        "Q",
+        "public.kern2.w_LC",
+        -50
+      ],
+      [
+        "Q",
+        "x",
+        -70
+      ],
+      [
+        "Q",
+        "public.kern2.z_LC",
+        -20
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.a_LC",
+        -104
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.bhk_LC",
+        -20
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.alpha",
+        -150
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.f_LC",
+        -70
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.i_LC",
+        -20
+      ],
+      [
+        "public.kern1.R_UC",
+        "j",
+        -20
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.mnpr_LC",
+        -20
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.o_LC",
+        -150
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.s_LC",
+        -110
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.t_LC",
+        -70
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.u_LC",
+        -65
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.gamma",
+        -90
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.w_LC",
+        -90
+      ],
+      [
+        "public.kern1.R_UC",
+        "x",
+        -80
+      ],
+      [
+        "public.kern1.R_UC",
+        "public.kern2.z_LC",
+        -30
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.alpha",
+        -10
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.f_LC",
+        -30
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.o_LC",
+        -10
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.t_LC",
+        -30
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.gamma",
+        -100
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.w_LC",
+        -100
+      ],
+      [
+        "public.kern1.S_UC",
+        "x",
+        -140
+      ],
+      [
+        "public.kern1.S_UC",
+        "public.kern2.z_LC",
+        -50
+      ],
+      [
+        "public.kern1.T_UC",
+        "public.kern2.f_LC",
+        -170
+      ],
+      [
+        "public.kern1.T_UC",
+        "public.kern2.t_LC",
+        -180
+      ],
+      [
+        "public.kern1.T_UC",
+        "public.kern2.w_LC",
+        -410
+      ],
+      [
+        "public.kern1.T_UC",
+        "x",
+        -390
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.a_LC",
+        -10
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.gamma",
+        -10
+      ],
+      [
+        "public.kern1.JU_UC",
+        "public.kern2.w_LC",
+        -10
+      ],
+      [
+        "V",
+        "public.kern2.a_LC",
+        -240
+      ],
+      [
+        "V",
+        "public.kern2.alpha",
+        -240
+      ],
+      [
+        "V",
+        "public.kern2.f_LC",
+        -120
+      ],
+      [
+        "V",
+        "j",
+        -10
+      ],
+      [
+        "V",
+        "public.kern2.i_LC",
+        -10
+      ],
+      [
+        "V",
+        "public.kern2.mnpr_LC",
+        -110
+      ],
+      [
+        "V",
+        "public.kern2.o_LC",
+        -230
+      ],
+      [
+        "V",
+        "public.kern2.s_LC",
+        -208
+      ],
+      [
+        "V",
+        "public.kern2.t_LC",
+        -120
+      ],
+      [
+        "V",
+        "public.kern2.u_LC",
+        -120
+      ],
+      [
+        "V",
+        "public.kern2.gamma",
+        -130
+      ],
+      [
+        "V",
+        "public.kern2.w_LC",
+        -130
+      ],
+      [
+        "V",
+        "x",
+        -150
+      ],
+      [
+        "V",
+        "public.kern2.z_LC",
+        -130
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.f_LC",
+        -90
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.i_LC",
+        -10
+      ],
+      [
+        "public.kern1.W_UC",
+        "j",
+        -10
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.s_LC",
+        -150
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.t_LC",
+        -80
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.gamma",
+        -90
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.w_LC",
+        -90
+      ],
+      [
+        "public.kern1.W_UC",
+        "x",
+        -110
+      ],
+      [
+        "public.kern1.W_UC",
+        "public.kern2.z_LC",
+        -90
+      ],
+      [
+        "X",
+        "public.kern2.a_LC",
+        -125
+      ],
+      [
+        "X",
+        "public.kern2.alpha",
+        -190
+      ],
+      [
+        "X",
+        "public.kern2.f_LC",
+        -160
+      ],
+      [
+        "X",
+        "public.kern2.i_LC",
+        -10
+      ],
+      [
+        "X",
+        "j",
+        -10
+      ],
+      [
+        "X",
+        "public.kern2.o_LC",
+        -190
+      ],
+      [
+        "X",
+        "public.kern2.mnpr_LC",
+        -20
+      ],
+      [
+        "X",
+        "public.kern2.s_LC",
+        -125
+      ],
+      [
+        "X",
+        "public.kern2.t_LC",
+        -240
+      ],
+      [
+        "X",
+        "public.kern2.u_LC",
+        -125
+      ],
+      [
+        "X",
+        "public.kern2.gamma",
+        -250
+      ],
+      [
+        "X",
+        "public.kern2.w_LC",
+        -240
+      ],
+      [
+        "X",
+        "x",
+        -150
+      ],
+      [
+        "X",
+        "public.kern2.z_LC",
+        -100
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.a_LC",
+        -320
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.alpha",
+        -330
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.f_LC",
+        -180
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.i_LC",
+        -20
+      ],
+      [
+        "public.kern1.Y_UC",
+        "j",
+        -20
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.bhk_LC",
+        -10
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.mnpr_LC",
+        -170
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.o_LC",
+        -310
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.s_LC",
+        -280
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.t_LC",
+        -180
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.u_LC",
+        -170
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.gamma",
+        -190
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.w_LC",
+        -190
+      ],
+      [
+        "public.kern1.Y_UC",
+        "x",
+        -220
+      ],
+      [
+        "public.kern1.Y_UC",
+        "public.kern2.z_LC",
+        -190
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.a_LC",
+        -40
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.f_LC",
+        -150
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.s_LC",
+        -40
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.t_LC",
+        -180
+      ],
+      [
+        "public.kern1.Z_UC",
+        "public.kern2.w_LC",
+        -170
+      ],
+      [
+        "public.kern1.Z_UC",
+        "x",
+        -130
       ]
     ]
   }
