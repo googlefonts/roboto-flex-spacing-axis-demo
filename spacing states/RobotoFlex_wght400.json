@@ -9739,11 +9739,11 @@
       },
       "f_f_i": {
         "leftMargin": 10,
-        "width": 1515
+        "width": 1538
       },
       "f_f_ij": {
         "leftMargin": 10,
-        "width": 2015
+        "width": 2038
       },
       "f_f_l": {
         "leftMargin": 10,
@@ -9751,11 +9751,11 @@
       },
       "f_ij": {
         "leftMargin": 10,
-        "width": 1415
+        "width": 1438
       },
       "fi": {
         "leftMargin": 10,
-        "width": 915
+        "width": 938
       },
       "finalsigma": {
         "leftMargin": 10,
@@ -10207,7 +10207,7 @@
       },
       "lcaron": {
         "leftMargin": 10,
-        "width": 206
+        "width": 668
       },
       "lcommaaccent": {
         "leftMargin": -34,
@@ -10215,7 +10215,7 @@
       },
       "ldot": {
         "leftMargin": 10,
-        "width": 206
+        "width": 655
       },
       "leftanglebracket": {
         "leftMargin": 10,
@@ -10870,6 +10870,9 @@
       },
       "softhyphen": {
         "width": 0
+      },
+      "space": {
+        "width": 500
       },
       "sterling": {
         "leftMargin": 10,
