@@ -9,8 +9,6 @@ Contents of this repository
 
 ```
 Roboto Flex SPAC
-├── kerning
-│   └── *.txt
 ├── scripts
 │   └── *.py
 ├── spacing states
@@ -20,8 +18,6 @@ Roboto Flex SPAC
 ```
 
 <dl>
-<dt>kerning
-<dd>text files used for editing kerning pairs in UFO sources
 <dt>scripts
 <dd>various scripts to transform the sources and build the variable font
 <dt>spacing states
