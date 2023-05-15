@@ -19,7 +19,7 @@ from fontParts.world import OpenFont
 import variableSpacing as vs
 
 drawingsFolder     = '1A-drawings'
-sourcesSubFolders  = ['Mains', 'Duovars']
+sourcesSubFolders  = ['Mains', 'Duovars', 'Trivars']
 
 # ---------------
 # script settings

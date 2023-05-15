@@ -25,13 +25,13 @@ sourcesFolder = '/Users/sergiogonzalez/Desktop/hipertipo/fonts/roboto-flex/sourc
 
 _addLooseSpacingState = True
 _scaleLooseState      = 200
-_addTightSpacingState = True
+_addTightSpacingState = False
 _marginTightState     = 10
 _checkSpacingStates   = True
 _findNegativeWidths   = False
 
 drawingsFolder        = '1A-drawings'
-sourcesSubFolders     = ['Trivars'] # ['Mains', 'Duovars']
+sourcesSubFolders     = ['Trivars'] # 'Duovars' 'Mains' 
 
 # ---------
 # do stuff!
@@ -61,14 +61,18 @@ if _addLooseSpacingState or _addTightSpacingState:
         if _addLooseSpacingState:
             print(f"creating 'loose' spacing state in {ufoPath}...")
 
-            # increase all glyph margins by % -- DO NOT modify space glyph
-            vs.smartSetMargins(f, f.glyphOrder, leftMargin=_scaleLooseState, leftMode=2, rightMargin=_scaleLooseState, rightMode=2, setUndo=False)
+            D = f['space'].width / 4
+
+            # increase all glyph margins -- DO NOT modify space glyph
+            vs.smartSetMargins(f, f.glyphOrder, leftMargin=D, leftMode=1, rightMargin=D, rightMode=1, setUndo=False)
+            # vs.smartSetMargins(f, f.glyphOrder, leftMargin=_scaleLooseState, leftMode=2, rightMargin=_scaleLooseState, rightMode=2, setUndo=False)
+            # vs.smarSetWidth(f, f.glyphOrder, _scaleLooseState, mode=1)
 
             # set all kerning to zero
-            kerning = {}
-            for pair, value in f.kerning.items():
-                kerning[pair] = 1 if value > 0 else -1
-            f.kerning.update(kerning)
+            # kerning = {}
+            # for pair, value in f.kerning.items():
+            #     kerning[pair] = 1 if value > 0 else -1
+            # f.kerning.update(kerning)
 
             # save the new 'loose' spacing state
             vs.saveSpacingToLib(f, 'loose')
