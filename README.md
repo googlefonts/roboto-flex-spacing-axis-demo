@@ -48,23 +48,23 @@ Roboto Flex SPAC is built on top of the sources and designspace of Roboto Flex.
 
 3. A variable font is then generated from this new designspace using the standard `fontmake` pipeline.
 
-4. The new Roboto Flex SPAC can be compared to Roboto Flex using a [custom testing page](http://gferreira.github.io/roboto-flex-spac/) which synchronizes the spacing axis value in the first with the tracking value in the second, and vice-versa.
+4. The new Roboto Flex SPAC can then be compared to Roboto Flex using a [custom testing page](http://gferreira.github.io/roboto-flex-spac/) which synchronizes the spacing axis value in the first with the tracking value in the second, and vice-versa.
 
 ### Creation of “tight” and “loose” spacing states
 
 Variations of the default spacing are created by the designer with help of [VariableSpacing] tools. During the design stage, all the different versions of a font’s spacing can be stored inside the same UFO source. When it’s time to generate a variable font, these different *spacing states* are exported as separate UFOs.
 
-It is essential that the width of the `space` glyph remains unaltered accross spacing states, as the reference point for all spacing variation. If a change to the width of the space is needed, it must be implemented through a separate mechanism (for example as a separate axis, or provided automatically by an application).  
+It is essential that the width of the `space` glyph remains unaltered accross spacing states, as it is the reference point for all spacing variation. If a change to the width of the space is needed, it must be implemented through a separate mechanism (for example as a separate axis, or provided automatically by an application).  
 
-Is is important that values in the spacing axis are more or less equivalent to tracking values. That is, setting the spacing axis value to `-50` should produce the same overall tightness than setting tracking to `-50`. The sweetspot can be found with help of the testing page after a few iterations.
+It is also important that values in the spacing axis are more or less equivalent to tracking values in terms of overall text color. That is, setting the spacing axis value to `-50` should produce the same perceived tightness than setting tracking to `-50`. The sweetspot can be found with help of the testing page after a few iterations.
 
 ### The “tight” spacing state
 
-In the *tight* spacing state, glyphs can almost touch. The font’s default spacing was modified by the designer using the tool [smart set margins](#), which reduces all glyph margins to 10 units while making sure that all components stay in place. Some glyphs like `i`, `j`, `f` need a second, manual pass using a beam at specific y-positions.
+In the *tight* spacing state, glyphs can almost touch. The font’s default spacing was modified by the designer using the tool [smart set margins](https://hipertipo.gitlab.io/VariableSpacing//reference/set-margins-tool/), which reduces all glyph margins to a desired value (in this case 10 units) while making sure that all components stay in place. Some glyphs like `i`, `j`, `f` need a second manual pass using a horizontal beam to measure margins at specific vertical positions.
 
-The bottleneck of the whole workflow is defining the tight kerning values. A script (which employs the collision-detection code of the [Touché](http://github.com/ninastoessinger/Touche) extension) can be used to approximate the results, which still need to be checked visually and fine-tuned by hand, for all sources. The designer must make aesthetic decisions about which glyph pairs are allowed to touch and produce ligatures (for example `TV`, `KY`, `LX` etc), and which don’t – there is no additional parameter to control this aspect (as there is in [HEX Franklin Tyght](http://hex.xyz/HEX_Franklin/Tyght/)).
+The bottleneck of the whole workflow is defining the tight kerning values. A script (which employs the collision-detection code of the [Touché](http://github.com/ninastoessinger/Touche) extension) can be used to approximate the results, which then still need to be checked visually and fine-tuned by hand, for all sources. The designer must make aesthetic decisions about which glyph pairs are allowed to touch and produce ligatures (for example `TV`, `KY`, `LX` etc), and which don’t – there is no additional parameter to control this aspect (as there is in [HEX Franklin Tyght](http://hex.xyz/HEX_Franklin/Tyght/), for example).
 
-For this demonstation, only basic tight kerning was created for combinations of UC/UC, UC/lc and lc/lc. This work was done manually and was very time-consuming. The full implementation of tight kerning in all sources would require some form of automation, as provided by tools like [iKern](http://www.ikern.space), [KernOn](https://kern-on.com) or other.
+For the purpose of this demonstation, only basic tight kerning was created for combinations of UC/UC, UC/lc and lc/lc. This work was done manually and was very time-consuming. The full implementation of tight kerning in all sources would require some form of automation, as provided by tools like [iKern](http://www.ikern.space), [KernOn](https://kern-on.com), or other.
 
 ### The “loose” spacing state
 
@@ -72,7 +72,7 @@ In the *loose* spacing state, the space between glyphs is almost as large as the
 
 ### Remaining issues
 
-There is currently no special handling for ligatures and digraph glyphs, which look odd when the spacing axis is close to the minimum (tight) or maximum (loose) ends of the axis. In comparison, automatic tracking usually disables ligatures when tracking exceeds a certain value. Similar behavior could be implemented in the spacing axis by adding glyph shape variations to spacing states – for more info see [add support for glyph shape variation along the spacing axis ](https://github.com/gferreira/VariableSpacing/issues/5).
+There is currently no special handling for ligature and digraph glyphs, which look odd when the spacing axis value is close to the minimum (tight) or maximum (loose) ends of the axis. In comparison, automatic tracking usually disables ligatures when tracking exceeds a certain value. Similar behavior could be implemented in the spacing axis by adding glyph shape variations to spacing states – for more info see [add support for glyph shape variation along the spacing axis](https://github.com/gferreira/VariableSpacing/issues/5).
 
 
 [Roboto Flex]: http://github.com/googlefonts/roboto-flex
