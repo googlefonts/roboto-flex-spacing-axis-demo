@@ -1,7 +1,7 @@
 Roboto Flex SPAC
 ================
 
-Adding a spacing axis to [Roboto Flex] using the [VariableSpacing] data format and tools.
+Adding a spacing axis to [Roboto Flex] using the [VariableSpacing] tools and data format.
 
 
 Contents of this repository
@@ -19,9 +19,9 @@ Roboto Flex SPAC
 
 <dl>
 <dt>scripts
-<dd>various scripts to transform the sources and build the variable font
+<dd>various scripts to transform the UFO sources and build the variable font
 <dt>spacing states
-<dd>source UFO spacing states data in JSON format
+<dd>spacing state data in JSON format for all sources
 <dt><a href='http://gferreira.github.io/roboto-flex-spac/'>index.html</a>
 <dd>comparison between spacing axis and tracking
 <dt>Roboto-Flex_SPAC.ttf
@@ -34,7 +34,7 @@ About the project
 
 Roboto Flex SPAC is an experimental version of [Roboto Flex] which includes an additional *spacing* axis (`SPAC`).
 
-The spacing axis is a new way to modify the default spacing of a font. While the automatic tracking function provided by applications adds a fixed value to all glyph widths, the spacing axis allows the designer to define **proportional** changes to the glyph margins, and a separate set of kerning values too.
+The spacing axis offers a new way to modify the default spacing of a font. While the automatic tracking function provided by applications adds a fixed value to all glyph widths, the spacing axis allows the designer to define **proportional** changes to the glyph margins, and use a different set of kerning values as well.
 
 
 Notes on the workflow
@@ -42,9 +42,9 @@ Notes on the workflow
 
 Roboto Flex SPAC is built on top of the sources and designspace of Roboto Flex.
 
-1. For each source in the `Mains`, `Duovars` and `Trivars` folders, with the exception of `GRAD` sources, two new “tight” and “loose” spacing sources are created. A new set of tools assist in this process. (More about this below.) 
+1. For each source in the `Mains`, `Duovars` and `Trivars` folders, with the exception of `GRAD` sources, two new “tight” and “loose” spacing sources are created. This process is assisted by a new set of tools and a custom data format.
 
-2. The original designspace is modified with the insertion of a new *spacing* axis (`SPAC`), and of all new “tight” and “loose” spacing sources produced in step (1), in their appropriate min/max locations on that axis.
+2. The original designspace is extended with the addition of a new *spacing* axis (`SPAC`), and the insertion of all new “tight” and “loose” spacing sources produced in step (1) in their appropriate min/max locations on that axis.
 
 3. A variable font is then generated from this new designspace using the standard `fontmake` pipeline.
 
@@ -52,7 +52,7 @@ Roboto Flex SPAC is built on top of the sources and designspace of Roboto Flex.
 
 ### Creation of “tight” and “loose” spacing states
 
-Variations of the default spacing are created by the designer with help of [VariableSpacing] tools. During the design stage, all the different versions of a font’s spacing can be stored in the same source. When it’s time to generate a variable font, the different spacing states are exported as separate UFOs.
+Variations of the default spacing are created by the designer with help of [VariableSpacing] tools. During the design stage, all the different versions of a font’s spacing can be stored inside the same UFO source. When it’s time to generate a variable font, these different *spacing states* are exported as separate UFOs.
 
 It is essential that the width of the `space` glyph remains unaltered accross spacing states, as the reference point for all spacing variation. If a change to the width of the space is needed, it must be implemented through a separate mechanism (for example as a separate axis, or provided automatically by an application).  
 
