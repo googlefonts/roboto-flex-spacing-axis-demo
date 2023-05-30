@@ -48,7 +48,7 @@ Roboto Flex SPAC is built on top of the sources and designspace of Roboto Flex.
 
 3. A variable font is then generated from this new designspace using the standard `fontmake` pipeline.
 
-4. The new Roboto Flex SPAC can then be compared to Roboto Flex using a [custom testing page](http://gferreira.github.io/roboto-flex-spac/) which synchronizes the spacing axis value in the first with the tracking value in the second, and vice-versa.
+4. The new Roboto Flex SPAC can be compared to Roboto Flex using a [custom testing page](http://gferreira.github.io/roboto-flex-spac/) which synchronizes the spacing axis value in the first with the tracking value in the second, and vice-versa.
 
 ### Creation of “tight” and “loose” spacing states
 
@@ -56,7 +56,7 @@ Variations of the default spacing are created by the designer with help of [Vari
 
 It is essential that the width of the `space` glyph remains unaltered accross spacing states, as it is the reference point for all spacing variation. If a change to the width of the space is needed, it must be implemented through a separate mechanism (for example as a separate axis, or provided automatically by an application).  
 
-It is also important that values in the spacing axis are more or less equivalent to tracking values in terms of overall text color. That is, setting the spacing axis value to `-50` should produce the same perceived tightness than setting tracking to `-50`. The sweetspot can be found with help of the testing page after a few iterations.
+It is also important that values in the spacing axis are more or less equivalent to tracking values in terms of overall text color. That is, setting the spacing axis value to `-50` should produce the same perceived tightness as setting tracking to `-50`. The optimal values were found with help of the testing page after a few iterations.
 
 ### The “tight” spacing state
 
@@ -64,7 +64,7 @@ In the *tight* spacing state, glyphs can almost touch. The font’s default spac
 
 The bottleneck of the whole workflow is defining the tight kerning values. A script (which employs the collision-detection code of the [Touché](http://github.com/ninastoessinger/Touche) extension) can be used to approximate the results, which then still need to be checked visually and fine-tuned by hand, for all sources. The designer must make aesthetic decisions about which glyph pairs are allowed to touch and produce ligatures (for example `TV`, `KY`, `LX` etc), and which don’t – there is no additional parameter to control this aspect (as there is in [HEX Franklin Tyght](http://hex.xyz/HEX_Franklin/Tyght/), for example).
 
-For the purpose of this demonstation, only basic tight kerning was created for combinations of UC/UC, UC/lc and lc/lc. This work was done manually and was very time-consuming. The full implementation of tight kerning in all sources would require some form of automation, as provided by tools like [iKern](http://www.ikern.space), [KernOn](https://kern-on.com), or other.
+For the purpose of this demonstation, only basic tight kerning was created for combinations of UC/UC, UC/lc and lc/lc. This work was done manually and was very time-consuming. The full implementation of tight kerning in all sources would require some form of automation, as provided by tools like [iKern](http://www.ikern.space), [KernOn](https://kern-on.com), or similar.
 
 ### The “loose” spacing state
 
