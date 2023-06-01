@@ -60,7 +60,7 @@ It is also important that values in the spacing axis are more or less equivalent
 
 ### The “tight” spacing state
 
-In the *tight* spacing state, glyphs can almost touch. The font’s default spacing was modified by the designer using the tool [smart set margins](https://hipertipo.gitlab.io/VariableSpacing//reference/set-margins-tool/), which reduces all glyph margins to a desired value (in this case 10 units) while making sure that all components stay in place. Some glyphs like `i`, `j`, `f` need a second manual pass using a horizontal beam to measure margins at specific vertical positions.
+In the *tight* spacing state, glyphs can almost touch. The font’s default spacing was modified by the designer using the tool [smart set margins](https://hipertipo.gitlab.io/VariableSpacing/set-margins-tool/), which reduces all glyph margins to a desired value (in this case 10 units) while making sure that all components stay in place. Some glyphs like `i`, `j`, `f` need a second manual pass using a horizontal beam to measure margins at specific vertical positions.
 
 The bottleneck of the whole workflow is defining the tight kerning values. A script (which employs the collision-detection code of the [Touché](http://github.com/ninastoessinger/Touche) extension) can be used to approximate the results, which then still need to be checked visually and fine-tuned by hand, for all sources. The designer must make aesthetic decisions about which glyph pairs are allowed to touch and produce ligatures (for example `TV`, `KY`, `LX` etc), and which don’t – there is no additional parameter to control this aspect (as there is in [HEX Franklin Tyght](http://hex.xyz/HEX_Franklin/Tyght/), for example).
 
