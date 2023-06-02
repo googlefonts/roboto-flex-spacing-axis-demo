@@ -70,6 +70,10 @@ For the purpose of this demonstation, only basic tight kerning was created for c
 
 In the *loose* spacing state, the space between glyphs is almost as large as the word space. The font’s default spacing is modified automatically with a script, using an approach similar to positive tracking: a fixed number of units is added to the margins of all glyphs. The kerning values were not changed (maybe they should be).
 
+### Updating the font
+
+During development, the spacing states are stored inside the Roboto Flex sources for convenience. But they can also be exported to separate files. This way, if the original Roboto Flex files change, we can simply import the spacing states on top of them again.
+
 ### Remaining issues
 
 There is currently no special handling for ligature and digraph glyphs, which look odd when the spacing axis value is close to the minimum (tight) or maximum (loose) ends of the axis. In comparison, automatic tracking usually disables ligatures when tracking exceeds a certain value. Similar behavior could be implemented in the spacing axis by adding glyph shape variations to spacing states – for more info see [add support for glyph shape variation along the spacing axis](https://github.com/gferreira/VariableSpacing/issues/5).
