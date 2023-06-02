@@ -72,7 +72,7 @@ In the *loose* spacing state, the space between glyphs is almost as large as the
 
 ### Updating the font
 
-During development, the spacing states are stored inside the Roboto Flex sources for convenience. But they can also be exported to separate files. This way, if the original Roboto Flex files change, we can simply import the spacing states on top of them again.
+During development, the spacing states are stored inside the Roboto Flex sources for convenience. They can also be exported to separate data files. If the original Roboto Flex files change, we can import the spacing states from these data files on top of the new sources to create a fresh version of Roboto Flex SPAC.
 
 ### Remaining issues
 
