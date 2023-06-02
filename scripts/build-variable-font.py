@@ -34,7 +34,6 @@ from operator import attrgetter
 from defcon import Font
 from fontTools.designspaceLib import DesignSpaceDocument, AxisDescriptor, SourceDescriptor
 from fontmake.font_project import FontProject
-from hTools3.modules.webfonts import sfnt2woff2
 from variableSpacing import buildSpacingSources
 
 # --------
@@ -55,6 +54,18 @@ designspacePathNew    = designspacePath.replace('.designspace', '_SPAC.designspa
 # output
 varFontPath           = os.path.join(outputFolder, 'Roboto-Flex_SPAC.ttf')
 prefix                = '_SPAC-'
+
+# ---------
+# functions
+# ---------
+
+def sfnt2woff2(fontPath, woff2Path=None):
+    '''Generate a .woff2 file from an .otf or .ttf font.'''
+    font = TTFont(fontPath)
+    font.flavor = "woff2"
+    if not woff2Path:
+        woff2Path = f'{os.path.splitext(fontPath)[0]}.woff2'
+    font.save(woff2Path)
 
 # ------
 # build!
