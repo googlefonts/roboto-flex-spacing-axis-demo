@@ -1,5 +1,5 @@
 {
-  "com.hipertipo.spacingaxis.spacing": {
+  "com.fontbureau.variableSpacing.spacing": {
     "default": {
       ".notdef": {
         "leftMargin": 100,
@@ -11356,7 +11356,7 @@
       }
     }
   },
-  "com.hipertipo.spacingaxis.kerning": {
+  "com.fontbureau.variableSpacing.kerning": {
     "default": [
       [
         "B",
